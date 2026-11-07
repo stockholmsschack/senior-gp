@@ -1,0 +1,5032 @@
+{
+  "remainder": [
+    "347314",
+    "348166",
+    "348184",
+    "348478",
+    "348766",
+    "348796",
+    "348980",
+    "350120",
+    "350128",
+    "350203",
+    "350290",
+    "350300",
+    "350329",
+    "350591",
+    "352398",
+    "356283",
+    "357116",
+    "357179",
+    "357308",
+    "357363",
+    "357370",
+    "357663",
+    "358866",
+    "359325",
+    "360888",
+    "364022",
+    "364023",
+    "364026",
+    "364192",
+    "365065",
+    "365837",
+    "366548",
+    "368933",
+    "384347",
+    "388801",
+    "392848",
+    "393317",
+    "398071",
+    "399241",
+    "423756",
+    "425891",
+    "430367",
+    "453386",
+    "455823",
+    "457553",
+    "513531",
+    "532026",
+    "534073",
+    "541029",
+    "555993",
+    "561011",
+    "565314",
+    "566632",
+    "567665",
+    "578365",
+    "578428",
+    "586100",
+    "592917",
+    "593441",
+    "594531",
+    "609625",
+    "617072",
+    "619965",
+    "622045",
+    "622836",
+    "630165",
+    "636519",
+    "637953",
+    "639313",
+    "643499",
+    "645780",
+    "651176",
+    "655049",
+    "658590",
+    "664393",
+    "667448",
+    "670634",
+    "671607",
+    "672046",
+    "672137",
+    "675347",
+    "676718",
+    "677014",
+    "677637",
+    "684428",
+    "687748",
+    "688810",
+    "691955",
+    "703923",
+    "704010",
+    "706766",
+    "710011",
+    "710985",
+    "714004",
+    "714245",
+    "715534",
+    "716953",
+    "718935",
+    "719444",
+    "724790",
+    "725343",
+    "725860",
+    "725967",
+    "725969",
+    "727862",
+    "728622",
+    "728722",
+    "733015",
+    "742898",
+    "759296",
+    "761389",
+    "761409",
+    "761647",
+    "761721",
+    "761756",
+    "761757",
+    "761872",
+    "761873",
+    "761874",
+    "761980",
+    "762228",
+    "762229",
+    "762493",
+    "762753",
+    "765197",
+    "765612",
+    "768639",
+    "773141",
+    "773347",
+    "773883",
+    "773885",
+    "775245",
+    "776209",
+    "776215",
+    "776871",
+    "776873",
+    "777058",
+    "778866",
+    "778906",
+    "779145",
+    "779146",
+    "779148",
+    "779149",
+    "779170",
+    "779218",
+    "779232",
+    "779325",
+    "779352",
+    "779355",
+    "779572",
+    "779686",
+    "780171",
+    "780352",
+    "780364",
+    "780365",
+    "780537",
+    "780538",
+    "780560",
+    "780562",
+    "780563",
+    "780612",
+    "780613",
+    "780721",
+    "780777",
+    "780796",
+    "780797",
+    "780888",
+    "780982",
+    "781100",
+    "781194",
+    "781224",
+    "781255",
+    "781338",
+    "781380",
+    "781474",
+    "781791",
+    "781836",
+    "781916",
+    "782149",
+    "782174",
+    "782175",
+    "782225",
+    "782232",
+    "782251",
+    "782252",
+    "782255",
+    "782257",
+    "782339",
+    "782409",
+    "782491",
+    "782649",
+    "782651",
+    "782652",
+    "782653",
+    "782654",
+    "782657",
+    "782685",
+    "782698",
+    "783083",
+    "783116",
+    "783117",
+    "783528",
+    "783530",
+    "783531",
+    "783675",
+    "784056",
+    "784072",
+    "784218",
+    "784219",
+    "784222",
+    "784225",
+    "784307",
+    "784358",
+    "784360",
+    "784460",
+    "784463",
+    "784464",
+    "784485",
+    "784612",
+    "784617",
+    "784626",
+    "784627",
+    "784630",
+    "784632",
+    "784633",
+    "784634",
+    "784640",
+    "784641",
+    "784642",
+    "784730",
+    "784731",
+    "784742",
+    "784743",
+    "785291",
+    "785307",
+    "785312",
+    "785313",
+    "785464",
+    "785474",
+    "785485",
+    "785486",
+    "785487",
+    "785488",
+    "785489",
+    "785517",
+    "785518",
+    "785519",
+    "785662",
+    "785865",
+    "785945",
+    "786039",
+    "786139",
+    "786155",
+    "786156",
+    "786157",
+    "786158",
+    "786159",
+    "786232",
+    "786238",
+    "786295",
+    "786296",
+    "786320",
+    "786514",
+    "786516",
+    "786519",
+    "786547",
+    "786757",
+    "786759",
+    "786760",
+    "786799",
+    "786912",
+    "786914",
+    "786917",
+    "786918",
+    "786919",
+    "786920",
+    "786922",
+    "786923",
+    "786926",
+    "786955",
+    "786956",
+    "787019",
+    "787022",
+    "787025",
+    "787026",
+    "787027",
+    "787028",
+    "787078",
+    "787079",
+    "787104",
+    "787138",
+    "787141",
+    "787231",
+    "787232",
+    "787324",
+    "787327",
+    "787365",
+    "787525",
+    "787609",
+    "787610",
+    "787612",
+    "787613",
+    "787739",
+    "787742",
+    "787743",
+    "787774",
+    "787830",
+    "787831",
+    "787832",
+    "787852",
+    "787886",
+    "787887",
+    "787888",
+    "787893",
+    "787900",
+    "788084",
+    "788085",
+    "788091",
+    "788092",
+    "788195",
+    "788237",
+    "788258",
+    "788260",
+    "788305",
+    "788311",
+    "788554",
+    "788625",
+    "788703",
+    "788722",
+    "788732",
+    "788733",
+    "788825",
+    "788837",
+    "788877",
+    "788878",
+    "789054",
+    "789055",
+    "789056",
+    "789057",
+    "789058",
+    "789059",
+    "789062",
+    "789063",
+    "789064",
+    "789065",
+    "789066",
+    "789067",
+    "789068",
+    "789131",
+    "789246",
+    "789309",
+    "789317",
+    "790431",
+    "790440",
+    "790662",
+    "792770",
+    "792773",
+    "792807",
+    "792834",
+    "792841",
+    "792846",
+    "792848",
+    "792849",
+    "792850",
+    "792857",
+    "792867",
+    "792871",
+    "792899",
+    "792913",
+    "792914",
+    "792915",
+    "792916",
+    "792917",
+    "792918",
+    "792919",
+    "792920",
+    "792921",
+    "792922",
+    "792923",
+    "792924",
+    "792925",
+    "792926",
+    "792927",
+    "792928",
+    "792929",
+    "792930",
+    "792931",
+    "792932",
+    "792933",
+    "792934",
+    "792937",
+    "796075",
+    "796101",
+    "796187",
+    "796253",
+    "796285",
+    "796287",
+    "796337",
+    "796342",
+    "796351",
+    "796352",
+    "796353",
+    "796354",
+    "796355",
+    "796356",
+    "796361",
+    "796410",
+    "796416",
+    "796422",
+    "796423",
+    "796425",
+    "796433",
+    "796440",
+    "796455",
+    "796456",
+    "796460",
+    "796464",
+    "796482",
+    "796501",
+    "796510",
+    "796521",
+    "796554",
+    "796567",
+    "796573",
+    "796577",
+    "796588",
+    "796606",
+    "796607",
+    "796623",
+    "796627",
+    "796628",
+    "796629",
+    "796630",
+    "796631",
+    "796768",
+    "796770",
+    "797057",
+    "797334",
+    "797356",
+    "797386",
+    "797393",
+    "797488",
+    "797489",
+    "797490",
+    "797491",
+    "797618",
+    "797619",
+    "797627",
+    "797825",
+    "797882",
+    "797943",
+    "797998",
+    "798160",
+    "798166",
+    "798170",
+    "798172",
+    "798173",
+    "798215",
+    "798218",
+    "798234",
+    "798235",
+    "798236",
+    "798238",
+    "798421",
+    "798422",
+    "798424",
+    "798425",
+    "798452",
+    "798470",
+    "798477",
+    "798539",
+    "798544",
+    "798555",
+    "798557",
+    "798558",
+    "798559",
+    "798564",
+    "798565",
+    "798566",
+    "798568",
+    "798596",
+    "798597",
+    "798598",
+    "798599",
+    "798600",
+    "798602",
+    "798610",
+    "798611",
+    "798612",
+    "798613",
+    "798614",
+    "798615",
+    "798638",
+    "798639",
+    "798644",
+    "798651",
+    "798652",
+    "798653",
+    "798654",
+    "798695",
+    "798696",
+    "798697",
+    "798698",
+    "798699",
+    "798700",
+    "798701",
+    "798761",
+    "798810",
+    "798819",
+    "798820",
+    "798822",
+    "798824",
+    "798832",
+    "798833",
+    "798834",
+    "798857",
+    "798884",
+    "798886",
+    "798889",
+    "798927",
+    "798928",
+    "798961",
+    "798963",
+    "798965",
+    "798967",
+    "798969",
+    "799060",
+    "799067",
+    "799068",
+    "799069",
+    "799072",
+    "799073",
+    "799080",
+    "799086",
+    "799087",
+    "799094",
+    "799098",
+    "799099",
+    "799103",
+    "799105",
+    "799131",
+    "799135",
+    "799170",
+    "799179",
+    "799180",
+    "799181",
+    "799280",
+    "799320",
+    "799368",
+    "799369",
+    "799370",
+    "799371",
+    "799432",
+    "799434",
+    "799436",
+    "799450",
+    "799457",
+    "799550",
+    "799551",
+    "799552",
+    "799553",
+    "799554",
+    "799566",
+    "799607",
+    "799649",
+    "799721",
+    "799722",
+    "799723",
+    "799835",
+    "799836",
+    "799837",
+    "799902",
+    "799924",
+    "799927",
+    "799928",
+    "799929",
+    "799933",
+    "799934",
+    "799935",
+    "799936",
+    "799938",
+    "799939",
+    "799940",
+    "799957",
+    "800028",
+    "800029",
+    "800036",
+    "800037",
+    "800060",
+    "800066",
+    "800681",
+    "800741",
+    "800747",
+    "800751",
+    "800756",
+    "800759",
+    "800761",
+    "800762",
+    "800763",
+    "800764",
+    "800765",
+    "800766",
+    "800768",
+    "800769",
+    "800770",
+    "800771",
+    "800772",
+    "800773",
+    "800774",
+    "800775",
+    "800776",
+    "800777",
+    "800778",
+    "800782",
+    "800799",
+    "800800",
+    "800801",
+    "800802",
+    "800803",
+    "800804",
+    "800805",
+    "800806",
+    "800807",
+    "800808",
+    "800809",
+    "800936",
+    "801130",
+    "801360",
+    "801372",
+    "801373",
+    "801374",
+    "801375",
+    "801376",
+    "801377",
+    "801378",
+    "801393",
+    "801759",
+    "801789",
+    "801790",
+    "801844",
+    "802113",
+    "802152",
+    "802223",
+    "802309",
+    "802349",
+    "802378",
+    "802522",
+    "802867",
+    "802898",
+    "802899",
+    "802901",
+    "802903",
+    "802905",
+    "802908",
+    "802940",
+    "803180",
+    "803223",
+    "803225",
+    "803226",
+    "803227",
+    "803228",
+    "803229",
+    "803230",
+    "803231",
+    "803232",
+    "803233",
+    "803234",
+    "803235",
+    "803239",
+    "803246",
+    "803894",
+    "803987",
+    "804668",
+    "805641",
+    "805643",
+    "806657",
+    "806994",
+    "807060",
+    "807061",
+    "807062",
+    "807063",
+    "807070",
+    "807224",
+    "807225",
+    "807226",
+    "807227",
+    "807324",
+    "807326",
+    "807328",
+    "807329",
+    "807425",
+    "807448",
+    "807452",
+    "807455",
+    "807470",
+    "807483",
+    "807497",
+    "807568",
+    "807574",
+    "807575",
+    "807576",
+    "807678",
+    "807679",
+    "807680",
+    "807681",
+    "807682",
+    "807683",
+    "807684",
+    "807685",
+    "807686",
+    "807687",
+    "807688",
+    "807696",
+    "807699",
+    "807700",
+    "807701",
+    "807704",
+    "807707"
+  ],
+  "members": [
+    {
+      "id": 347314,
+      "fideid": 1735748,
+      "firstName": "Magnus",
+      "lastName": "Nordling"
+    },
+    {
+      "id": 348166,
+      "fideid": 1725912,
+      "firstName": "Jaroslav",
+      "lastName": "Korenkiewicz"
+    },
+    {
+      "id": 348184,
+      "fideid": 1705423,
+      "firstName": "Anders",
+      "lastName": "Nilsson"
+    },
+    {
+      "id": 348478,
+      "fideid": 1750321,
+      "firstName": "Age",
+      "lastName": "Kempe"
+    },
+    {
+      "id": 348766,
+      "fideid": 1709879,
+      "firstName": "Kjell",
+      "lastName": "Bäckström"
+    },
+    {
+      "id": 348796,
+      "fideid": 1706993,
+      "firstName": "Daniel",
+      "lastName": "Semcesen"
+    },
+    {
+      "id": 348980,
+      "fideid": 1733478,
+      "firstName": "Carlos",
+      "lastName": "Törnberg"
+    },
+    {
+      "id": 350120,
+      "fideid": 1706900,
+      "firstName": "Stefan",
+      "lastName": "Bäcklin"
+    },
+    {
+      "id": 350128,
+      "fideid": 1701355,
+      "firstName": "Ingemar",
+      "lastName": "Svensk"
+    },
+    {
+      "id": 350203,
+      "fideid": 1708759,
+      "firstName": "Henrik",
+      "lastName": "Haapala"
+    },
+    {
+      "id": 350290,
+      "fideid": 1737783,
+      "firstName": "Jens",
+      "lastName": "Petersson"
+    },
+    {
+      "id": 350300,
+      "fideid": 1770187,
+      "firstName": "Erik",
+      "lastName": "Strömbäck"
+    },
+    {
+      "id": 350329,
+      "fideid": 1793853,
+      "firstName": "Åke",
+      "lastName": "Löwbeer"
+    },
+    {
+      "id": 350591,
+      "fideid": 1709135,
+      "firstName": "Markus",
+      "lastName": "Örndahl"
+    },
+    {
+      "id": 352398,
+      "fideid": 1708317,
+      "firstName": "Per",
+      "lastName": "Einar"
+    },
+    {
+      "id": 356283,
+      "fideid": 0,
+      "firstName": "Peter",
+      "lastName": "Stümer"
+    },
+    {
+      "id": 357116,
+      "fideid": 1709208,
+      "firstName": "Lennart",
+      "lastName": "Werner"
+    },
+    {
+      "id": 357179,
+      "fideid": 1739247,
+      "firstName": "Christer",
+      "lastName": "Johansson"
+    },
+    {
+      "id": 357308,
+      "fideid": 1713590,
+      "firstName": "Per",
+      "lastName": "Lindvall"
+    },
+    {
+      "id": 357363,
+      "fideid": 0,
+      "firstName": "Leif",
+      "lastName": "Woll"
+    },
+    {
+      "id": 357370,
+      "fideid": 1713370,
+      "firstName": "Arne",
+      "lastName": "Jansson"
+    },
+    {
+      "id": 357663,
+      "fideid": 1709046,
+      "firstName": "Henryk",
+      "lastName": "Dolata"
+    },
+    {
+      "id": 358866,
+      "fideid": 1706586,
+      "firstName": "Ulf",
+      "lastName": "Hammar"
+    },
+    {
+      "id": 359325,
+      "fideid": 1716832,
+      "firstName": "Torbjörn",
+      "lastName": "Umegård"
+    },
+    {
+      "id": 360888,
+      "fideid": 563005239,
+      "firstName": "Max Henry",
+      "lastName": "Xie"
+    },
+    {
+      "id": 364022,
+      "fideid": 1710346,
+      "firstName": "Fredrik",
+      "lastName": "Palmqvist"
+    },
+    {
+      "id": 364023,
+      "fideid": 1716000,
+      "firstName": "Tony",
+      "lastName": "Giraldo"
+    },
+    {
+      "id": 364026,
+      "fideid": 1714422,
+      "firstName": "Andreas",
+      "lastName": "Lindkvist"
+    },
+    {
+      "id": 364192,
+      "fideid": 1730444,
+      "firstName": "Arturas",
+      "lastName": "Kivilsa"
+    },
+    {
+      "id": 365065,
+      "fideid": 1721364,
+      "firstName": "Andreas",
+      "lastName": "Ardsjö"
+    },
+    {
+      "id": 365837,
+      "fideid": 4501950,
+      "firstName": "Aleksandr",
+      "lastName": "Volodin"
+    },
+    {
+      "id": 366548,
+      "fideid": 563009447,
+      "firstName": "Peter",
+      "lastName": "Lindegrén"
+    },
+    {
+      "id": 368933,
+      "fideid": 1717812,
+      "firstName": "Polina",
+      "lastName": "Otto"
+    },
+    {
+      "id": 384347,
+      "fideid": 1731041,
+      "firstName": "Noah",
+      "lastName": "Ritter"
+    },
+    {
+      "id": 388801,
+      "fideid": 1723383,
+      "firstName": "Joakim",
+      "lastName": "Nilsson"
+    },
+    {
+      "id": 392848,
+      "fideid": 0,
+      "firstName": "Slavisa",
+      "lastName": "Predragovic"
+    },
+    {
+      "id": 393317,
+      "fideid": 1736124,
+      "firstName": "Markus",
+      "lastName": "Ekeblad"
+    },
+    {
+      "id": 398071,
+      "fideid": 1734229,
+      "firstName": "Lars-Erik",
+      "lastName": "Grundell"
+    },
+    {
+      "id": 399241,
+      "fideid": 1764233,
+      "firstName": "Nikki",
+      "lastName": "Van Den Brink"
+    },
+    {
+      "id": 423756,
+      "fideid": 1735659,
+      "firstName": "Ludwig",
+      "lastName": "Sandhu"
+    },
+    {
+      "id": 425891,
+      "fideid": 1758764,
+      "firstName": "Fredrik",
+      "lastName": "Danelius"
+    },
+    {
+      "id": 430367,
+      "fideid": 1744720,
+      "firstName": "Viktor",
+      "lastName": "Wikman"
+    },
+    {
+      "id": 453386,
+      "fideid": 1729403,
+      "firstName": "Daniel",
+      "lastName": "Enfors"
+    },
+    {
+      "id": 455823,
+      "fideid": 1752952,
+      "firstName": "Oscar",
+      "lastName": "Morell"
+    },
+    {
+      "id": 457553,
+      "fideid": 1774174,
+      "firstName": "Rawaz",
+      "lastName": "Ali"
+    },
+    {
+      "id": 513531,
+      "fideid": 563009315,
+      "firstName": "Simon",
+      "lastName": "Winqvist"
+    },
+    {
+      "id": 532026,
+      "fideid": 1753215,
+      "firstName": "Jung Hoon",
+      "lastName": "Seo"
+    },
+    {
+      "id": 534073,
+      "fideid": 563004640,
+      "firstName": "Gabriel",
+      "lastName": "Bravilius"
+    },
+    {
+      "id": 541029,
+      "fideid": 0,
+      "firstName": "Hexing",
+      "lastName": "Wang"
+    },
+    {
+      "id": 555993,
+      "fideid": 0,
+      "firstName": "Nelli",
+      "lastName": "Daniels"
+    },
+    {
+      "id": 561011,
+      "fideid": 1787667,
+      "firstName": "Filip",
+      "lastName": "Avram"
+    },
+    {
+      "id": 565314,
+      "fideid": 0,
+      "firstName": "Arnav",
+      "lastName": "Bohra"
+    },
+    {
+      "id": 566632,
+      "fideid": 0,
+      "firstName": "Leon",
+      "lastName": "Pihlcrantz"
+    },
+    {
+      "id": 567665,
+      "fideid": 0,
+      "firstName": "Isak",
+      "lastName": "Burge"
+    },
+    {
+      "id": 578365,
+      "fideid": 0,
+      "firstName": "Bo",
+      "lastName": "Gjörser"
+    },
+    {
+      "id": 578428,
+      "fideid": 0,
+      "firstName": "Beppe",
+      "lastName": "Gjörser"
+    },
+    {
+      "id": 586100,
+      "fideid": 1765582,
+      "firstName": "Maria",
+      "lastName": "Elkan"
+    },
+    {
+      "id": 592917,
+      "fideid": 1767038,
+      "firstName": "Erik",
+      "lastName": "Wartoft"
+    },
+    {
+      "id": 593441,
+      "fideid": 0,
+      "firstName": "Moritz",
+      "lastName": "Odnert"
+    },
+    {
+      "id": 594531,
+      "fideid": 0,
+      "firstName": "Kavin",
+      "lastName": "Vijay"
+    },
+    {
+      "id": 609625,
+      "fideid": 563009960,
+      "firstName": "David",
+      "lastName": "Urbach"
+    },
+    {
+      "id": 617072,
+      "fideid": 1773852,
+      "firstName": "Alexander",
+      "lastName": "Gärshag"
+    },
+    {
+      "id": 619965,
+      "fideid": 2323206,
+      "firstName": "Jón Úlfur",
+      "lastName": "Hafthórsson"
+    },
+    {
+      "id": 622045,
+      "fideid": 137104520,
+      "firstName": "Oliver",
+      "lastName": "Lindqvist"
+    },
+    {
+      "id": 622836,
+      "fideid": 1755382,
+      "firstName": "Kjell",
+      "lastName": "Linde"
+    },
+    {
+      "id": 630165,
+      "fideid": 0,
+      "firstName": "Anton",
+      "lastName": "Runvald"
+    },
+    {
+      "id": 636519,
+      "fideid": 0,
+      "firstName": "Leia",
+      "lastName": "Svenvik"
+    },
+    {
+      "id": 637953,
+      "fideid": 1775510,
+      "firstName": "Harry",
+      "lastName": "Crisp"
+    },
+    {
+      "id": 639313,
+      "fideid": 0,
+      "firstName": "Edvin",
+      "lastName": "Sarqume"
+    },
+    {
+      "id": 643499,
+      "fideid": 0,
+      "firstName": "Martin",
+      "lastName": "Liljegren"
+    },
+    {
+      "id": 645780,
+      "fideid": 563007150,
+      "firstName": "Rickard",
+      "lastName": "Åhnström Bertók"
+    },
+    {
+      "id": 651176,
+      "fideid": 1773321,
+      "firstName": "Axel",
+      "lastName": "Jönsson"
+    },
+    {
+      "id": 655049,
+      "fideid": 0,
+      "firstName": "Reyansh",
+      "lastName": "Mittal"
+    },
+    {
+      "id": 658590,
+      "fideid": 563009382,
+      "firstName": "Vincent",
+      "lastName": "Pödra"
+    },
+    {
+      "id": 664393,
+      "fideid": 0,
+      "firstName": "Aarav",
+      "lastName": "Nainwal"
+    },
+    {
+      "id": 667448,
+      "fideid": 0,
+      "firstName": "Enrico",
+      "lastName": "Lorenzo"
+    },
+    {
+      "id": 670634,
+      "fideid": 0,
+      "firstName": "Theodor",
+      "lastName": "Kadri"
+    },
+    {
+      "id": 671607,
+      "fideid": 1777351,
+      "firstName": "Mateja",
+      "lastName": "Mrdak"
+    },
+    {
+      "id": 672046,
+      "fideid": 1778242,
+      "firstName": "Vijay V",
+      "lastName": "Subramanian"
+    },
+    {
+      "id": 672137,
+      "fideid": 1762770,
+      "firstName": "Fredrik",
+      "lastName": "Öhrskog"
+    },
+    {
+      "id": 675347,
+      "fideid": 0,
+      "firstName": "Leonardo",
+      "lastName": "Cereceda Nassirov"
+    },
+    {
+      "id": 676718,
+      "fideid": 563007207,
+      "firstName": "Edwin",
+      "lastName": "Henrysson"
+    },
+    {
+      "id": 677014,
+      "fideid": 0,
+      "firstName": "Qin",
+      "lastName": "Chen"
+    },
+    {
+      "id": 677637,
+      "fideid": 0,
+      "firstName": "Vaibhav",
+      "lastName": "Singh"
+    },
+    {
+      "id": 684428,
+      "fideid": 1779508,
+      "firstName": "Amon",
+      "lastName": "Årman"
+    },
+    {
+      "id": 687748,
+      "fideid": 563007258,
+      "firstName": "Riaan",
+      "lastName": "Shekhar"
+    },
+    {
+      "id": 688810,
+      "fideid": 563003945,
+      "firstName": "Nan",
+      "lastName": "Tian"
+    },
+    {
+      "id": 691955,
+      "fideid": 0,
+      "firstName": "Martin",
+      "lastName": "Martinovic"
+    },
+    {
+      "id": 703923,
+      "fideid": 0,
+      "firstName": "Oscar",
+      "lastName": "Spangenberg"
+    },
+    {
+      "id": 704010,
+      "fideid": 0,
+      "firstName": "Malte",
+      "lastName": "Andreasson"
+    },
+    {
+      "id": 706766,
+      "fideid": 0,
+      "firstName": "Hjalmar",
+      "lastName": "Lindgren"
+    },
+    {
+      "id": 710011,
+      "fideid": 0,
+      "firstName": "Nikolai",
+      "lastName": "Fagerström"
+    },
+    {
+      "id": 710985,
+      "fideid": 1792881,
+      "firstName": "Anton",
+      "lastName": "Almryd"
+    },
+    {
+      "id": 714004,
+      "fideid": 0,
+      "firstName": "Xiaonan",
+      "lastName": "Feng"
+    },
+    {
+      "id": 714245,
+      "fideid": 0,
+      "firstName": "Ebbe",
+      "lastName": "Broheden"
+    },
+    {
+      "id": 715534,
+      "fideid": 0,
+      "firstName": "Max",
+      "lastName": "Dalmau"
+    },
+    {
+      "id": 716953,
+      "fideid": 0,
+      "firstName": "Ezana Prince",
+      "lastName": "Filmon Tesfay"
+    },
+    {
+      "id": 718935,
+      "fideid": 0,
+      "firstName": "Agaton",
+      "lastName": "Kavall"
+    },
+    {
+      "id": 719444,
+      "fideid": -1,
+      "firstName": "Ivan",
+      "lastName": "Skyttner"
+    },
+    {
+      "id": 724790,
+      "fideid": 0,
+      "firstName": "Oskar",
+      "lastName": "Sarqume"
+    },
+    {
+      "id": 725343,
+      "fideid": 504203,
+      "firstName": "Jouni",
+      "lastName": "Kaunonen"
+    },
+    {
+      "id": 725860,
+      "fideid": 1798570,
+      "firstName": "Sigrid",
+      "lastName": "Gisslén"
+    },
+    {
+      "id": 725967,
+      "fideid": 0,
+      "firstName": "Enkh-Erdene",
+      "lastName": "Bayarchuluun"
+    },
+    {
+      "id": 725969,
+      "fideid": 0,
+      "firstName": "Enkhhuslen",
+      "lastName": "Bayarchuluun"
+    },
+    {
+      "id": 727862,
+      "fideid": 0,
+      "firstName": "William",
+      "lastName": "Asghary"
+    },
+    {
+      "id": 728622,
+      "fideid": 0,
+      "firstName": "Erik",
+      "lastName": "Lindén"
+    },
+    {
+      "id": 728722,
+      "fideid": 1791362,
+      "firstName": "Sean",
+      "lastName": "McNulty"
+    },
+    {
+      "id": 733015,
+      "fideid": 0,
+      "firstName": "Varshithasri",
+      "lastName": "Balamurugan"
+    },
+    {
+      "id": 742898,
+      "fideid": 0,
+      "firstName": "Avyaansh",
+      "lastName": "Bhawsar"
+    },
+    {
+      "id": 759296,
+      "fideid": 0,
+      "firstName": "Leif",
+      "lastName": "Duenas"
+    },
+    {
+      "id": 761389,
+      "fideid": 39966798,
+      "firstName": "Gustav",
+      "lastName": "Wernevi"
+    },
+    {
+      "id": 761409,
+      "fideid": 0,
+      "firstName": "Edwin",
+      "lastName": "Baber Mirzaie"
+    },
+    {
+      "id": 761647,
+      "fideid": 0,
+      "firstName": "Alexander",
+      "lastName": "Hedström"
+    },
+    {
+      "id": 761721,
+      "fideid": 0,
+      "firstName": "Alexander",
+      "lastName": "Ericsson"
+    },
+    {
+      "id": 761756,
+      "fideid": 1799886,
+      "firstName": "Sam",
+      "lastName": "Alseif"
+    },
+    {
+      "id": 761757,
+      "fideid": 1799550,
+      "firstName": "Lucas",
+      "lastName": "Le"
+    },
+    {
+      "id": 761872,
+      "fideid": 0,
+      "firstName": "Antonio",
+      "lastName": "Gustavsson"
+    },
+    {
+      "id": 761873,
+      "fideid": 0,
+      "firstName": "Hiro",
+      "lastName": "Itabashi"
+    },
+    {
+      "id": 761874,
+      "fideid": 0,
+      "firstName": "Rori",
+      "lastName": "Campbell Peoples"
+    },
+    {
+      "id": 761980,
+      "fideid": 0,
+      "firstName": "Dmytro",
+      "lastName": "Kravchenko"
+    },
+    {
+      "id": 762228,
+      "fideid": 0,
+      "firstName": "Sam",
+      "lastName": "Widell"
+    },
+    {
+      "id": 762229,
+      "fideid": 0,
+      "firstName": "Oscar",
+      "lastName": "Uppsäll"
+    },
+    {
+      "id": 762493,
+      "fideid": 0,
+      "firstName": "Nicholas",
+      "lastName": "Li-Strand"
+    },
+    {
+      "id": 762753,
+      "fideid": 563003775,
+      "firstName": "Walther",
+      "lastName": "Kristiansen"
+    },
+    {
+      "id": 765197,
+      "fideid": 563001969,
+      "firstName": "Ilian",
+      "lastName": "Desax"
+    },
+    {
+      "id": 765612,
+      "fideid": 0,
+      "firstName": "Izabela",
+      "lastName": "Kuziemkowska"
+    },
+    {
+      "id": 768639,
+      "fideid": 563007169,
+      "firstName": "Alvar",
+      "lastName": "Carlman"
+    },
+    {
+      "id": 773141,
+      "fideid": 0,
+      "firstName": "Elmer",
+      "lastName": "Thilander"
+    },
+    {
+      "id": 773347,
+      "fideid": 563008262,
+      "firstName": "Lucas",
+      "lastName": "Svanström Haenen"
+    },
+    {
+      "id": 773883,
+      "fideid": 0,
+      "firstName": "Jonathan",
+      "lastName": "Appelqvist"
+    },
+    {
+      "id": 773885,
+      "fideid": 0,
+      "firstName": "Theo",
+      "lastName": "Tomingas Näf"
+    },
+    {
+      "id": 775245,
+      "fideid": 563006235,
+      "firstName": "Anastasiia",
+      "lastName": "Strelchenko"
+    },
+    {
+      "id": 776209,
+      "fideid": 0,
+      "firstName": "Adrian",
+      "lastName": "de Chazal"
+    },
+    {
+      "id": 776215,
+      "fideid": 0,
+      "firstName": "Filip",
+      "lastName": "Milonjic"
+    },
+    {
+      "id": 776871,
+      "fideid": 0,
+      "firstName": "Erik",
+      "lastName": "Christensen"
+    },
+    {
+      "id": 776873,
+      "fideid": 0,
+      "firstName": "Axel",
+      "lastName": "Berglund"
+    },
+    {
+      "id": 777058,
+      "fideid": 563004658,
+      "firstName": "Emmy",
+      "lastName": "Mai"
+    },
+    {
+      "id": 778866,
+      "fideid": 0,
+      "firstName": "Marcus",
+      "lastName": "Svensson"
+    },
+    {
+      "id": 778906,
+      "fideid": 0,
+      "firstName": "Oscar",
+      "lastName": "Eklund"
+    },
+    {
+      "id": 779145,
+      "fideid": 0,
+      "firstName": "Nikolaj",
+      "lastName": "Nilsson"
+    },
+    {
+      "id": 779146,
+      "fideid": 563004186,
+      "firstName": "Bengt",
+      "lastName": "Hedengren"
+    },
+    {
+      "id": 779148,
+      "fideid": 563004216,
+      "firstName": "Yvonne",
+      "lastName": "Eldblom"
+    },
+    {
+      "id": 779149,
+      "fideid": 563004208,
+      "firstName": "Margareta",
+      "lastName": "Domeij"
+    },
+    {
+      "id": 779170,
+      "fideid": 563004003,
+      "firstName": "Baptiste",
+      "lastName": "Pommier"
+    },
+    {
+      "id": 779218,
+      "fideid": 563005573,
+      "firstName": "Timothy",
+      "lastName": "Mattsson"
+    },
+    {
+      "id": 779232,
+      "fideid": 8134537,
+      "firstName": "Faramees",
+      "lastName": "Mohd"
+    },
+    {
+      "id": 779325,
+      "fideid": 563004747,
+      "firstName": "Sahana",
+      "lastName": "Viswanath"
+    },
+    {
+      "id": 779352,
+      "fideid": 0,
+      "firstName": "Karthik Narashima",
+      "lastName": "Gunti"
+    },
+    {
+      "id": 779355,
+      "fideid": 0,
+      "firstName": "Nithyasri",
+      "lastName": "Venkata Ommi"
+    },
+    {
+      "id": 779572,
+      "fideid": 0,
+      "firstName": "August",
+      "lastName": "Wreyford"
+    },
+    {
+      "id": 779686,
+      "fideid": 563004194,
+      "firstName": "Mikael",
+      "lastName": "Lundberg"
+    },
+    {
+      "id": 780171,
+      "fideid": 563006863,
+      "firstName": "Nick",
+      "lastName": "Byström"
+    },
+    {
+      "id": 780352,
+      "fideid": 1721429,
+      "firstName": "Fredrik",
+      "lastName": "Widlund"
+    },
+    {
+      "id": 780364,
+      "fideid": 0,
+      "firstName": "Noomi",
+      "lastName": "Fieber Quinn"
+    },
+    {
+      "id": 780365,
+      "fideid": 0,
+      "firstName": "Sam",
+      "lastName": "Fieber Quinn"
+    },
+    {
+      "id": 780537,
+      "fideid": 0,
+      "firstName": "Ilpo",
+      "lastName": "Axenhus"
+    },
+    {
+      "id": 780538,
+      "fideid": 563004500,
+      "firstName": "Robert",
+      "lastName": "Rydberg"
+    },
+    {
+      "id": 780560,
+      "fideid": 563005069,
+      "firstName": "John-John",
+      "lastName": "Sundling"
+    },
+    {
+      "id": 780562,
+      "fideid": 563004550,
+      "firstName": "Victor",
+      "lastName": "Lindfors"
+    },
+    {
+      "id": 780563,
+      "fideid": 563004542,
+      "firstName": "Jonatan",
+      "lastName": "Sundström Sleiers"
+    },
+    {
+      "id": 780612,
+      "fideid": 1552309,
+      "firstName": "Faezeh",
+      "lastName": "Pousaneh"
+    },
+    {
+      "id": 780613,
+      "fideid": 563005050,
+      "firstName": "Ilko",
+      "lastName": "Radman"
+    },
+    {
+      "id": 780721,
+      "fideid": 563004143,
+      "firstName": "Darpitkumar",
+      "lastName": "Shah"
+    },
+    {
+      "id": 780777,
+      "fideid": 563004135,
+      "firstName": "Haven",
+      "lastName": "Augustsson"
+    },
+    {
+      "id": 780796,
+      "fideid": 563005174,
+      "firstName": "Arvid",
+      "lastName": "Snis"
+    },
+    {
+      "id": 780797,
+      "fideid": 563005603,
+      "firstName": "Mattias",
+      "lastName": "von Krusenstjerna"
+    },
+    {
+      "id": 780888,
+      "fideid": 563005182,
+      "firstName": "Rasmus",
+      "lastName": "Lian"
+    },
+    {
+      "id": 780982,
+      "fideid": 563005190,
+      "firstName": "Joel",
+      "lastName": "Blomster"
+    },
+    {
+      "id": 781100,
+      "fideid": 0,
+      "firstName": "Sally",
+      "lastName": "Jolak"
+    },
+    {
+      "id": 781194,
+      "fideid": 563005581,
+      "firstName": "Anahita",
+      "lastName": "Shiri"
+    },
+    {
+      "id": 781224,
+      "fideid": 0,
+      "firstName": "Edvin",
+      "lastName": "Sköld"
+    },
+    {
+      "id": 781255,
+      "fideid": 563004623,
+      "firstName": "Robin",
+      "lastName": "Taylor"
+    },
+    {
+      "id": 781338,
+      "fideid": 563005557,
+      "firstName": "Jonas",
+      "lastName": "Åsbrink"
+    },
+    {
+      "id": 781380,
+      "fideid": 563005590,
+      "firstName": "Robin",
+      "lastName": "Timan"
+    },
+    {
+      "id": 781474,
+      "fideid": 0,
+      "firstName": "Elvis",
+      "lastName": "Mynde"
+    },
+    {
+      "id": 781791,
+      "fideid": 563005549,
+      "firstName": "Benny",
+      "lastName": "Bresciani"
+    },
+    {
+      "id": 781836,
+      "fideid": 0,
+      "firstName": "Gunnar",
+      "lastName": "Welander"
+    },
+    {
+      "id": 781916,
+      "fideid": 0,
+      "firstName": "Tom-Oliver",
+      "lastName": "Stålsäter"
+    },
+    {
+      "id": 782149,
+      "fideid": 0,
+      "firstName": "Henning",
+      "lastName": "Brink"
+    },
+    {
+      "id": 782174,
+      "fideid": 0,
+      "firstName": "Uno",
+      "lastName": "Morota"
+    },
+    {
+      "id": 782175,
+      "fideid": 0,
+      "firstName": "Mirjam",
+      "lastName": "Gumpert"
+    },
+    {
+      "id": 782225,
+      "fideid": 0,
+      "firstName": "Winston",
+      "lastName": "Ghebressilasie"
+    },
+    {
+      "id": 782232,
+      "fideid": 0,
+      "firstName": "Blanche",
+      "lastName": "Barrett"
+    },
+    {
+      "id": 782251,
+      "fideid": 563006286,
+      "firstName": "Samuel",
+      "lastName": "Löfvendahl"
+    },
+    {
+      "id": 782252,
+      "fideid": 0,
+      "firstName": "Zilun",
+      "lastName": "Jia"
+    },
+    {
+      "id": 782255,
+      "fideid": 0,
+      "firstName": "Atle",
+      "lastName": "Dillner"
+    },
+    {
+      "id": 782257,
+      "fideid": 0,
+      "firstName": "Jonathan",
+      "lastName": "Ståhle"
+    },
+    {
+      "id": 782339,
+      "fideid": 0,
+      "firstName": "Theodor",
+      "lastName": "Lundell"
+    },
+    {
+      "id": 782409,
+      "fideid": 563007347,
+      "firstName": "Aryan",
+      "lastName": "Mehta"
+    },
+    {
+      "id": 782491,
+      "fideid": 563006057,
+      "firstName": "Niklas",
+      "lastName": "Karlén"
+    },
+    {
+      "id": 782649,
+      "fideid": 563005247,
+      "firstName": "Mikael",
+      "lastName": "Svensson"
+    },
+    {
+      "id": 782651,
+      "fideid": 563004682,
+      "firstName": "Alex",
+      "lastName": "Aghinyan"
+    },
+    {
+      "id": 782652,
+      "fideid": 563004887,
+      "firstName": "Sophia",
+      "lastName": "Sun Mossberg"
+    },
+    {
+      "id": 782653,
+      "fideid": 563004836,
+      "firstName": "Alexander",
+      "lastName": "Vinstock"
+    },
+    {
+      "id": 782654,
+      "fideid": 563004704,
+      "firstName": "Roberta",
+      "lastName": "Öberg"
+    },
+    {
+      "id": 782657,
+      "fideid": 563004879,
+      "firstName": "Lilly",
+      "lastName": "Lillkrona"
+    },
+    {
+      "id": 782685,
+      "fideid": 563004844,
+      "firstName": "Neo",
+      "lastName": "Joubbi"
+    },
+    {
+      "id": 782698,
+      "fideid": 0,
+      "firstName": "Gustav",
+      "lastName": "Ericsson"
+    },
+    {
+      "id": 783083,
+      "fideid": 563005204,
+      "firstName": "Victor",
+      "lastName": "Udd"
+    },
+    {
+      "id": 783116,
+      "fideid": 0,
+      "firstName": "Igor",
+      "lastName": "Antipin"
+    },
+    {
+      "id": 783117,
+      "fideid": 0,
+      "firstName": "Magnus",
+      "lastName": "Holmberg"
+    },
+    {
+      "id": 783528,
+      "fideid": 0,
+      "firstName": "James",
+      "lastName": "Domelid"
+    },
+    {
+      "id": 783530,
+      "fideid": 0,
+      "firstName": "Zackari",
+      "lastName": "Kos"
+    },
+    {
+      "id": 783531,
+      "fideid": 0,
+      "firstName": "Vincent",
+      "lastName": "Winsa"
+    },
+    {
+      "id": 783675,
+      "fideid": 0,
+      "firstName": "Miliana",
+      "lastName": "Kranz"
+    },
+    {
+      "id": 784056,
+      "fideid": 0,
+      "firstName": "Magnus",
+      "lastName": "Eriksson"
+    },
+    {
+      "id": 784072,
+      "fideid": 0,
+      "firstName": "Viggo",
+      "lastName": "Förström"
+    },
+    {
+      "id": 784218,
+      "fideid": 563007959,
+      "firstName": "Yohanis",
+      "lastName": "Evdokiadis"
+    },
+    {
+      "id": 784219,
+      "fideid": 0,
+      "firstName": "Xu",
+      "lastName": "Yan"
+    },
+    {
+      "id": 784222,
+      "fideid": 0,
+      "firstName": "Isidor",
+      "lastName": "Natt och Dag"
+    },
+    {
+      "id": 784225,
+      "fideid": 563007932,
+      "firstName": "Julian",
+      "lastName": "Atienza"
+    },
+    {
+      "id": 784307,
+      "fideid": 563005107,
+      "firstName": "Tim",
+      "lastName": "Blomqvist"
+    },
+    {
+      "id": 784358,
+      "fideid": 0,
+      "firstName": "Md Rafan",
+      "lastName": "Alam"
+    },
+    {
+      "id": 784360,
+      "fideid": 0,
+      "firstName": "Yannis",
+      "lastName": "Maniatis"
+    },
+    {
+      "id": 784460,
+      "fideid": 563005565,
+      "firstName": "Max",
+      "lastName": "Blank"
+    },
+    {
+      "id": 784463,
+      "fideid": 0,
+      "firstName": "Emil",
+      "lastName": "Liik"
+    },
+    {
+      "id": 784464,
+      "fideid": 0,
+      "firstName": "Sixten",
+      "lastName": "Sterner"
+    },
+    {
+      "id": 784485,
+      "fideid": 563009692,
+      "firstName": "Krister",
+      "lastName": "Lind"
+    },
+    {
+      "id": 784612,
+      "fideid": 0,
+      "firstName": "Shoja",
+      "lastName": "Shamsizadeh"
+    },
+    {
+      "id": 784617,
+      "fideid": 563005093,
+      "firstName": "Johan",
+      "lastName": "Ekman"
+    },
+    {
+      "id": 784626,
+      "fideid": 0,
+      "firstName": "Knut",
+      "lastName": "Biörklund"
+    },
+    {
+      "id": 784627,
+      "fideid": 0,
+      "firstName": "Jonathan",
+      "lastName": "Nordensvärd"
+    },
+    {
+      "id": 784630,
+      "fideid": 0,
+      "firstName": "Jakob",
+      "lastName": "Lind af Hageby"
+    },
+    {
+      "id": 784632,
+      "fideid": 0,
+      "firstName": "Leopold",
+      "lastName": "Vinstock"
+    },
+    {
+      "id": 784633,
+      "fideid": 0,
+      "firstName": "Juliet",
+      "lastName": "Pedersen Franzén"
+    },
+    {
+      "id": 784634,
+      "fideid": 0,
+      "firstName": "Ida",
+      "lastName": "Johansson"
+    },
+    {
+      "id": 784640,
+      "fideid": 0,
+      "firstName": "Victoria",
+      "lastName": "Sun Mossberg"
+    },
+    {
+      "id": 784641,
+      "fideid": 0,
+      "firstName": "Axel",
+      "lastName": "Åkerlund"
+    },
+    {
+      "id": 784642,
+      "fideid": 0,
+      "firstName": "Teodora",
+      "lastName": "Mechea"
+    },
+    {
+      "id": 784730,
+      "fideid": 0,
+      "firstName": "Einar",
+      "lastName": "Daleke Henriksson"
+    },
+    {
+      "id": 784731,
+      "fideid": 0,
+      "firstName": "Matteus",
+      "lastName": "Fröberg"
+    },
+    {
+      "id": 784742,
+      "fideid": 0,
+      "firstName": "Wilhelm",
+      "lastName": "Seemann"
+    },
+    {
+      "id": 784743,
+      "fideid": 0,
+      "firstName": "Fredrik",
+      "lastName": "Seemann"
+    },
+    {
+      "id": 785291,
+      "fideid": 0,
+      "firstName": "Ben",
+      "lastName": "Gabriels"
+    },
+    {
+      "id": 785307,
+      "fideid": 0,
+      "firstName": "Oscar",
+      "lastName": "Gisslén"
+    },
+    {
+      "id": 785312,
+      "fideid": 0,
+      "firstName": "Anton",
+      "lastName": "Lindencrona"
+    },
+    {
+      "id": 785313,
+      "fideid": 0,
+      "firstName": "Ivan",
+      "lastName": "Lindencrona"
+    },
+    {
+      "id": 785464,
+      "fideid": 563006049,
+      "firstName": "Lo",
+      "lastName": "Mildén Ah-King"
+    },
+    {
+      "id": 785474,
+      "fideid": 563005964,
+      "firstName": "Emil",
+      "lastName": "Nisser"
+    },
+    {
+      "id": 785485,
+      "fideid": 563005794,
+      "firstName": "Frans",
+      "lastName": "Sundling"
+    },
+    {
+      "id": 785486,
+      "fideid": 0,
+      "firstName": "Konstantin",
+      "lastName": "Orenstein"
+    },
+    {
+      "id": 785487,
+      "fideid": 0,
+      "firstName": "Mark",
+      "lastName": "Nordgren"
+    },
+    {
+      "id": 785488,
+      "fideid": 0,
+      "firstName": "Alexander",
+      "lastName": "Petrik"
+    },
+    {
+      "id": 785489,
+      "fideid": 0,
+      "firstName": "Viktor",
+      "lastName": "Bergström"
+    },
+    {
+      "id": 785517,
+      "fideid": 0,
+      "firstName": "Erik",
+      "lastName": "Pozine"
+    },
+    {
+      "id": 785518,
+      "fideid": 0,
+      "firstName": "Emile",
+      "lastName": "Lindquist"
+    },
+    {
+      "id": 785519,
+      "fideid": 0,
+      "firstName": "Margareta",
+      "lastName": "Mayor"
+    },
+    {
+      "id": 785662,
+      "fideid": 0,
+      "firstName": "William",
+      "lastName": "Lindener"
+    },
+    {
+      "id": 785865,
+      "fideid": 563007126,
+      "firstName": "Filip",
+      "lastName": "Bordeanu"
+    },
+    {
+      "id": 785945,
+      "fideid": 0,
+      "firstName": "Ferry",
+      "lastName": "Carlquist"
+    },
+    {
+      "id": 786039,
+      "fideid": 0,
+      "firstName": "Aron",
+      "lastName": "Mjönes"
+    },
+    {
+      "id": 786139,
+      "fideid": 563005778,
+      "firstName": "Rafael",
+      "lastName": "Birkeldh"
+    },
+    {
+      "id": 786155,
+      "fideid": 0,
+      "firstName": "Daniel",
+      "lastName": "Nordman"
+    },
+    {
+      "id": 786156,
+      "fideid": 0,
+      "firstName": "Konstantis",
+      "lastName": "Kyriazis "
+    },
+    {
+      "id": 786157,
+      "fideid": 0,
+      "firstName": "Uraz",
+      "lastName": "Dizman"
+    },
+    {
+      "id": 786158,
+      "fideid": 0,
+      "firstName": "David Philip",
+      "lastName": "Forsen Aspelund"
+    },
+    {
+      "id": 786159,
+      "fideid": 0,
+      "firstName": "Frank",
+      "lastName": "Crawford"
+    },
+    {
+      "id": 786232,
+      "fideid": 0,
+      "firstName": "Mara",
+      "lastName": "Pote"
+    },
+    {
+      "id": 786238,
+      "fideid": 0,
+      "firstName": "Lucas",
+      "lastName": "Andersson"
+    },
+    {
+      "id": 786295,
+      "fideid": 0,
+      "firstName": "Anastasia",
+      "lastName": "Nikulin"
+    },
+    {
+      "id": 786296,
+      "fideid": 0,
+      "firstName": "Diana",
+      "lastName": "Nikulin"
+    },
+    {
+      "id": 786320,
+      "fideid": 0,
+      "firstName": "Christofer",
+      "lastName": "Zenker"
+    },
+    {
+      "id": 786514,
+      "fideid": 563006316,
+      "firstName": "Yifei",
+      "lastName": "Yang"
+    },
+    {
+      "id": 786516,
+      "fideid": 0,
+      "firstName": "Tanish",
+      "lastName": "Nemade"
+    },
+    {
+      "id": 786519,
+      "fideid": 0,
+      "firstName": "Ben",
+      "lastName": "Waissman"
+    },
+    {
+      "id": 786547,
+      "fideid": 0,
+      "firstName": "Ludvig",
+      "lastName": "Fraenkel"
+    },
+    {
+      "id": 786757,
+      "fideid": 0,
+      "firstName": "Vihaan",
+      "lastName": "Jacobson"
+    },
+    {
+      "id": 786759,
+      "fideid": 0,
+      "firstName": "Vilma",
+      "lastName": "Nilsson"
+    },
+    {
+      "id": 786760,
+      "fideid": 0,
+      "firstName": "Herman",
+      "lastName": "Loht"
+    },
+    {
+      "id": 786799,
+      "fideid": 0,
+      "firstName": "Ivar Teodor",
+      "lastName": "Jacobson"
+    },
+    {
+      "id": 786912,
+      "fideid": 0,
+      "firstName": "Avyaan",
+      "lastName": "Raj"
+    },
+    {
+      "id": 786914,
+      "fideid": 563006855,
+      "firstName": "Albert",
+      "lastName": "Bruton"
+    },
+    {
+      "id": 786917,
+      "fideid": 0,
+      "firstName": "Daniil",
+      "lastName": "Apelgants"
+    },
+    {
+      "id": 786918,
+      "fideid": 0,
+      "firstName": "Rafael",
+      "lastName": "Hassanali"
+    },
+    {
+      "id": 786919,
+      "fideid": 0,
+      "firstName": "Damon",
+      "lastName": "Hedman"
+    },
+    {
+      "id": 786920,
+      "fideid": 563006600,
+      "firstName": "August",
+      "lastName": "Tyrén"
+    },
+    {
+      "id": 786922,
+      "fideid": 563006308,
+      "firstName": "Alfred",
+      "lastName": "Pihl"
+    },
+    {
+      "id": 786923,
+      "fideid": 0,
+      "firstName": "Edward",
+      "lastName": "Wiik"
+    },
+    {
+      "id": 786926,
+      "fideid": 0,
+      "firstName": "Leo",
+      "lastName": "Gao"
+    },
+    {
+      "id": 786955,
+      "fideid": 0,
+      "firstName": "Andrea",
+      "lastName": "Wigert"
+    },
+    {
+      "id": 786956,
+      "fideid": 0,
+      "firstName": "Johanna",
+      "lastName": "Carell"
+    },
+    {
+      "id": 787019,
+      "fideid": 563009013,
+      "firstName": "Emil",
+      "lastName": "Dahl"
+    },
+    {
+      "id": 787022,
+      "fideid": 0,
+      "firstName": "Gayathri",
+      "lastName": "Sreekanth"
+    },
+    {
+      "id": 787025,
+      "fideid": 0,
+      "firstName": "Jona",
+      "lastName": "Lohrmann"
+    },
+    {
+      "id": 787026,
+      "fideid": 0,
+      "firstName": "Sofia",
+      "lastName": "Assal"
+    },
+    {
+      "id": 787027,
+      "fideid": 0,
+      "firstName": "Sufian",
+      "lastName": "Assal"
+    },
+    {
+      "id": 787028,
+      "fideid": 0,
+      "firstName": "Eric",
+      "lastName": "Holmgren"
+    },
+    {
+      "id": 787078,
+      "fideid": 0,
+      "firstName": "Selvyn",
+      "lastName": "Gu"
+    },
+    {
+      "id": 787079,
+      "fideid": 0,
+      "firstName": "Kathleen",
+      "lastName": "Bernard"
+    },
+    {
+      "id": 787104,
+      "fideid": 0,
+      "firstName": "Axel",
+      "lastName": "Hedlund"
+    },
+    {
+      "id": 787138,
+      "fideid": 0,
+      "firstName": "Malcolm",
+      "lastName": "Rogler"
+    },
+    {
+      "id": 787141,
+      "fideid": 0,
+      "firstName": "Filip",
+      "lastName": "Lignerkrona"
+    },
+    {
+      "id": 787231,
+      "fideid": 0,
+      "firstName": "Alexei",
+      "lastName": "Serbana"
+    },
+    {
+      "id": 787232,
+      "fideid": 0,
+      "firstName": "Dar",
+      "lastName": "Davydov"
+    },
+    {
+      "id": 787324,
+      "fideid": 0,
+      "firstName": "Roman",
+      "lastName": "Kravchenko"
+    },
+    {
+      "id": 787327,
+      "fideid": 563006553,
+      "firstName": "Anastasiia",
+      "lastName": "Kravchenko"
+    },
+    {
+      "id": 787365,
+      "fideid": 563006626,
+      "firstName": "Jonas",
+      "lastName": "Zheng Cao"
+    },
+    {
+      "id": 787525,
+      "fideid": 0,
+      "firstName": "Noha",
+      "lastName": "Isak"
+    },
+    {
+      "id": 787609,
+      "fideid": 0,
+      "firstName": "Srihan",
+      "lastName": "Kallem"
+    },
+    {
+      "id": 787610,
+      "fideid": 0,
+      "firstName": "Sriyan",
+      "lastName": "Kallem"
+    },
+    {
+      "id": 787612,
+      "fideid": 0,
+      "firstName": "Anusha",
+      "lastName": "Kumari"
+    },
+    {
+      "id": 787613,
+      "fideid": 0,
+      "firstName": "Kabir",
+      "lastName": "Kumar"
+    },
+    {
+      "id": 787739,
+      "fideid": 0,
+      "firstName": "Oliver",
+      "lastName": "Foukakis"
+    },
+    {
+      "id": 787742,
+      "fideid": 563008017,
+      "firstName": "Julian",
+      "lastName": "Östberg O’Keefe"
+    },
+    {
+      "id": 787743,
+      "fideid": 0,
+      "firstName": "Kaizen",
+      "lastName": "Toung"
+    },
+    {
+      "id": 787774,
+      "fideid": 563007975,
+      "firstName": "Luca",
+      "lastName": "Jeong Maneschi"
+    },
+    {
+      "id": 787830,
+      "fideid": 563007282,
+      "firstName": "Esai",
+      "lastName": "Zemiceal"
+    },
+    {
+      "id": 787831,
+      "fideid": 563007240,
+      "firstName": "Marios",
+      "lastName": "Sarris"
+    },
+    {
+      "id": 787832,
+      "fideid": 0,
+      "firstName": "Rishik",
+      "lastName": "Maidam"
+    },
+    {
+      "id": 787852,
+      "fideid": 0,
+      "firstName": "Antonia",
+      "lastName": "Gibson"
+    },
+    {
+      "id": 787886,
+      "fideid": 0,
+      "firstName": "Evert",
+      "lastName": "Runberg"
+    },
+    {
+      "id": 787887,
+      "fideid": 0,
+      "firstName": "Andris",
+      "lastName": "Ivanivskyi"
+    },
+    {
+      "id": 787888,
+      "fideid": 0,
+      "firstName": "Giovanni",
+      "lastName": "Giammona"
+    },
+    {
+      "id": 787893,
+      "fideid": 0,
+      "firstName": "Axel",
+      "lastName": "Häggblom"
+    },
+    {
+      "id": 787900,
+      "fideid": 563006227,
+      "firstName": "Oskar",
+      "lastName": "Fallgren"
+    },
+    {
+      "id": 788084,
+      "fideid": 0,
+      "firstName": "Viggo",
+      "lastName": "Mooney"
+    },
+    {
+      "id": 788085,
+      "fideid": 563008009,
+      "firstName": "Oliver",
+      "lastName": "Lindholm"
+    },
+    {
+      "id": 788091,
+      "fideid": 0,
+      "firstName": "Jack",
+      "lastName": "Roussetos von Seth"
+    },
+    {
+      "id": 788092,
+      "fideid": 0,
+      "firstName": "Leo",
+      "lastName": "Borgani Some"
+    },
+    {
+      "id": 788195,
+      "fideid": 563007924,
+      "firstName": "Elias",
+      "lastName": "Zhou"
+    },
+    {
+      "id": 788237,
+      "fideid": 563009455,
+      "firstName": "Jan",
+      "lastName": "Gårdefelt"
+    },
+    {
+      "id": 788258,
+      "fideid": 0,
+      "firstName": "Ludvig",
+      "lastName": "Constantinescu"
+    },
+    {
+      "id": 788260,
+      "fideid": 0,
+      "firstName": "Elin",
+      "lastName": "Padellaro"
+    },
+    {
+      "id": 788305,
+      "fideid": 0,
+      "firstName": "Lara",
+      "lastName": "Miliauskas"
+    },
+    {
+      "id": 788311,
+      "fideid": 563007185,
+      "firstName": "Kimey",
+      "lastName": "Larsson Ojeda"
+    },
+    {
+      "id": 788554,
+      "fideid": 0,
+      "firstName": "Oscar",
+      "lastName": "Colovic"
+    },
+    {
+      "id": 788625,
+      "fideid": 0,
+      "firstName": "Zoe",
+      "lastName": "Kjellström"
+    },
+    {
+      "id": 788703,
+      "fideid": 0,
+      "firstName": "Hugo",
+      "lastName": "Wikblad"
+    },
+    {
+      "id": 788722,
+      "fideid": 563008874,
+      "firstName": "Magnus",
+      "lastName": "Christensson"
+    },
+    {
+      "id": 788732,
+      "fideid": 0,
+      "firstName": "Adeline",
+      "lastName": "Ouellette"
+    },
+    {
+      "id": 788733,
+      "fideid": 137110474,
+      "firstName": "Frank",
+      "lastName": "Melander"
+    },
+    {
+      "id": 788825,
+      "fideid": 0,
+      "firstName": "Samyar",
+      "lastName": "Mirzarazi Dehaghi"
+    },
+    {
+      "id": 788837,
+      "fideid": 563007266,
+      "firstName": "Trishan",
+      "lastName": "Shibu"
+    },
+    {
+      "id": 788877,
+      "fideid": 563009250,
+      "firstName": "Staffan",
+      "lastName": "Ekvall"
+    },
+    {
+      "id": 788878,
+      "fideid": 0,
+      "firstName": "Daniel",
+      "lastName": "Willén"
+    },
+    {
+      "id": 789054,
+      "fideid": 0,
+      "firstName": "Marlon",
+      "lastName": "Comte"
+    },
+    {
+      "id": 789055,
+      "fideid": 0,
+      "firstName": "Alissa",
+      "lastName": "Grip"
+    },
+    {
+      "id": 789056,
+      "fideid": 0,
+      "firstName": "Ervin",
+      "lastName": "Grip"
+    },
+    {
+      "id": 789057,
+      "fideid": 0,
+      "firstName": "Frans",
+      "lastName": "Wachter"
+    },
+    {
+      "id": 789058,
+      "fideid": 0,
+      "firstName": "Oskar",
+      "lastName": "Kesselberg"
+    },
+    {
+      "id": 789059,
+      "fideid": 0,
+      "firstName": "Vincent",
+      "lastName": "Kulbay"
+    },
+    {
+      "id": 789062,
+      "fideid": 0,
+      "firstName": "Charlotte",
+      "lastName": "Koomen Altenhofer"
+    },
+    {
+      "id": 789063,
+      "fideid": 0,
+      "firstName": "Alexander",
+      "lastName": "Koomen Altenhofer"
+    },
+    {
+      "id": 789064,
+      "fideid": 0,
+      "firstName": "Rose",
+      "lastName": "Lebélia"
+    },
+    {
+      "id": 789065,
+      "fideid": 0,
+      "firstName": "Ture",
+      "lastName": "Karlsson"
+    },
+    {
+      "id": 789066,
+      "fideid": 0,
+      "firstName": "Emil",
+      "lastName": "Juhkam"
+    },
+    {
+      "id": 789067,
+      "fideid": 0,
+      "firstName": "Emma",
+      "lastName": "Pari"
+    },
+    {
+      "id": 789068,
+      "fideid": 0,
+      "firstName": "Klara",
+      "lastName": "Pari"
+    },
+    {
+      "id": 789131,
+      "fideid": 0,
+      "firstName": "Kian",
+      "lastName": "Kumar"
+    },
+    {
+      "id": 789246,
+      "fideid": 0,
+      "firstName": "Aviel",
+      "lastName": "Schildt Gillion"
+    },
+    {
+      "id": 789309,
+      "fideid": 563007428,
+      "firstName": "Lukas",
+      "lastName": "Lundin"
+    },
+    {
+      "id": 789317,
+      "fideid": 0,
+      "firstName": "Sanharib",
+      "lastName": "Elyo"
+    },
+    {
+      "id": 790431,
+      "fideid": 2039877,
+      "firstName": "Levy",
+      "lastName": "Rozman"
+    },
+    {
+      "id": 790440,
+      "fideid": 0,
+      "firstName": "Zakaria",
+      "lastName": "Abdrabou"
+    },
+    {
+      "id": 790662,
+      "fideid": 0,
+      "firstName": "Luka",
+      "lastName": "Kurilj"
+    },
+    {
+      "id": 792770,
+      "fideid": 0,
+      "firstName": "Ayoub",
+      "lastName": "Ben Mbarek"
+    },
+    {
+      "id": 792773,
+      "fideid": 0,
+      "firstName": "Ivar",
+      "lastName": "Fahlström"
+    },
+    {
+      "id": 792807,
+      "fideid": 563007274,
+      "firstName": "Tom",
+      "lastName": "Widgren"
+    },
+    {
+      "id": 792834,
+      "fideid": 0,
+      "firstName": "Bo",
+      "lastName": "Nilsson"
+    },
+    {
+      "id": 792841,
+      "fideid": 0,
+      "firstName": "Karl",
+      "lastName": "Edmark"
+    },
+    {
+      "id": 792846,
+      "fideid": 0,
+      "firstName": "Linus",
+      "lastName": "Gidén"
+    },
+    {
+      "id": 792848,
+      "fideid": 563008467,
+      "firstName": "Valter",
+      "lastName": "Ramberg"
+    },
+    {
+      "id": 792849,
+      "fideid": 0,
+      "firstName": "Ari",
+      "lastName": "Tengblad"
+    },
+    {
+      "id": 792850,
+      "fideid": 0,
+      "firstName": "Karl",
+      "lastName": "Johansson"
+    },
+    {
+      "id": 792857,
+      "fideid": 0,
+      "firstName": "Haroon",
+      "lastName": "Suhail"
+    },
+    {
+      "id": 792867,
+      "fideid": -1,
+      "firstName": "Magnus",
+      "lastName": "Ausmees"
+    },
+    {
+      "id": 792871,
+      "fideid": 0,
+      "firstName": "Isidora",
+      "lastName": "Schulman"
+    },
+    {
+      "id": 792899,
+      "fideid": 0,
+      "firstName": "Vincent",
+      "lastName": "Ewerbring"
+    },
+    {
+      "id": 792913,
+      "fideid": 0,
+      "firstName": "Edward",
+      "lastName": "Karlsson Roos"
+    },
+    {
+      "id": 792914,
+      "fideid": 0,
+      "firstName": "Sidhvik Sai Reddy",
+      "lastName": "Thinnelapudi"
+    },
+    {
+      "id": 792915,
+      "fideid": 0,
+      "firstName": "Ellie",
+      "lastName": "Condro"
+    },
+    {
+      "id": 792916,
+      "fideid": 0,
+      "firstName": "Trishan",
+      "lastName": "Nalin"
+    },
+    {
+      "id": 792917,
+      "fideid": 0,
+      "firstName": "Ivana",
+      "lastName": "Singh"
+    },
+    {
+      "id": 792918,
+      "fideid": 0,
+      "firstName": "Jamila",
+      "lastName": "Khalaf"
+    },
+    {
+      "id": 792919,
+      "fideid": 0,
+      "firstName": "Rudra",
+      "lastName": "Ekambarsdotter"
+    },
+    {
+      "id": 792920,
+      "fideid": 0,
+      "firstName": "Eva",
+      "lastName": "Chandel"
+    },
+    {
+      "id": 792921,
+      "fideid": 0,
+      "firstName": "Caspian",
+      "lastName": "Kolmodin"
+    },
+    {
+      "id": 792922,
+      "fideid": 0,
+      "firstName": "Nomie",
+      "lastName": "Condro"
+    },
+    {
+      "id": 792923,
+      "fideid": 563008548,
+      "firstName": "Imi",
+      "lastName": "Van Der Wens"
+    },
+    {
+      "id": 792924,
+      "fideid": 0,
+      "firstName": "Aina Eluney",
+      "lastName": "Plevoets-Elgvin"
+    },
+    {
+      "id": 792925,
+      "fideid": 0,
+      "firstName": "Harold",
+      "lastName": "G Speer IV"
+    },
+    {
+      "id": 792926,
+      "fideid": 0,
+      "firstName": "Axel",
+      "lastName": "Canario Pujols"
+    },
+    {
+      "id": 792927,
+      "fideid": 0,
+      "firstName": "Luca",
+      "lastName": "Daechsel Sjökvist "
+    },
+    {
+      "id": 792928,
+      "fideid": 0,
+      "firstName": "Hamza",
+      "lastName": "Aljizi"
+    },
+    {
+      "id": 792929,
+      "fideid": 0,
+      "firstName": "Maanvika",
+      "lastName": "Sahoo"
+    },
+    {
+      "id": 792930,
+      "fideid": 0,
+      "firstName": "Kinjal",
+      "lastName": "Singh"
+    },
+    {
+      "id": 792931,
+      "fideid": 0,
+      "firstName": "Reyansh",
+      "lastName": "Das"
+    },
+    {
+      "id": 792932,
+      "fideid": 0,
+      "firstName": "Yuki",
+      "lastName": "Calabrese"
+    },
+    {
+      "id": 792933,
+      "fideid": 0,
+      "firstName": "Azza Fathima",
+      "lastName": "Mohammad Umar"
+    },
+    {
+      "id": 792934,
+      "fideid": 0,
+      "firstName": "Soren",
+      "lastName": "Pagoria"
+    },
+    {
+      "id": 792937,
+      "fideid": 0,
+      "firstName": "Achintya Chandra",
+      "lastName": "Sharma"
+    },
+    {
+      "id": 796075,
+      "fideid": 0,
+      "firstName": "Harald",
+      "lastName": "Ohlin"
+    },
+    {
+      "id": 796101,
+      "fideid": 0,
+      "firstName": "Julian",
+      "lastName": "Fourcade"
+    },
+    {
+      "id": 796187,
+      "fideid": 0,
+      "firstName": "Simon",
+      "lastName": "Fahlström"
+    },
+    {
+      "id": 796253,
+      "fideid": 0,
+      "firstName": "Mathias",
+      "lastName": "Kämpe"
+    },
+    {
+      "id": 796285,
+      "fideid": 563008459,
+      "firstName": "Leart Iljas",
+      "lastName": "Kelmendi"
+    },
+    {
+      "id": 796287,
+      "fideid": 563010500,
+      "firstName": "Tony",
+      "lastName": "Engström"
+    },
+    {
+      "id": 796337,
+      "fideid": 563009501,
+      "firstName": "Henrik",
+      "lastName": "Fock"
+    },
+    {
+      "id": 796342,
+      "fideid": 0,
+      "firstName": "Ebbe",
+      "lastName": "Roxell"
+    },
+    {
+      "id": 796351,
+      "fideid": 0,
+      "firstName": "Rumi",
+      "lastName": "Mohammadi"
+    },
+    {
+      "id": 796352,
+      "fideid": 0,
+      "firstName": "Varun Arjun",
+      "lastName": "Selvam"
+    },
+    {
+      "id": 796353,
+      "fideid": 0,
+      "firstName": "Edith",
+      "lastName": "Fukushima Åkerman"
+    },
+    {
+      "id": 796354,
+      "fideid": 0,
+      "firstName": "Raghavendra Rakshan",
+      "lastName": "Rakesh"
+    },
+    {
+      "id": 796355,
+      "fideid": 0,
+      "firstName": "Niharika",
+      "lastName": "Shankar Panicker"
+    },
+    {
+      "id": 796356,
+      "fideid": 0,
+      "firstName": "Benyamin",
+      "lastName": "Mirbaz"
+    },
+    {
+      "id": 796361,
+      "fideid": 0,
+      "firstName": "Paloma  ,",
+      "lastName": "Åsebring Salinas"
+    },
+    {
+      "id": 796410,
+      "fideid": 563008270,
+      "firstName": "Markus",
+      "lastName": "Granström Persson"
+    },
+    {
+      "id": 796416,
+      "fideid": 1777548,
+      "firstName": "Bruno",
+      "lastName": "Ålund"
+    },
+    {
+      "id": 796422,
+      "fideid": 0,
+      "firstName": "Maya Felicia Leticia",
+      "lastName": "Colunga Olofsson"
+    },
+    {
+      "id": 796423,
+      "fideid": 0,
+      "firstName": "Aron",
+      "lastName": "ANDERSON ARULJAMES"
+    },
+    {
+      "id": 796425,
+      "fideid": 0,
+      "firstName": "Sebastian",
+      "lastName": "Orrick Aron"
+    },
+    {
+      "id": 796433,
+      "fideid": 0,
+      "firstName": "Pippa",
+      "lastName": "Meijer"
+    },
+    {
+      "id": 796440,
+      "fideid": 0,
+      "firstName": "Frej",
+      "lastName": "Fjodor Voronins"
+    },
+    {
+      "id": 796455,
+      "fideid": 563009668,
+      "firstName": "Bernhard",
+      "lastName": "Hagen"
+    },
+    {
+      "id": 796456,
+      "fideid": 563009706,
+      "firstName": "Lennart",
+      "lastName": "Lundin"
+    },
+    {
+      "id": 796460,
+      "fideid": 0,
+      "firstName": "William",
+      "lastName": "Tellstedt"
+    },
+    {
+      "id": 796464,
+      "fideid": 0,
+      "firstName": "Bror",
+      "lastName": "Sivik Vestin"
+    },
+    {
+      "id": 796482,
+      "fideid": 0,
+      "firstName": "Anvar",
+      "lastName": "Södergren"
+    },
+    {
+      "id": 796501,
+      "fideid": 0,
+      "firstName": "Malik",
+      "lastName": "Shodyev"
+    },
+    {
+      "id": 796510,
+      "fideid": 0,
+      "firstName": "Luna",
+      "lastName": "Gronneberg"
+    },
+    {
+      "id": 796521,
+      "fideid": 0,
+      "firstName": "Riya",
+      "lastName": "Karthick"
+    },
+    {
+      "id": 796554,
+      "fideid": 563008254,
+      "firstName": "Sixten",
+      "lastName": "Sandberg Karlsson"
+    },
+    {
+      "id": 796567,
+      "fideid": 563007797,
+      "firstName": "Stefan",
+      "lastName": "Törnqvist"
+    },
+    {
+      "id": 796573,
+      "fideid": 0,
+      "firstName": "John",
+      "lastName": "Henningsson Gren"
+    },
+    {
+      "id": 796577,
+      "fideid": 0,
+      "firstName": "Hugo",
+      "lastName": "Svensson"
+    },
+    {
+      "id": 796588,
+      "fideid": 563010313,
+      "firstName": "Attessa",
+      "lastName": "Nilsson"
+    },
+    {
+      "id": 796606,
+      "fideid": 0,
+      "firstName": "Leo",
+      "lastName": "Starendal"
+    },
+    {
+      "id": 796607,
+      "fideid": 0,
+      "firstName": "Lovisa",
+      "lastName": "Karlsson"
+    },
+    {
+      "id": 796623,
+      "fideid": 0,
+      "firstName": "Alexander",
+      "lastName": "Spigel"
+    },
+    {
+      "id": 796627,
+      "fideid": 0,
+      "firstName": "Rian",
+      "lastName": "Talukdar"
+    },
+    {
+      "id": 796628,
+      "fideid": 0,
+      "firstName": "Jack",
+      "lastName": "Rosenqvist"
+    },
+    {
+      "id": 796629,
+      "fideid": 0,
+      "firstName": "Leandros",
+      "lastName": "Sarris"
+    },
+    {
+      "id": 796630,
+      "fideid": 0,
+      "firstName": "Arshiya Riha",
+      "lastName": "Sultana"
+    },
+    {
+      "id": 796631,
+      "fideid": 0,
+      "firstName": "Mounish Sai",
+      "lastName": "Kanumula"
+    },
+    {
+      "id": 796768,
+      "fideid": 563009684,
+      "firstName": "Gustaf",
+      "lastName": "Lind"
+    },
+    {
+      "id": 796770,
+      "fideid": 0,
+      "firstName": "Eduardo",
+      "lastName": "Illueca Fernandez"
+    },
+    {
+      "id": 797057,
+      "fideid": 0,
+      "firstName": "Hampus",
+      "lastName": "Olsson"
+    },
+    {
+      "id": 797334,
+      "fideid": 0,
+      "firstName": "Tor",
+      "lastName": "Kusoffsky"
+    },
+    {
+      "id": 797356,
+      "fideid": 563008440,
+      "firstName": "Ronald",
+      "lastName": "Domelid"
+    },
+    {
+      "id": 797386,
+      "fideid": 0,
+      "firstName": "Sten",
+      "lastName": "Lundkvist"
+    },
+    {
+      "id": 797393,
+      "fideid": 0,
+      "firstName": "Valter",
+      "lastName": "Berglund"
+    },
+    {
+      "id": 797488,
+      "fideid": 0,
+      "firstName": "Carl-Otto",
+      "lastName": "Ramel"
+    },
+    {
+      "id": 797489,
+      "fideid": 0,
+      "firstName": "Jackson",
+      "lastName": "Dextegen"
+    },
+    {
+      "id": 797490,
+      "fideid": 0,
+      "firstName": "Douglas",
+      "lastName": "Ramel"
+    },
+    {
+      "id": 797491,
+      "fideid": 0,
+      "firstName": "Olivia",
+      "lastName": "Vinstock"
+    },
+    {
+      "id": 797618,
+      "fideid": 1761005,
+      "firstName": "Robin",
+      "lastName": "Nyberg"
+    },
+    {
+      "id": 797619,
+      "fideid": 0,
+      "firstName": "Bengt",
+      "lastName": "Åström"
+    },
+    {
+      "id": 797627,
+      "fideid": 563008351,
+      "firstName": "Erik",
+      "lastName": "Larsson"
+    },
+    {
+      "id": 797825,
+      "fideid": 0,
+      "firstName": "Beata",
+      "lastName": "Johansson"
+    },
+    {
+      "id": 797882,
+      "fideid": 563009293,
+      "firstName": "Lemar",
+      "lastName": "Esmaili"
+    },
+    {
+      "id": 797943,
+      "fideid": 0,
+      "firstName": "Viktor",
+      "lastName": "Rizk"
+    },
+    {
+      "id": 797998,
+      "fideid": 0,
+      "firstName": "Jacob",
+      "lastName": "Andersson"
+    },
+    {
+      "id": 798160,
+      "fideid": 0,
+      "firstName": "Hamin",
+      "lastName": "Shin"
+    },
+    {
+      "id": 798166,
+      "fideid": 563008629,
+      "firstName": "Harby Antonio",
+      "lastName": "Murcia Suavita"
+    },
+    {
+      "id": 798170,
+      "fideid": 563009463,
+      "firstName": "Andreas",
+      "lastName": "Segeljakt"
+    },
+    {
+      "id": 798172,
+      "fideid": 563008637,
+      "firstName": "Rishit",
+      "lastName": "Soni"
+    },
+    {
+      "id": 798173,
+      "fideid": 0,
+      "firstName": "Roohafza",
+      "lastName": "Hasanzada"
+    },
+    {
+      "id": 798215,
+      "fideid": 0,
+      "firstName": "Taro",
+      "lastName": "Taro Johnsson "
+    },
+    {
+      "id": 798218,
+      "fideid": 30950767,
+      "firstName": "Niilo Man",
+      "lastName": "Nissinen"
+    },
+    {
+      "id": 798234,
+      "fideid": 0,
+      "firstName": "Ragnar",
+      "lastName": "Mercurio"
+    },
+    {
+      "id": 798235,
+      "fideid": 0,
+      "firstName": "Reyansh",
+      "lastName": "Mittal"
+    },
+    {
+      "id": 798236,
+      "fideid": 0,
+      "firstName": "Riya",
+      "lastName": "Mittal"
+    },
+    {
+      "id": 798238,
+      "fideid": 0,
+      "firstName": "Emir",
+      "lastName": "Ibragimov"
+    },
+    {
+      "id": 798421,
+      "fideid": 563009471,
+      "firstName": "Kristina",
+      "lastName": "Ekelund"
+    },
+    {
+      "id": 798422,
+      "fideid": 563009480,
+      "firstName": "Jan",
+      "lastName": "Karlsson"
+    },
+    {
+      "id": 798424,
+      "fideid": 0,
+      "firstName": "Damon",
+      "lastName": "Mirzakhani"
+    },
+    {
+      "id": 798425,
+      "fideid": 0,
+      "firstName": "Odin",
+      "lastName": "Hildeman"
+    },
+    {
+      "id": 798452,
+      "fideid": 563009765,
+      "firstName": "Niklas",
+      "lastName": "Fredstam"
+    },
+    {
+      "id": 798470,
+      "fideid": 1779524,
+      "firstName": "Noel",
+      "lastName": "Toncic"
+    },
+    {
+      "id": 798477,
+      "fideid": 563009030,
+      "firstName": "Isak John",
+      "lastName": "Andersson"
+    },
+    {
+      "id": 798539,
+      "fideid": 563009498,
+      "firstName": "Thomas",
+      "lastName": "Lindh"
+    },
+    {
+      "id": 798544,
+      "fideid": 563008882,
+      "firstName": "Kiril",
+      "lastName": "Tsekhmeister"
+    },
+    {
+      "id": 798555,
+      "fideid": 0,
+      "firstName": "Ludvig",
+      "lastName": "Burehäll"
+    },
+    {
+      "id": 798557,
+      "fideid": 0,
+      "firstName": "Halvard",
+      "lastName": "Måhlquist"
+    },
+    {
+      "id": 798558,
+      "fideid": 0,
+      "firstName": "Vincent",
+      "lastName": "Nohlgård"
+    },
+    {
+      "id": 798559,
+      "fideid": 0,
+      "firstName": "Björn",
+      "lastName": "Angelin"
+    },
+    {
+      "id": 798564,
+      "fideid": 563009072,
+      "firstName": "David",
+      "lastName": "Siomin"
+    },
+    {
+      "id": 798565,
+      "fideid": 0,
+      "firstName": "Loui",
+      "lastName": "Ingman Högberg"
+    },
+    {
+      "id": 798566,
+      "fideid": 0,
+      "firstName": "Milan",
+      "lastName": "Sundell"
+    },
+    {
+      "id": 798568,
+      "fideid": 0,
+      "firstName": "Attila",
+      "lastName": "Hasanov"
+    },
+    {
+      "id": 798596,
+      "fideid": 0,
+      "firstName": "Kevin",
+      "lastName": "Alexander"
+    },
+    {
+      "id": 798597,
+      "fideid": 0,
+      "firstName": "Alves",
+      "lastName": "Pira"
+    },
+    {
+      "id": 798598,
+      "fideid": 0,
+      "firstName": "David",
+      "lastName": "Osman"
+    },
+    {
+      "id": 798599,
+      "fideid": 0,
+      "firstName": "Adam",
+      "lastName": "Mostafa"
+    },
+    {
+      "id": 798600,
+      "fideid": 0,
+      "firstName": "Benjamin",
+      "lastName": "Itkes-Sznap"
+    },
+    {
+      "id": 798602,
+      "fideid": 0,
+      "firstName": "Gabriel",
+      "lastName": "Pöllänen Durán"
+    },
+    {
+      "id": 798610,
+      "fideid": 0,
+      "firstName": "Vilmer",
+      "lastName": "Hagström Sahlen"
+    },
+    {
+      "id": 798611,
+      "fideid": 0,
+      "firstName": "Jannat",
+      "lastName": "Boularbih"
+    },
+    {
+      "id": 798612,
+      "fideid": 0,
+      "firstName": "Elliot",
+      "lastName": "Persson"
+    },
+    {
+      "id": 798613,
+      "fideid": 563009048,
+      "firstName": "Hafsa",
+      "lastName": "Aytug"
+    },
+    {
+      "id": 798614,
+      "fideid": 0,
+      "firstName": "Harald",
+      "lastName": "Tomasi Andersson"
+    },
+    {
+      "id": 798615,
+      "fideid": 0,
+      "firstName": "Charlie",
+      "lastName": "Sonde"
+    },
+    {
+      "id": 798638,
+      "fideid": 0,
+      "firstName": "Filip",
+      "lastName": "Tidén"
+    },
+    {
+      "id": 798639,
+      "fideid": 0,
+      "firstName": "Christian",
+      "lastName": "Agnér"
+    },
+    {
+      "id": 798644,
+      "fideid": 0,
+      "firstName": "Jenil",
+      "lastName": "Prabhakar"
+    },
+    {
+      "id": 798651,
+      "fideid": 0,
+      "firstName": "Marcus",
+      "lastName": "Wahlberg"
+    },
+    {
+      "id": 798652,
+      "fideid": 563009676,
+      "firstName": "Klara",
+      "lastName": "Johansson"
+    },
+    {
+      "id": 798653,
+      "fideid": 563009749,
+      "firstName": "Marinus",
+      "lastName": "Larsen"
+    },
+    {
+      "id": 798654,
+      "fideid": 563009528,
+      "firstName": "Hugo",
+      "lastName": "Norstedt"
+    },
+    {
+      "id": 798695,
+      "fideid": 0,
+      "firstName": "Emil",
+      "lastName": "de Seze Levander"
+    },
+    {
+      "id": 798696,
+      "fideid": 0,
+      "firstName": "Melchior",
+      "lastName": "de Seze Levander"
+    },
+    {
+      "id": 798697,
+      "fideid": 0,
+      "firstName": "Alyasa",
+      "lastName": "Khan"
+    },
+    {
+      "id": 798698,
+      "fideid": 0,
+      "firstName": "Sebastian",
+      "lastName": "Weilar"
+    },
+    {
+      "id": 798699,
+      "fideid": 0,
+      "firstName": "Julian",
+      "lastName": "Lilja-Guilotte"
+    },
+    {
+      "id": 798700,
+      "fideid": 0,
+      "firstName": "Elwin",
+      "lastName": "Rosendahl"
+    },
+    {
+      "id": 798701,
+      "fideid": 0,
+      "firstName": "Theodore",
+      "lastName": "Zhu"
+    },
+    {
+      "id": 798761,
+      "fideid": 0,
+      "firstName": "Rosen",
+      "lastName": "von Gerber"
+    },
+    {
+      "id": 798810,
+      "fideid": 563009650,
+      "firstName": "Esmeralda",
+      "lastName": "Edvardsson"
+    },
+    {
+      "id": 798819,
+      "fideid": 0,
+      "firstName": "Julian",
+      "lastName": "Liljevinge"
+    },
+    {
+      "id": 798820,
+      "fideid": 0,
+      "firstName": "Tharik",
+      "lastName": "Thamim"
+    },
+    {
+      "id": 798822,
+      "fideid": 0,
+      "firstName": "Yusuf",
+      "lastName": "Alashram"
+    },
+    {
+      "id": 798824,
+      "fideid": 563009773,
+      "firstName": "Björn",
+      "lastName": "de Rouville"
+    },
+    {
+      "id": 798832,
+      "fideid": 0,
+      "firstName": "Lukas",
+      "lastName": "Naboultane"
+    },
+    {
+      "id": 798833,
+      "fideid": 0,
+      "firstName": "Adam",
+      "lastName": "Naboultane"
+    },
+    {
+      "id": 798834,
+      "fideid": 0,
+      "firstName": "Sebastian",
+      "lastName": "Attlerud"
+    },
+    {
+      "id": 798857,
+      "fideid": 1528815,
+      "firstName": "Aksel Bu",
+      "lastName": "Kvaloy"
+    },
+    {
+      "id": 798884,
+      "fideid": 0,
+      "firstName": "Amber",
+      "lastName": "Austen"
+    },
+    {
+      "id": 798886,
+      "fideid": 0,
+      "firstName": "Rufus",
+      "lastName": "Pankenier"
+    },
+    {
+      "id": 798889,
+      "fideid": 0,
+      "firstName": "Bruno",
+      "lastName": "Lantz"
+    },
+    {
+      "id": 798927,
+      "fideid": 563009080,
+      "firstName": "Mariia",
+      "lastName": "Moiseienko"
+    },
+    {
+      "id": 798928,
+      "fideid": 563009536,
+      "firstName": "Lena",
+      "lastName": "Ok"
+    },
+    {
+      "id": 798961,
+      "fideid": 0,
+      "firstName": "Gottfrid",
+      "lastName": "Ruiyi Zhang-Gustafsson"
+    },
+    {
+      "id": 798963,
+      "fideid": 0,
+      "firstName": "Yinshan",
+      "lastName": "Wang"
+    },
+    {
+      "id": 798965,
+      "fideid": 0,
+      "firstName": "Farid",
+      "lastName": "Aboelenin"
+    },
+    {
+      "id": 798967,
+      "fideid": 0,
+      "firstName": "Victoria",
+      "lastName": "Gourdin Adamek"
+    },
+    {
+      "id": 798969,
+      "fideid": 0,
+      "firstName": "Benjamin",
+      "lastName": "Adamek"
+    },
+    {
+      "id": 799060,
+      "fideid": 0,
+      "firstName": "Erik",
+      "lastName": "Wahlberg"
+    },
+    {
+      "id": 799067,
+      "fideid": 0,
+      "firstName": "Mira",
+      "lastName": "Gamfeldt"
+    },
+    {
+      "id": 799068,
+      "fideid": 0,
+      "firstName": "Tushikashivani",
+      "lastName": "Prabakaran"
+    },
+    {
+      "id": 799069,
+      "fideid": 0,
+      "firstName": "Manojkumar",
+      "lastName": "Prabakaran"
+    },
+    {
+      "id": 799072,
+      "fideid": 0,
+      "firstName": "Noah",
+      "lastName": "Starendal"
+    },
+    {
+      "id": 799073,
+      "fideid": 0,
+      "firstName": "Anton",
+      "lastName": "Danielsson"
+    },
+    {
+      "id": 799080,
+      "fideid": 0,
+      "firstName": "Edlira-Elisa",
+      "lastName": "Araya de Castilla"
+    },
+    {
+      "id": 799086,
+      "fideid": 0,
+      "firstName": "Khang",
+      "lastName": "Nguyen"
+    },
+    {
+      "id": 799087,
+      "fideid": 0,
+      "firstName": "Otto",
+      "lastName": "Nielsen"
+    },
+    {
+      "id": 799094,
+      "fideid": 563009153,
+      "firstName": "Leon",
+      "lastName": "Hildebrand"
+    },
+    {
+      "id": 799098,
+      "fideid": 563009161,
+      "firstName": "Shreyan",
+      "lastName": "Sharma"
+    },
+    {
+      "id": 799099,
+      "fideid": 0,
+      "firstName": "Johan",
+      "lastName": "Antell"
+    },
+    {
+      "id": 799103,
+      "fideid": 0,
+      "firstName": "Ernst",
+      "lastName": "Didon"
+    },
+    {
+      "id": 799105,
+      "fideid": 0,
+      "firstName": "Osmo",
+      "lastName": "Kou"
+    },
+    {
+      "id": 799131,
+      "fideid": 0,
+      "firstName": "Marcus",
+      "lastName": "Kvarfordh Andres"
+    },
+    {
+      "id": 799135,
+      "fideid": 0,
+      "firstName": "Casper",
+      "lastName": "Bjurstedt"
+    },
+    {
+      "id": 799170,
+      "fideid": 0,
+      "firstName": "Aaratrika",
+      "lastName": "Chatterjee"
+    },
+    {
+      "id": 799179,
+      "fideid": 0,
+      "firstName": "Wojciech",
+      "lastName": "Wójciak"
+    },
+    {
+      "id": 799180,
+      "fideid": 0,
+      "firstName": "Ellen",
+      "lastName": "Liljegren"
+    },
+    {
+      "id": 799181,
+      "fideid": 0,
+      "firstName": "Carina",
+      "lastName": "Lindstaf"
+    },
+    {
+      "id": 799280,
+      "fideid": 0,
+      "firstName": "Allan",
+      "lastName": "Relesjö"
+    },
+    {
+      "id": 799320,
+      "fideid": 0,
+      "firstName": "Rowan Douglas",
+      "lastName": "Cross"
+    },
+    {
+      "id": 799368,
+      "fideid": 0,
+      "firstName": "Benjamin",
+      "lastName": "Marisi"
+    },
+    {
+      "id": 799369,
+      "fideid": 0,
+      "firstName": "Julian",
+      "lastName": "de Chazal"
+    },
+    {
+      "id": 799370,
+      "fideid": 0,
+      "firstName": "Adrian",
+      "lastName": "Vaigur"
+    },
+    {
+      "id": 799371,
+      "fideid": 0,
+      "firstName": "Stephan",
+      "lastName": "Barysenka"
+    },
+    {
+      "id": 799432,
+      "fideid": 0,
+      "firstName": "Niki",
+      "lastName": "Morota"
+    },
+    {
+      "id": 799434,
+      "fideid": 0,
+      "firstName": "Mattias",
+      "lastName": "Kressmark"
+    },
+    {
+      "id": 799436,
+      "fideid": 563009285,
+      "firstName": "Tilde",
+      "lastName": "Junestam"
+    },
+    {
+      "id": 799450,
+      "fideid": 0,
+      "firstName": "Gunbileg",
+      "lastName": "Batsukh"
+    },
+    {
+      "id": 799457,
+      "fideid": 0,
+      "firstName": "Arvid",
+      "lastName": "Carlstedt"
+    },
+    {
+      "id": 799550,
+      "fideid": 0,
+      "firstName": "Lucas",
+      "lastName": "Forsell"
+    },
+    {
+      "id": 799551,
+      "fideid": 0,
+      "firstName": "Ellie",
+      "lastName": "Bednar"
+    },
+    {
+      "id": 799552,
+      "fideid": 0,
+      "firstName": "Naomi",
+      "lastName": "Rupar"
+    },
+    {
+      "id": 799553,
+      "fideid": 0,
+      "firstName": "Kingston",
+      "lastName": "Khotar"
+    },
+    {
+      "id": 799554,
+      "fideid": 0,
+      "firstName": "Alyasa",
+      "lastName": "Imran"
+    },
+    {
+      "id": 799566,
+      "fideid": 0,
+      "firstName": "Aarya",
+      "lastName": "Trivedi"
+    },
+    {
+      "id": 799607,
+      "fideid": 0,
+      "firstName": "Daniella",
+      "lastName": "Holm"
+    },
+    {
+      "id": 799649,
+      "fideid": 563009218,
+      "firstName": "Jinwei",
+      "lastName": "Liu"
+    },
+    {
+      "id": 799721,
+      "fideid": 563009307,
+      "firstName": "Alessandro",
+      "lastName": "Ndoshaj"
+    },
+    {
+      "id": 799722,
+      "fideid": 0,
+      "firstName": "Ishan",
+      "lastName": "Reddy"
+    },
+    {
+      "id": 799723,
+      "fideid": 0,
+      "firstName": "William",
+      "lastName": "Kaziaj"
+    },
+    {
+      "id": 799835,
+      "fideid": 0,
+      "firstName": "Leo",
+      "lastName": "Brattström"
+    },
+    {
+      "id": 799836,
+      "fideid": 0,
+      "firstName": "David",
+      "lastName": "Simoin"
+    },
+    {
+      "id": 799837,
+      "fideid": 0,
+      "firstName": "Elio",
+      "lastName": "Jagborn"
+    },
+    {
+      "id": 799902,
+      "fideid": 0,
+      "firstName": "Marijus",
+      "lastName": "Pranckunas"
+    },
+    {
+      "id": 799924,
+      "fideid": 0,
+      "firstName": "Nichita",
+      "lastName": "Chicu"
+    },
+    {
+      "id": 799927,
+      "fideid": 0,
+      "firstName": "Freddi",
+      "lastName": "Färedal"
+    },
+    {
+      "id": 799928,
+      "fideid": 0,
+      "firstName": "Oscar",
+      "lastName": "Öberg-Hellesen"
+    },
+    {
+      "id": 799929,
+      "fideid": 0,
+      "firstName": "Lise",
+      "lastName": "Öberg-Hellesen"
+    },
+    {
+      "id": 799933,
+      "fideid": 563010305,
+      "firstName": "Peyman",
+      "lastName": "Nasri"
+    },
+    {
+      "id": 799934,
+      "fideid": 563010275,
+      "firstName": "Eric",
+      "lastName": "Erfan"
+    },
+    {
+      "id": 799935,
+      "fideid": 0,
+      "firstName": "Carl",
+      "lastName": "Henrik Lönn"
+    },
+    {
+      "id": 799936,
+      "fideid": 0,
+      "firstName": "Hodder",
+      "lastName": "Stjernswärd"
+    },
+    {
+      "id": 799938,
+      "fideid": 0,
+      "firstName": "Emma",
+      "lastName": "Martinsson"
+    },
+    {
+      "id": 799939,
+      "fideid": 563010291,
+      "firstName": "Anders",
+      "lastName": "Lundin"
+    },
+    {
+      "id": 799940,
+      "fideid": 563010267,
+      "firstName": "Henrik",
+      "lastName": "Barud"
+    },
+    {
+      "id": 799957,
+      "fideid": 563010321,
+      "firstName": "Mikael",
+      "lastName": "Norén"
+    },
+    {
+      "id": 800028,
+      "fideid": 0,
+      "firstName": "Lo",
+      "lastName": "Hjelmstedt"
+    },
+    {
+      "id": 800029,
+      "fideid": 0,
+      "firstName": "Emil",
+      "lastName": "Hjelmstedt"
+    },
+    {
+      "id": 800036,
+      "fideid": 563009730,
+      "firstName": "Fredrik",
+      "lastName": "Westergren"
+    },
+    {
+      "id": 800037,
+      "fideid": 563010518,
+      "firstName": "Kenneth",
+      "lastName": "Karlsson"
+    },
+    {
+      "id": 800060,
+      "fideid": 563009714,
+      "firstName": "Qadir",
+      "lastName": "Malik"
+    },
+    {
+      "id": 800066,
+      "fideid": 0,
+      "firstName": "Matheo",
+      "lastName": "Måhl"
+    },
+    {
+      "id": 800681,
+      "fideid": 563009722,
+      "firstName": "Nicole",
+      "lastName": "Shahnazarian"
+    },
+    {
+      "id": 800741,
+      "fideid": 0,
+      "firstName": "Albert",
+      "lastName": "Appel"
+    },
+    {
+      "id": 800747,
+      "fideid": 563010330,
+      "firstName": "Theodor",
+      "lastName": "Pramer"
+    },
+    {
+      "id": 800751,
+      "fideid": 0,
+      "firstName": "Sam",
+      "lastName": "Dorrian"
+    },
+    {
+      "id": 800756,
+      "fideid": 0,
+      "firstName": "Anil",
+      "lastName": "Ghertasi"
+    },
+    {
+      "id": 800759,
+      "fideid": 0,
+      "firstName": "Viaan",
+      "lastName": "Singh"
+    },
+    {
+      "id": 800761,
+      "fideid": 0,
+      "firstName": "Mohamed",
+      "lastName": "Safiy"
+    },
+    {
+      "id": 800762,
+      "fideid": 0,
+      "firstName": "Fredrik",
+      "lastName": "Liu"
+    },
+    {
+      "id": 800763,
+      "fideid": 0,
+      "firstName": "Julia",
+      "lastName": "Wahab"
+    },
+    {
+      "id": 800764,
+      "fideid": 0,
+      "firstName": "Leonardas",
+      "lastName": "Saltenis"
+    },
+    {
+      "id": 800765,
+      "fideid": 0,
+      "firstName": "Pijus",
+      "lastName": "Saltenis"
+    },
+    {
+      "id": 800766,
+      "fideid": 0,
+      "firstName": "David",
+      "lastName": "Jansen"
+    },
+    {
+      "id": 800768,
+      "fideid": 0,
+      "firstName": "Devansh",
+      "lastName": "Videshwar"
+    },
+    {
+      "id": 800769,
+      "fideid": 0,
+      "firstName": "Tore",
+      "lastName": "Gabestad"
+    },
+    {
+      "id": 800770,
+      "fideid": 0,
+      "firstName": "William",
+      "lastName": "Lundqvist"
+    },
+    {
+      "id": 800771,
+      "fideid": 0,
+      "firstName": "Yufeng",
+      "lastName": "Zhong"
+    },
+    {
+      "id": 800772,
+      "fideid": 0,
+      "firstName": "Nova",
+      "lastName": "Faith-Ell"
+    },
+    {
+      "id": 800773,
+      "fideid": 0,
+      "firstName": "Richie",
+      "lastName": "Chen"
+    },
+    {
+      "id": 800774,
+      "fideid": 0,
+      "firstName": "Gustaf",
+      "lastName": "Jonsson"
+    },
+    {
+      "id": 800775,
+      "fideid": 0,
+      "firstName": "Ruth",
+      "lastName": "Liesén"
+    },
+    {
+      "id": 800776,
+      "fideid": 0,
+      "firstName": "Elias",
+      "lastName": "Nejat"
+    },
+    {
+      "id": 800777,
+      "fideid": 0,
+      "firstName": "Folke",
+      "lastName": "Rydmark"
+    },
+    {
+      "id": 800778,
+      "fideid": 0,
+      "firstName": "Niklas",
+      "lastName": "Tang"
+    },
+    {
+      "id": 800782,
+      "fideid": 0,
+      "firstName": "Theodor",
+      "lastName": "Agerberg"
+    },
+    {
+      "id": 800799,
+      "fideid": 0,
+      "firstName": "Robin",
+      "lastName": "Poorkand"
+    },
+    {
+      "id": 800800,
+      "fideid": 0,
+      "firstName": "Alfie",
+      "lastName": "Ortmann"
+    },
+    {
+      "id": 800801,
+      "fideid": 0,
+      "firstName": "Alexander",
+      "lastName": "Wahlén"
+    },
+    {
+      "id": 800802,
+      "fideid": 0,
+      "firstName": "Angelo",
+      "lastName": "Elia"
+    },
+    {
+      "id": 800803,
+      "fideid": 0,
+      "firstName": "Anthony",
+      "lastName": "Elia"
+    },
+    {
+      "id": 800804,
+      "fideid": 0,
+      "firstName": "Arsenii",
+      "lastName": "Seits"
+    },
+    {
+      "id": 800805,
+      "fideid": 0,
+      "firstName": "Gitarika",
+      "lastName": "Motwani"
+    },
+    {
+      "id": 800806,
+      "fideid": 0,
+      "firstName": "Leon",
+      "lastName": "Cseh"
+    },
+    {
+      "id": 800807,
+      "fideid": 0,
+      "firstName": "Noel",
+      "lastName": "Precharcyk"
+    },
+    {
+      "id": 800808,
+      "fideid": 0,
+      "firstName": "Seva",
+      "lastName": "Voronov"
+    },
+    {
+      "id": 800809,
+      "fideid": 0,
+      "firstName": "Suld",
+      "lastName": "Chingis"
+    },
+    {
+      "id": 800936,
+      "fideid": 0,
+      "firstName": "Jamesia",
+      "lastName": "Antell"
+    },
+    {
+      "id": 801130,
+      "fideid": 0,
+      "firstName": "Jonas",
+      "lastName": "Gunnäs"
+    },
+    {
+      "id": 801360,
+      "fideid": 0,
+      "firstName": "Ingrid",
+      "lastName": "Fägerwall"
+    },
+    {
+      "id": 801372,
+      "fideid": 0,
+      "firstName": "Anton",
+      "lastName": "Sagi"
+    },
+    {
+      "id": 801373,
+      "fideid": 509825,
+      "firstName": "Toivo",
+      "lastName": "Keinänen"
+    },
+    {
+      "id": 801374,
+      "fideid": 0,
+      "firstName": "Josef",
+      "lastName": "Dincer"
+    },
+    {
+      "id": 801375,
+      "fideid": 0,
+      "firstName": "Tugsbileg",
+      "lastName": "Sangibat"
+    },
+    {
+      "id": 801376,
+      "fideid": 0,
+      "firstName": "Sanjith",
+      "lastName": "Manikandan"
+    },
+    {
+      "id": 801377,
+      "fideid": 1191365,
+      "firstName": "Mikolaj",
+      "lastName": "Nowak"
+    },
+    {
+      "id": 801378,
+      "fideid": 0,
+      "firstName": "Saai Krish",
+      "lastName": "Manikandan"
+    },
+    {
+      "id": 801393,
+      "fideid": 0,
+      "firstName": "Knut",
+      "lastName": "Alsaker"
+    },
+    {
+      "id": 801759,
+      "fideid": 0,
+      "firstName": "Kaj",
+      "lastName": "Sellin"
+    },
+    {
+      "id": 801789,
+      "fideid": 0,
+      "firstName": "Raynav",
+      "lastName": "Kamawat"
+    },
+    {
+      "id": 801790,
+      "fideid": 0,
+      "firstName": "Alexander",
+      "lastName": "Chatuev"
+    },
+    {
+      "id": 801844,
+      "fideid": 0,
+      "firstName": "Ivanna",
+      "lastName": "Avalos Roque"
+    },
+    {
+      "id": 802113,
+      "fideid": 0,
+      "firstName": "Dorian",
+      "lastName": "Radeka Romée"
+    },
+    {
+      "id": 802152,
+      "fideid": 0,
+      "firstName": "Ingrid",
+      "lastName": "Arwin"
+    },
+    {
+      "id": 802223,
+      "fideid": 0,
+      "firstName": "Ida",
+      "lastName": "Arwin"
+    },
+    {
+      "id": 802309,
+      "fideid": 652002780,
+      "firstName": "Arthur",
+      "lastName": "Dordevic"
+    },
+    {
+      "id": 802349,
+      "fideid": 0,
+      "firstName": "Calle",
+      "lastName": "Wengse"
+    },
+    {
+      "id": 802378,
+      "fideid": 0,
+      "firstName": "Pugal",
+      "lastName": "Arun"
+    },
+    {
+      "id": 802522,
+      "fideid": 0,
+      "firstName": "Martin",
+      "lastName": "Stål"
+    },
+    {
+      "id": 802867,
+      "fideid": 0,
+      "firstName": "Charles",
+      "lastName": "Dobney"
+    },
+    {
+      "id": 802898,
+      "fideid": 0,
+      "firstName": "Albert",
+      "lastName": "Bernström"
+    },
+    {
+      "id": 802899,
+      "fideid": 0,
+      "firstName": "Adrian",
+      "lastName": "Wallgren"
+    },
+    {
+      "id": 802901,
+      "fideid": 0,
+      "firstName": "Agaton",
+      "lastName": "Snellman"
+    },
+    {
+      "id": 802903,
+      "fideid": 0,
+      "firstName": "Ruben",
+      "lastName": "Öhrn"
+    },
+    {
+      "id": 802905,
+      "fideid": 0,
+      "firstName": "Nathan",
+      "lastName": "Percivall"
+    },
+    {
+      "id": 802908,
+      "fideid": 0,
+      "firstName": "Ellis",
+      "lastName": "Trinder"
+    },
+    {
+      "id": 802940,
+      "fideid": 0,
+      "firstName": "Tage",
+      "lastName": "Andersson Lindvall"
+    },
+    {
+      "id": 803180,
+      "fideid": 0,
+      "firstName": "Zinon",
+      "lastName": "Sarris"
+    },
+    {
+      "id": 803223,
+      "fideid": 0,
+      "firstName": "Axel",
+      "lastName": "Emilson"
+    },
+    {
+      "id": 803225,
+      "fideid": 0,
+      "firstName": "Yokubjon",
+      "lastName": "Yusupov"
+    },
+    {
+      "id": 803226,
+      "fideid": 0,
+      "firstName": "Tanushree",
+      "lastName": "Sunilraj"
+    },
+    {
+      "id": 803227,
+      "fideid": 0,
+      "firstName": "Filomena",
+      "lastName": "Ayyad"
+    },
+    {
+      "id": 803228,
+      "fideid": 0,
+      "firstName": "Nishwanth",
+      "lastName": "Balaji"
+    },
+    {
+      "id": 803229,
+      "fideid": 0,
+      "firstName": "Aviana",
+      "lastName": "Madhan"
+    },
+    {
+      "id": 803230,
+      "fideid": 0,
+      "firstName": "Laasya Sri Priya",
+      "lastName": "Ramineni"
+    },
+    {
+      "id": 803231,
+      "fideid": 0,
+      "firstName": "Rafael Ron",
+      "lastName": "Sebastin"
+    },
+    {
+      "id": 803232,
+      "fideid": 0,
+      "firstName": "Orest",
+      "lastName": "Vashchuk"
+    },
+    {
+      "id": 803233,
+      "fideid": 0,
+      "firstName": "Deniz",
+      "lastName": "Cagdas Kucuk"
+    },
+    {
+      "id": 803234,
+      "fideid": 0,
+      "firstName": "Manuela",
+      "lastName": "Mulushava"
+    },
+    {
+      "id": 803235,
+      "fideid": 0,
+      "firstName": "Mariana Mulushewa",
+      "lastName": "Daba"
+    },
+    {
+      "id": 803239,
+      "fideid": 0,
+      "firstName": "Teodor",
+      "lastName": "Löfgren"
+    },
+    {
+      "id": 803246,
+      "fideid": 0,
+      "firstName": "Sai Dheera",
+      "lastName": "Kobula"
+    },
+    {
+      "id": 803894,
+      "fideid": 0,
+      "firstName": "Rudhvi",
+      "lastName": "Poojari"
+    },
+    {
+      "id": 803987,
+      "fideid": 0,
+      "firstName": "Brian",
+      "lastName": "Yu"
+    },
+    {
+      "id": 804668,
+      "fideid": 1463225,
+      "firstName": "Laurits",
+      "lastName": "Bønsvig Wehding"
+    },
+    {
+      "id": 805641,
+      "fideid": 0,
+      "firstName": "Kabeer",
+      "lastName": "Kumar"
+    },
+    {
+      "id": 805643,
+      "fideid": 0,
+      "firstName": "Aaradhana",
+      "lastName": "Kavinbharathi"
+    },
+    {
+      "id": 806657,
+      "fideid": 0,
+      "firstName": "Thor",
+      "lastName": "Vikström"
+    },
+    {
+      "id": 806994,
+      "fideid": 0,
+      "firstName": "Niklas",
+      "lastName": "Kalmkvist"
+    },
+    {
+      "id": 807060,
+      "fideid": 0,
+      "firstName": "Hannah",
+      "lastName": "Ferst"
+    },
+    {
+      "id": 807061,
+      "fideid": 0,
+      "firstName": "Roluin",
+      "lastName": "Malak"
+    },
+    {
+      "id": 807062,
+      "fideid": 0,
+      "firstName": "August",
+      "lastName": "Ahlstedt"
+    },
+    {
+      "id": 807063,
+      "fideid": 0,
+      "firstName": "Viraj Savit",
+      "lastName": "Kandikonda"
+    },
+    {
+      "id": 807070,
+      "fideid": 0,
+      "firstName": "Lukas",
+      "lastName": "Berggren"
+    },
+    {
+      "id": 807224,
+      "fideid": 0,
+      "firstName": "Ruth",
+      "lastName": "Barkhagen"
+    },
+    {
+      "id": 807225,
+      "fideid": 0,
+      "firstName": "Sven",
+      "lastName": "Kiener"
+    },
+    {
+      "id": 807226,
+      "fideid": 0,
+      "firstName": "Archibald",
+      "lastName": "De Geer "
+    },
+    {
+      "id": 807227,
+      "fideid": 0,
+      "firstName": "Thamarai",
+      "lastName": "Selvan"
+    },
+    {
+      "id": 807324,
+      "fideid": 0,
+      "firstName": "Benjamin",
+      "lastName": "Rippling"
+    },
+    {
+      "id": 807326,
+      "fideid": 0,
+      "firstName": "Aksel",
+      "lastName": "Gjertsen"
+    },
+    {
+      "id": 807328,
+      "fideid": 0,
+      "firstName": "Hiyab",
+      "lastName": "Berhane"
+    },
+    {
+      "id": 807329,
+      "fideid": 0,
+      "firstName": "Shreyansh",
+      "lastName": "Kashyap Chaturvedi"
+    },
+    {
+      "id": 807425,
+      "fideid": 0,
+      "firstName": "Wiggo",
+      "lastName": "Lobas Hansson"
+    },
+    {
+      "id": 807448,
+      "fideid": 0,
+      "firstName": "Sixten",
+      "lastName": "Jakobson"
+    },
+    {
+      "id": 807452,
+      "fideid": 0,
+      "firstName": "Mark",
+      "lastName": "Bardetki"
+    },
+    {
+      "id": 807455,
+      "fideid": 0,
+      "firstName": "Jacob",
+      "lastName": "Wallerstedt  "
+    },
+    {
+      "id": 807470,
+      "fideid": 0,
+      "firstName": "liam",
+      "lastName": "adala aray"
+    },
+    {
+      "id": 807483,
+      "fideid": 0,
+      "firstName": "Sahiti Sri Aadhya",
+      "lastName": "Sikhakolli"
+    },
+    {
+      "id": 807497,
+      "fideid": 0,
+      "firstName": "Noel",
+      "lastName": "Sand Jones"
+    },
+    {
+      "id": 807568,
+      "fideid": 0,
+      "firstName": "Yakinthos",
+      "lastName": "Makrygiannakis-Flytzanis"
+    },
+    {
+      "id": 807574,
+      "fideid": 0,
+      "firstName": "Edward",
+      "lastName": "Elkington"
+    },
+    {
+      "id": 807575,
+      "fideid": 0,
+      "firstName": "Filip",
+      "lastName": "Elkington"
+    },
+    {
+      "id": 807576,
+      "fideid": 0,
+      "firstName": "Rik",
+      "lastName": "Mutian Sun."
+    },
+    {
+      "id": 807678,
+      "fideid": 0,
+      "firstName": "Ines",
+      "lastName": "Ahlgren Flodin"
+    },
+    {
+      "id": 807679,
+      "fideid": 0,
+      "firstName": "Milly",
+      "lastName": "Ivanovic"
+    },
+    {
+      "id": 807680,
+      "fideid": 0,
+      "firstName": "Viggo",
+      "lastName": "Jennessen"
+    },
+    {
+      "id": 807681,
+      "fideid": 0,
+      "firstName": "Björn",
+      "lastName": "Jonsson"
+    },
+    {
+      "id": 807682,
+      "fideid": 0,
+      "firstName": "Alexander",
+      "lastName": "Larm Johansson"
+    },
+    {
+      "id": 807683,
+      "fideid": 0,
+      "firstName": "Bill",
+      "lastName": "Lindquist"
+    },
+    {
+      "id": 807684,
+      "fideid": 0,
+      "firstName": "Nils",
+      "lastName": "Pettersson"
+    },
+    {
+      "id": 807685,
+      "fideid": 0,
+      "firstName": "Anton",
+      "lastName": "Redbark"
+    },
+    {
+      "id": 807686,
+      "fideid": 0,
+      "firstName": "Ariana",
+      "lastName": "Sahraie"
+    },
+    {
+      "id": 807687,
+      "fideid": 0,
+      "firstName": "Matilda",
+      "lastName": "Strömberg Warne"
+    },
+    {
+      "id": 807688,
+      "fideid": 0,
+      "firstName": "Ines",
+      "lastName": "Wikskal"
+    },
+    {
+      "id": 807696,
+      "fideid": 0,
+      "firstName": "Dante",
+      "lastName": "Pagliero"
+    },
+    {
+      "id": 807699,
+      "fideid": 0,
+      "firstName": "Emmy",
+      "lastName": "Rautila Törnsén"
+    },
+    {
+      "id": 807700,
+      "fideid": 0,
+      "firstName": "Adam",
+      "lastName": "Ablaiev"
+    },
+    {
+      "id": 807701,
+      "fideid": 0,
+      "firstName": "Salakhuddin",
+      "lastName": "Ablaiev"
+    },
+    {
+      "id": 807704,
+      "fideid": 0,
+      "firstName": "Hilding",
+      "lastName": "Krönby"
+    },
+    {
+      "id": 807707,
+      "fideid": 0,
+      "firstName": "Peter Ferdinand",
+      "lastName": "Cyril David Prakash"
+    }
+  ]
+}

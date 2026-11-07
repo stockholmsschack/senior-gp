@@ -1,0 +1,43 @@
+[project]
+name = "stsf-senior-gp"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.3",
+    "polars>=1.38.1",
+    "requests>=2.32.5",
+    "typer>=0.16.0",
+    "xlrd>=2.0.2",
+    "xlsxwriter>=3.2.9",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# The tests import shared helpers from each other as `tests.<module>`.
+pythonpath = ["."]
+
+[project.scripts]
+senior = "senior_gp.cli:main"
+senior-web = "senior_gp.web.__main__:main"
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+# The installed package holds Senior GP and the modules it uses.
+[tool.setuptools.packages.find]
+include = ["senior_gp*"]
+namespaces = false
+
+[tool.setuptools.package-data]
+"senior_gp.web" = [
+    "templates/**/*.jinja2",
+    "static/css/*.css",
+    "static/js/*.js",
+    "locales/*.json",
+]

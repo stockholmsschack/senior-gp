@@ -1,0 +1,79 @@
+"""Constants for Swiss-Manager TUNX parsing."""
+
+MAGIC = 0x44_89_FF_93
+CONFIG_MARKER = 0x44_89_FF_95
+PLAYER_MARKER = 0x44_89_FF_A5
+PAIRINGS_MARKER = 0x44_89_FF_B3
+PAIRINGS_END_MARKER = 0x44_89_FF_D3
+
+HEADER_SIZE = 0x6C
+METADATA_OFFSET = 0x6C
+
+# Offsets within the config section, after its marker
+CONFIG_OFFSET_TOTAL_ROUNDS = 0x00
+CONFIG_OFFSET_CURRENT_ROUND = 0x11
+CONFIG_OFFSET_PLAYER_COUNT = 0x13
+CONFIG_OFFSET_TIEBREAK_COUNT = 0x1B
+CONFIG_OFFSET_TIEBREAKS = 0x1D
+MAX_TIEBREAKS = 10
+
+PLAYER_STRING_COUNT = 30
+PLAYER_NUMERIC_BLOCK_SIZE = 110
+PLAYER_NUMERIC_OFFSET_FIDE_RATING = 0x08
+PLAYER_NUMERIC_OFFSET_NATIONAL_RATING = 0x0A
+PLAYER_NUMERIC_OFFSET_FIDE_ID = 0x18
+
+PAIRING_RECORD_SIZE = 21
+
+METADATA = {
+    "CATEGORIES": 13,
+    "CHIEF_ARBITER": 3,
+    "CITY": 10,
+    "DEPUTY_ARBITER": 4,
+    "FEDERATION": 20,
+    "INTERNAL_ID": 11,
+    "NAME": 0,
+    "OTHER_ARBITERS": 6,
+    "PGN_PATH_1": 7,
+    "PGN_PATH_2": 8,
+    "SHORT_NAME": 9,
+    "SUBTITLE_LONG": 2,
+    "SUBTITLE_SHORT": 1,
+    "TIME_CONTROL": 14,
+    "VENUE": 5,
+}
+
+PLAYER_STRINGS = {
+    "ACADEMIC_TITLE": 2,
+    "CLUB": 9,
+    "FEDERATION": 10,
+    "FIRST_NAME": 1,
+    "GROUP_1": 11,
+    "GROUP_2": 12,
+    "NATIONAL_ID": 5,
+    "SHORT_NAME": 3,
+    "SURNAME": 0,
+    "TITLE": 4,
+    "TYPE_CATEGORY": 17,
+}
+
+# Result codes for a game between two players
+RESULT_CODE = {
+    "NO_RESULT": 0,
+    "WHITE_WINS": 1,
+    "DRAW": 2,
+    "BLACK_WINS": 3,
+    "WHITE_WINS_FORFEIT": 4,
+    "BLACK_WINS_FORFEIT": 5,
+    "DOUBLE_LOSS": 6,
+}
+
+# Opponent numbers that name no player
+FULL_POINT_BYE = 0xFF_FF
+NOT_PAIRED = 0xFF_FE
+
+# Known result codes for each opponent number that names no player
+BYE_RESULT_CODES = {
+    FULL_POINT_BYE: {9},
+    NOT_PAIRED: {0, 3},
+}

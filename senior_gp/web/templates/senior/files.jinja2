@@ -1,0 +1,105 @@
+{% extends "senior/base.jinja2" %}
+
+{% block title %}{{ t(title_key) }} · {{ t("app.name") }}{% endblock %}
+
+{% block content %}
+    <div data-available-files>
+        <h1>{{ t(title_key) }}</h1>
+
+        <div class="alert d-none" role="status" tabindex="-1" data-clear-outcome></div>
+
+        {% if files %}
+            <div class="table-responsive" data-file-list>
+                <table class="table table-striped align-middle">
+                    <thead>
+                        <tr>
+                            <th scope="col">{{ t("files.season") }}</th>
+                            <th scope="col">{{ t("files.file") }}</th>
+                            <th scope="col">{{ t("files.generated") }}</th>
+                            <th scope="col"><span class="visually-hidden">{{ t("files.action") }}</span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for file in files %}
+                            <tr data-season="{{ file.season }}">
+                                <td>{{ file.season }}</td>
+                                <td>
+                                    {{ t(file.label_key) }}
+                                    {% if file.latest %}<span class="badge text-bg-success ms-1">{{ t("files.latest") }}</span>{% endif %}
+                                </td>
+                                <td>
+                                    <time datetime="{{ file.generated_at.isoformat() }}">
+                                        {{ file.generated_at.strftime("%Y-%m-%d %H:%M:%S") }}
+                                    </time>
+                                </td>
+                                <td class="text-end">
+                                    <a class="btn btn-primary btn-sm" href="{{ file.url }}">{{ t("files.download") }}</a>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        {% endif %}
+
+        <div class="alert alert-light border{% if files %} d-none{% endif %}" role="status" data-file-empty>{{ t(empty_key) }}</div>
+
+        {% for season in clear_seasons %}
+            <button
+                type="button"
+                class="btn btn-outline-danger me-2 mb-2"
+                data-bs-toggle="modal"
+                data-bs-target="#clear-dialog-{{ season }}"
+                data-clear-open="{{ season }}"
+            >
+                {{ t("files.clear.open", season=season) }}
+            </button>
+        {% endfor %}
+
+        {% for season in clear_seasons %}
+            <div
+                class="modal fade"
+                id="clear-dialog-{{ season }}"
+                tabindex="-1"
+                aria-labelledby="clear-dialog-heading-{{ season }}"
+                aria-describedby="clear-dialog-body-{{ season }}"
+                aria-hidden="true"
+                data-clear-dialog
+            >
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h2 class="modal-title fs-5" id="clear-dialog-heading-{{ season }}">
+                                {{ t("files.clear.heading", season=season) }}
+                            </h2>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="{{ t('files.clear.cancel') }}"></button>
+                        </div>
+                        <div class="modal-body" id="clear-dialog-body-{{ season }}">
+                            <p>{{ t("files.clear.confirmation", season=season) }}</p>
+                            <p class="mb-0">{{ t("files.clear.kept") }}</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{ t("files.clear.cancel") }}</button>
+                            <button
+                                type="button"
+                                class="btn btn-danger"
+                                data-clear-confirm
+                                data-season="{{ season }}"
+                                data-endpoint="{{ url_for('senior.clear_downloads', season=season) }}"
+                                data-idle-label="{{ t('files.clear.confirm') }}"
+                                data-busy-label="{{ t('files.clear.clearing') }}"
+                            >{{ t("files.clear.confirm") }}</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}
+
+{% block extra_js %}
+    {% if clear_seasons %}
+        <script type="application/json" id="locale-catalogue">{{ catalogue | tojson }}</script>
+        <script type="module" src="{{ url_for('senior.static', filename='js/available-files.js') }}"></script>
+    {% endif %}
+{% endblock %}

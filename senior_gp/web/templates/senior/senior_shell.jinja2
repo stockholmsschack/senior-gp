@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="{{ locale }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ t("app.name") }}{% endblock %}</title>
+    <link href="{{ url_for('senior.static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    {% block head %}{% endblock %}
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="{{ url_for('senior.landing', lang=locale) }}">
+            {{ t("app.name") }}
+        </a>
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#primary-navigation"
+            aria-controls="primary-navigation"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="primary-navigation">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link{% if request.endpoint == 'senior.landing' %} active{% endif %}"
+                       href="{{ url_for('senior.landing', lang=locale) }}">
+                        {{ t("nav.home") }}
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link{% if request.endpoint == 'senior.available_files' %} active{% endif %}"
+                       href="{{ url_for('senior.available_files', lang=locale) }}">
+                        {{ t("nav.available_files") }}
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link{% if request.endpoint == 'senior.reports' %} active{% endif %}"
+                       href="{{ url_for('senior.reports', lang=locale) }}">
+                        {{ t("nav.reports") }}
+                    </a>
+                </li>
+            </ul>
+            <form class="d-flex align-items-center" method="get" action="{{ request.path }}" data-senior-navigation>
+                {% for key, value in request.args.items() if key != "lang" %}
+                    <input type="hidden" name="{{ key }}" value="{{ value }}">
+                {% endfor %}
+                <label class="text-light me-2" for="locale-choice">
+                    {{ t("locale.label") }}
+                </label>
+                <select
+                    class="form-select form-select-sm"
+                    id="locale-choice"
+                    name="lang"
+                    onchange="this.form.requestSubmit()"
+                >
+                    {% for choice in locales %}
+                        <option value="{{ choice }}"{% if choice == locale %} selected{% endif %}>
+                            {{ t("locale." ~ choice) }}
+                        </option>
+                    {% endfor %}
+                </select>
+            </form>
+        </div>
+    </div>
+</nav>
+
+<main class="container my-4">
+    {% block content %}{% endblock %}
+</main>
+
+<script src="{{ url_for('senior.static', filename='js/bootstrap.bundle.min.js') }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

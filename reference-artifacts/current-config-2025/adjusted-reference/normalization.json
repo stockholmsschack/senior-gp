@@ -1,0 +1,6 @@
+{
+  "rule": "Replace missing or null elo with an empty mapping before classification",
+  "member_ids": [
+    628652
+  ]
+}

@@ -1,0 +1,16 @@
+body {
+    min-height: 100vh;
+}
+
+main.container {
+    max-width: 1100px;
+}
+
+.navbar .form-select {
+    width: auto;
+}
+
+/* Short labels such as "Add" would otherwise give a button too small to hit. */
+.btn {
+    min-width: 80px;
+}

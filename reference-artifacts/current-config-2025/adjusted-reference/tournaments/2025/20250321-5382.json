@@ -1,0 +1,436 @@
+[
+  {
+    "contenderId": 350579,
+    "name": "Erik Blomqvist",
+    "points": 7.0,
+    "secPoints": 30.070401822186106,
+    "klass": "A"
+  },
+  {
+    "contenderId": 428347,
+    "name": "JungMin Seo",
+    "points": 5.5,
+    "secPoints": 31.050303794239742,
+    "klass": "A"
+  },
+  {
+    "contenderId": 397573,
+    "name": "Arvin Rasti",
+    "points": 5.0,
+    "secPoints": 29.050409768233944,
+    "klass": "B"
+  },
+  {
+    "contenderId": 513654,
+    "name": "Vidar Seiger",
+    "points": 5.0,
+    "secPoints": 28.54040636115929,
+    "klass": "B"
+  },
+  {
+    "contenderId": 359469,
+    "name": "Johan Eriksson",
+    "points": 5.0,
+    "secPoints": 28.53040057014231,
+    "klass": "A"
+  },
+  {
+    "contenderId": 450799,
+    "name": "Julia Östensson",
+    "points": 5.0,
+    "secPoints": 28.04040411815249,
+    "klass": "C"
+  },
+  {
+    "contenderId": 541890,
+    "name": "Melvin Ral Lustig",
+    "points": 5.0,
+    "secPoints": 27.540405226906785,
+    "klass": "B"
+  },
+  {
+    "contenderId": 350627,
+    "name": "Leo Brodin",
+    "points": 5.0,
+    "secPoints": 27.05040631717967,
+    "klass": "B"
+  },
+  {
+    "contenderId": 546393,
+    "name": "Pratyush Tripathi",
+    "points": 5.0,
+    "secPoints": 26.530306659957567,
+    "klass": "B"
+  },
+  {
+    "contenderId": 563001,
+    "name": "Oliver Wedenberg",
+    "points": 5.0,
+    "secPoints": 26.05040339554109,
+    "klass": "C"
+  },
+  {
+    "contenderId": 677393,
+    "name": "Julius Schwartz",
+    "points": 5.0,
+    "secPoints": 25.540307589392214,
+    "klass": "B"
+  },
+  {
+    "contenderId": 365063,
+    "name": "Carl Cederstam",
+    "points": 4.5,
+    "secPoints": 27.540300443084252,
+    "klass": "A"
+  },
+  {
+    "contenderId": 642041,
+    "name": "Sebastian Shi",
+    "points": 4.5,
+    "secPoints": 27.04040989772606,
+    "klass": "C"
+  },
+  {
+    "contenderId": 520087,
+    "name": "Khaschuluu Sergelenbaatar",
+    "points": 4.5,
+    "secPoints": 26.040303895990146,
+    "klass": "C"
+  },
+  {
+    "contenderId": 358866,
+    "name": "Ulf Hammar",
+    "points": 4.5,
+    "secPoints": 26.030301989163792,
+    "klass": "E"
+  },
+  {
+    "contenderId": 501613,
+    "name": "Hongjun Wang",
+    "points": 4.5,
+    "secPoints": 25.530303236871237,
+    "klass": "C"
+  },
+  {
+    "contenderId": 624455,
+    "name": "Simon Elväng",
+    "points": 4.5,
+    "secPoints": 23.040302882982143,
+    "klass": "D"
+  },
+  {
+    "contenderId": 686316,
+    "name": "Victor Skoog",
+    "points": 4.5,
+    "secPoints": 21.54040050645272,
+    "klass": "C"
+  },
+  {
+    "contenderId": 350252,
+    "name": "Rune Evertsson",
+    "points": 4.0,
+    "secPoints": 24.540303057933542,
+    "klass": "C"
+  },
+  {
+    "contenderId": 423756,
+    "name": "Ludwig Sandhu",
+    "points": 4.0,
+    "secPoints": 23.540306879311853,
+    "klass": "E"
+  },
+  {
+    "contenderId": 488421,
+    "name": "Carina Wickström",
+    "points": 4.0,
+    "secPoints": 22.030300053134276,
+    "klass": "C"
+  },
+  {
+    "contenderId": 710459,
+    "name": "Anders Berg",
+    "points": 4.0,
+    "secPoints": 21.030309207310857,
+    "klass": "C"
+  },
+  {
+    "contenderId": 540537,
+    "name": "Victor Kämpe",
+    "points": 4.0,
+    "secPoints": 18.540305608889838,
+    "klass": "D"
+  },
+  {
+    "contenderId": 428344,
+    "name": "Oliver Nilsson",
+    "points": 3.5,
+    "secPoints": 26.530301192857923,
+    "klass": "B"
+  },
+  {
+    "contenderId": 345790,
+    "name": "Eva Jiretorn",
+    "points": 3.5,
+    "secPoints": 26.030402341681782,
+    "klass": "C"
+  },
+  {
+    "contenderId": 726286,
+    "name": "Igor Markov",
+    "points": 3.5,
+    "secPoints": 25.03040836975883,
+    "klass": "E"
+  },
+  {
+    "contenderId": 685665,
+    "name": "Sixten Strand",
+    "points": 3.5,
+    "secPoints": 24.030400471705843,
+    "klass": "C"
+  },
+  {
+    "contenderId": 364006,
+    "name": "Mikael Helin",
+    "points": 3.5,
+    "secPoints": 23.03040855816541,
+    "klass": "C"
+  },
+  {
+    "contenderId": 431920,
+    "name": "Hans Malmsten",
+    "points": 3.5,
+    "secPoints": 22.530302585655193,
+    "klass": "B"
+  },
+  {
+    "contenderId": 435185,
+    "name": "Jakob Fahlman",
+    "points": 3.5,
+    "secPoints": 22.530300680350944,
+    "klass": "C"
+  },
+  {
+    "contenderId": 365069,
+    "name": "Morris Bergqvist",
+    "points": 3.5,
+    "secPoints": 21.530402716548313,
+    "klass": "C"
+  },
+  {
+    "contenderId": 612929,
+    "name": "Bruce Sun Åslund",
+    "points": 3.5,
+    "secPoints": 20.53030827199465,
+    "klass": "D"
+  },
+  {
+    "contenderId": 541388,
+    "name": "Svante Nödtveidt",
+    "points": 3.5,
+    "secPoints": 19.530407015687942,
+    "klass": "D"
+  },
+  {
+    "contenderId": 648669,
+    "name": "Yohan Thamarai",
+    "points": 3.5,
+    "secPoints": 18.530308619026417,
+    "klass": "D"
+  },
+  {
+    "contenderId": 357334,
+    "name": "Hans Rånby",
+    "points": 3.0,
+    "secPoints": 27.030308041808073,
+    "klass": "C"
+  },
+  {
+    "contenderId": 628652,
+    "name": "Eric Hjälte",
+    "points": 3.0,
+    "secPoints": 22.530309293367438,
+    "klass": "E"
+  },
+  {
+    "contenderId": 363993,
+    "name": "Björn Knöppel",
+    "points": 3.0,
+    "secPoints": 22.52040886798573,
+    "klass": "D"
+  },
+  {
+    "contenderId": 541357,
+    "name": "Desmond Ekman Matamoros",
+    "points": 3.0,
+    "secPoints": 21.530304235057937,
+    "klass": "D"
+  },
+  {
+    "contenderId": 578958,
+    "name": "Josefina Hellstrand",
+    "points": 3.0,
+    "secPoints": 21.020309958582416,
+    "klass": "D"
+  },
+  {
+    "contenderId": 360917,
+    "name": "Alexis Duenas",
+    "points": 3.0,
+    "secPoints": 20.520409020436688,
+    "klass": "D"
+  },
+  {
+    "contenderId": 350227,
+    "name": "Susanna Berg Laachiri",
+    "points": 3.0,
+    "secPoints": 20.520402463931106,
+    "klass": "C"
+  },
+  {
+    "contenderId": 542974,
+    "name": "Henry Bjarnegård",
+    "points": 3.0,
+    "secPoints": 20.03040723166611,
+    "klass": "D"
+  },
+  {
+    "contenderId": 350386,
+    "name": "Hasse Hall",
+    "points": 3.0,
+    "secPoints": 20.03030063936281,
+    "klass": "D"
+  },
+  {
+    "contenderId": 394728,
+    "name": "Fredrik Möllerström",
+    "points": 3.0,
+    "secPoints": 19.530303081338925,
+    "klass": "C"
+  },
+  {
+    "contenderId": 686537,
+    "name": "Elliot Kilander Ulfeldt",
+    "points": 3.0,
+    "secPoints": 18.530402866576654,
+    "klass": "E"
+  },
+  {
+    "contenderId": 541031,
+    "name": "Cristina Ostafiev",
+    "points": 2.5,
+    "secPoints": 22.020403949227365,
+    "klass": "D"
+  },
+  {
+    "contenderId": 688288,
+    "name": "Arnav Sharma",
+    "points": 2.5,
+    "secPoints": 21.020309525386946,
+    "klass": "E"
+  },
+  {
+    "contenderId": 644670,
+    "name": "Theodor Krushichki",
+    "points": 2.5,
+    "secPoints": 20.020305019783283,
+    "klass": "D"
+  },
+  {
+    "contenderId": 549578,
+    "name": "Lucas Premat",
+    "points": 2.5,
+    "secPoints": 19.02030386862109,
+    "klass": "E"
+  },
+  {
+    "contenderId": 710501,
+    "name": "Tuva Schmalholz",
+    "points": 2.0,
+    "secPoints": 22.02030533431734,
+    "klass": "D"
+  },
+  {
+    "contenderId": 728453,
+    "name": "Amir Sohrabi",
+    "points": 2.0,
+    "secPoints": 21.020302936610744,
+    "klass": "E"
+  },
+  {
+    "contenderId": 612199,
+    "name": "Ece Gültekin",
+    "points": 2.0,
+    "secPoints": 20.02030309007146,
+    "klass": "D"
+  },
+  {
+    "contenderId": 686273,
+    "name": "Simon Berg",
+    "points": 2.0,
+    "secPoints": 18.520309188294704,
+    "klass": "E"
+  },
+  {
+    "contenderId": 739798,
+    "name": "Christophe Premat",
+    "points": 2.0,
+    "secPoints": 18.520301693290033,
+    "klass": "E"
+  },
+  {
+    "contenderId": 730812,
+    "name": "Anton Leo",
+    "points": 2.0,
+    "secPoints": 16.520409881031892,
+    "klass": "E"
+  },
+  {
+    "contenderId": 686327,
+    "name": "Saxon Eliasson",
+    "points": 2.0,
+    "secPoints": 14.52030304640823,
+    "klass": "E"
+  },
+  {
+    "contenderId": 709946,
+    "name": "Aarav Kishor",
+    "points": 2.0,
+    "secPoints": 14.520208858007432,
+    "klass": "E"
+  },
+  {
+    "contenderId": 619605,
+    "name": "Walter Wingh",
+    "points": 1.5,
+    "secPoints": 22.51040367035089,
+    "klass": "D"
+  },
+  {
+    "contenderId": 727164,
+    "name": "Roman Chornenkyi",
+    "points": 1.0,
+    "secPoints": 19.510403877238765,
+    "klass": "E"
+  },
+  {
+    "contenderId": 642062,
+    "name": "Olle Svensson",
+    "points": 1.0,
+    "secPoints": 17.01020516989965,
+    "klass": "E"
+  },
+  {
+    "contenderId": 664401,
+    "name": "Rivan Ghosh",
+    "points": 1.0,
+    "secPoints": 14.010304104108535,
+    "klass": "E"
+  },
+  {
+    "contenderId": 568369,
+    "name": "Paul Pickert",
+    "points": 0.0,
+    "secPoints": 14.500402225618485,
+    "klass": "E"
+  }
+]

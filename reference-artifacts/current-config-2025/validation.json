@@ -1,0 +1,25 @@
+{
+  "offline_replay": "passed; missing responses would raise without using network",
+  "standings_json": "byte-identical",
+  "workbooks": [
+    {
+      "file": "2025-gp-standings-20261025.xlsx",
+      "equal_zip_members": 13,
+      "excluded": "docProps/core.xml creation timestamp"
+    },
+    {
+      "file": "2025-gp-standings-validations-20261025.xlsx",
+      "equal_zip_members": 13,
+      "excluded": "docProps/core.xml creation timestamp"
+    }
+  ],
+  "configuration": "unchanged",
+  "http_response_count": 8,
+  "players_by_klass": {
+    "A": 10,
+    "B": 24,
+    "C": 51,
+    "D": 57,
+    "E": 90
+  }
+}

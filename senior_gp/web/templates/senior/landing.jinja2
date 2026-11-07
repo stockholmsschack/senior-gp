@@ -1,0 +1,270 @@
+{% extends "senior/base.jinja2" %}
+
+{% block title %}{{ t("home.title", season=season) }} · {{ t("app.name") }}{% endblock %}
+
+{% macro tournament_picker() %}
+    <section
+        class="mb-4"
+        aria-labelledby="tournaments-heading"
+        data-tournament-search
+        data-search-endpoint="{{ url_for('senior.tournament_search') }}"
+        data-lookup-endpoint-template="{{ url_for('senior.tournament_lookup', tournament_id='__tournament_id__', season=season) }}"
+        data-rilton-verify-endpoint="{{ url_for('senior.verify_rilton', season=season) }}"
+        data-save-endpoint="{{ url_for('senior.save_tournaments', season=season) }}"
+        data-configuration-revision="{{ configuration.revision if configuration else 0 }}"
+        data-reload-url="{{ url_for('senior.landing', season=season, lang=locale) }}"
+    >
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h2 class="h4 mb-0" id="tournaments-heading">{{ t("tournaments.heading") }}</h2>
+            <button class="btn btn-outline-danger btn-sm" type="button" data-remove-all-tournaments disabled>
+                {{ t("tournament_selection.remove_all") }}
+            </button>
+        </div>
+        <script type="application/json" id="selected-tournaments-data">{{ tournaments | tojson }}</script>
+        <div data-selected-count="0" data-selected-tournaments>
+            <noscript><p class="text-body-secondary">{{ t("tournament_selection.needs_javascript") }}</p></noscript>
+        </div>
+        <div class="mt-3" role="status" aria-live="polite" data-save-state="idle" data-tournament-save-status></div>
+
+        <div class="card mt-3" data-tournament-addition>
+            <div class="card-body">
+                <h3 class="h5">{{ t("tournament_search.title") }}</h3>
+                <div class="mb-3">
+                    <label class="form-label" for="tournament-source">{{ t("source.label") }}</label>
+                    <select class="form-select w-auto" id="tournament-source" data-tournament-source>
+                        <option value="member" selected>{{ t("source.member") }}</option>
+                        <option value="rilton">{{ t("source.rilton") }}</option>
+                    </select>
+                </div>
+                <div data-member-addition>
+                    <label class="form-label" for="tournament-search">{{ t("tournament_search.label") }}</label>
+                    <input
+                        class="form-control"
+                        id="tournament-search"
+                        type="search"
+                        autocomplete="off"
+                        placeholder="{{ t('tournament_search.placeholder') }}"
+                        data-tournament-search-input
+                    >
+                    <div
+                        class="form-text tournament-search-status"
+                        role="status"
+                        aria-live="polite"
+                        data-search-state="idle"
+                        data-tournament-search-status
+                    ></div>
+                    <ul class="list-group mt-3" aria-label="{{ t('tournament_search.results_label') }}" data-tournament-search-results></ul>
+                    <form class="row g-2 align-items-end mt-3" data-tournament-id-form>
+                        <div class="col-sm">
+                            <label class="form-label" for="tournament-id">{{ t("tournament_selection.paste_label") }}</label>
+                            <input
+                                class="form-control"
+                                id="tournament-id"
+                                type="text"
+                                inputmode="numeric"
+                                autocomplete="off"
+                                data-tournament-id-input
+                            >
+                        </div>
+                        <div class="col-sm-auto">
+                            <button class="btn btn-outline-secondary" type="submit">{{ t("tournament_selection.verify") }}</button>
+                        </div>
+                    </form>
+                </div>
+                <div hidden data-rilton-addition>
+                    <form class="row g-2 align-items-end" novalidate data-rilton-url-form>
+                        <div class="col-sm">
+                            <label class="form-label" for="rilton-url">{{ t("rilton.url_label") }}</label>
+                            <input
+                                class="form-control"
+                                id="rilton-url"
+                                type="url"
+                                autocomplete="off"
+                                placeholder="https://chess-results.com/tnr967028.aspx"
+                                aria-describedby="rilton-edition"
+                                data-rilton-url-input
+                            >
+                        </div>
+                        <div class="col-sm-auto">
+                            <button class="btn btn-outline-secondary" type="submit">{{ t("rilton.verify") }}</button>
+                        </div>
+                    </form>
+                    <div class="form-text" id="rilton-edition" data-rilton-edition>
+                        {{ t("rilton.season_edition", season=season, edition=rilton_edition) }}
+                    </div>
+                    <div data-rilton-pending></div>
+                </div>
+                <div role="status" aria-live="polite" data-tournament-selection></div>
+            </div>
+        </div>
+
+        <div class="toast-container position-fixed bottom-0 end-0 p-3">
+            <div class="toast border-0" role="status" aria-live="polite" aria-atomic="true" data-tournament-selection-toast>
+                <div class="d-flex">
+                    <div class="toast-body" data-tournament-selection-toast-message></div>
+                    <button
+                        class="btn-close btn-close-white me-2 m-auto"
+                        type="button"
+                        data-bs-dismiss="toast"
+                        aria-label="{{ t('tournament_selection.dismiss_notification') }}"
+                    ></button>
+                </div>
+            </div>
+        </div>
+        <div
+            class="modal"
+            tabindex="-1"
+            aria-labelledby="tournament-removal-heading"
+            aria-describedby="tournament-removal-description"
+            data-tournament-removal-dialog
+        >
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 class="modal-title fs-5" id="tournament-removal-heading" data-tournament-removal-heading>
+                            {{ t("tournament_selection.remove_heading") }}
+                        </h3>
+                        <button
+                            class="btn-close"
+                            type="button"
+                            data-bs-dismiss="modal"
+                            aria-label="{{ t('tournament_selection.cancel') }}"
+                        ></button>
+                    </div>
+                    <div class="modal-body">
+                        <p id="tournament-removal-description" data-tournament-removal-description>
+                            {{ t("tournament_selection.remove_confirmation") }}
+                        </p>
+                        <div class="fw-semibold" data-tournament-removal-name></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-secondary" type="button" data-bs-dismiss="modal">
+                            {{ t("tournament_selection.cancel") }}
+                        </button>
+                        <button class="btn btn-danger" type="button" data-confirm-tournament-removal>
+                            {{ t("tournament_selection.remove") }}
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endmacro %}
+
+{% macro generation() %}
+    {%- set tournament_count = configuration.tournaments | length if configuration else 0 %}
+    <section
+        class="mb-4"
+        aria-labelledby="generation-heading"
+        data-generation
+        data-start-endpoint="{{ url_for('senior.start_generation', season=season) }}"
+        data-configuration-revision="{{ configuration.revision if configuration else 0 }}"
+        data-tournament-count="{{ tournament_count }}"
+        data-mercure-hub="{{ mercure_hub }}"
+        data-files-url="{{ url_for('senior.available_files', lang=locale) }}"
+    >
+        <h2 class="h4" id="generation-heading">{{ t("generation.heading") }}</h2>
+        <button
+            class="btn btn-primary"
+            type="button"
+            aria-describedby="generation-blocked"
+            data-generate
+            {% if not tournament_count %}disabled{% endif %}
+        >
+            {{ t("generation.generate", season=season) }}
+        </button>
+        <div class="form-text" id="generation-blocked" data-generation-blocked>
+            {%- if not tournament_count %}{{ t("generation.blocked.no_tournaments") }}{% endif -%}
+        </div>
+        <div class="mt-3" role="status" aria-live="polite" data-generation-status></div>
+        <p class="mt-3 mb-0">
+            <a href="{{ url_for('senior.available_files', lang=locale) }}">{{ t("nav.available_files") }}</a>
+            ·
+            <a href="{{ url_for('senior.reports', lang=locale) }}">{{ t("nav.reports") }}</a>
+        </p>
+        <div
+            class="modal fade"
+            id="generation-dialog"
+            tabindex="-1"
+            aria-labelledby="generation-dialog-heading"
+            aria-hidden="true"
+            data-generation-dialog
+        >
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title fs-5" id="generation-dialog-heading">{{ t("generation.dialog.heading") }}</h2>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="{{ t('generation.dialog.close') }}"></button>
+                    </div>
+                    <div class="modal-body" role="status" aria-live="polite" data-generation-progress></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{ t("generation.dialog.close") }}</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endmacro %}
+
+{% block content %}
+    <div class="mb-4">
+        <h1>{{ t("home.title", season=season) }}</h1>
+        <form
+            class="d-flex align-items-center gap-2"
+            method="get"
+            action="{{ url_for('senior.landing') }}"
+            data-senior-navigation
+        >
+            <input type="hidden" name="lang" value="{{ locale }}">
+            <label class="form-label mb-0" for="season-choice">{{ t("season.label") }}</label>
+            <select class="form-select w-auto" id="season-choice" name="season" onchange="this.form.requestSubmit()">
+                {% for choice in season_choices %}
+                    <option value="{{ choice }}"{% if choice == season %} selected{% endif %}>{{ choice }}</option>
+                {% endfor %}
+            </select>
+            <noscript><button class="btn btn-outline-secondary" type="submit">{{ t("season.show") }}</button></noscript>
+        </form>
+    </div>
+    {% if configuration_problems %}
+        <div class="alert alert-danger">
+            <p>{{ t("home.configuration.invalid") }}</p>
+            <ul class="mb-0">
+                {% for problem in configuration_problems %}
+                    <li>{{ problem }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% else %}
+        {#- The picker updates the summary after each successful save. -#}
+        <div data-configuration-summary>
+            <p class="lead"{% if not configuration %} hidden{% endif %} data-configuration-intro>
+                {{ t("home.intro", season=season) }}
+            </p>
+            <p class="text-body-secondary"{% if configuration %} hidden{% endif %} data-configuration-none>
+                {{ t("home.configuration.none", season=season) }}
+            </p>
+            <dl class="row">
+                <dt class="col-sm-3">{{ t("home.season") }}</dt>
+                <dd class="col-sm-9">{{ season }}</dd>
+                <dt class="col-sm-3">{{ t("home.tournaments") }}</dt>
+                <dd class="col-sm-9" data-configuration-count-display>
+                    {{ t("home.tournament_count",
+                         member=configuration.member_tournaments | length if configuration else 0,
+                         rilton=configuration.rilton_sections | length if configuration else 0) }}
+                </dd>
+                <dt class="col-sm-3">{{ t("home.revision") }}</dt>
+                <dd class="col-sm-9" data-configuration-revision-display>{{ configuration.revision if configuration else 0 }}</dd>
+            </dl>
+        </div>
+        {{ generation() }}
+        {{ tournament_picker() }}
+    {% endif %}
+{% endblock %}
+
+{% block extra_js %}
+    {% if not configuration_problems %}
+        <script type="application/json" id="locale-catalogue">{{ catalogue | tojson }}</script>
+        <script type="module" src="{{ url_for('senior.static', filename='js/tournament-search.js') }}"></script>
+        <script type="module" src="{{ url_for('senior.static', filename='js/generation.js') }}"></script>
+    {% endif %}
+{% endblock %}

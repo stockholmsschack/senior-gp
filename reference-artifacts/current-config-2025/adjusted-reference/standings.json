@@ -1,0 +1,5976 @@
+{
+  "A": [
+    {
+      "contender_id": 350579,
+      "name": "Erik Blomqvist",
+      "klass": "A",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 350579,
+          "name": "Erik Blomqvist",
+          "klass": "A",
+          "points": 8.5,
+          "tie_break_1": 48.58050763219907,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 350579,
+          "name": "Erik Blomqvist",
+          "klass": "A",
+          "points": 7.0,
+          "tie_break_1": 30.070401822186106,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 10,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 350579,
+          "name": "Erik Blomqvist",
+          "klass": "A",
+          "points": 11.5,
+          "tie_break_1": 103.61060094571667,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 39,
+      "final_rank": 1
+    },
+    {
+      "contender_id": 350306,
+      "name": "Eric Thörn",
+      "klass": "A",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 350306,
+          "name": "Eric Thörn",
+          "klass": "A",
+          "points": 7.5,
+          "tie_break_1": 48.570404142805195,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 4
+    },
+    {
+      "contender_id": 365063,
+      "name": "Carl Cederstam",
+      "klass": "A",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 365063,
+          "name": "Carl Cederstam",
+          "klass": "A",
+          "points": 6.5,
+          "tie_break_1": 50.060501649247875,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 365063,
+          "name": "Carl Cederstam",
+          "klass": "A",
+          "points": 4.5,
+          "tie_break_1": 27.540300443084252,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 7,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 20,
+      "final_rank": 3
+    },
+    {
+      "contender_id": 363192,
+      "name": "Harald Lögdahl",
+      "klass": "A",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 363192,
+          "name": "Harald Lögdahl",
+          "klass": "A",
+          "points": 6.0,
+          "tie_break_1": 47.54040572624597,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 12,
+      "final_rank": 6
+    },
+    {
+      "contender_id": 428347,
+      "name": "JungMin Seo",
+      "klass": "A",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 428347,
+          "name": "JungMin Seo",
+          "klass": "A",
+          "points": 5.5,
+          "tie_break_1": 31.050303794239742,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 428347,
+          "name": "JungMin Seo",
+          "klass": "A",
+          "points": 11.5,
+          "tie_break_1": 104.60070354903179,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 24,
+      "final_rank": 2
+    },
+    {
+      "contender_id": 359469,
+      "name": "Johan Eriksson",
+      "klass": "A",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 359469,
+          "name": "Johan Eriksson",
+          "klass": "A",
+          "points": 5.0,
+          "tie_break_1": 28.53040057014231,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 8,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 8,
+      "final_rank": 10
+    },
+    {
+      "contender_id": 423802,
+      "name": "Hampus Sörensen",
+      "klass": "A",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 423802,
+          "name": "Hampus Sörensen",
+          "klass": "A",
+          "points": 11.0,
+          "tie_break_1": 105.1006099379119,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 5
+    },
+    {
+      "contender_id": 350681,
+      "name": "Joar Ölund",
+      "klass": "A",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 350681,
+          "name": "Joar Ölund",
+          "klass": "A",
+          "points": 10.0,
+          "tie_break_1": 106.07070819831677,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 12,
+      "final_rank": 7
+    },
+    {
+      "contender_id": 652087,
+      "name": "Vladyslav Larkin",
+      "klass": "A",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 652087,
+          "name": "Vladyslav Larkin",
+          "klass": "A",
+          "points": 9.5,
+          "tie_break_1": 105.59060346075167,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 11,
+      "final_rank": 8
+    },
+    {
+      "contender_id": 365879,
+      "name": "Krum Berovski",
+      "klass": "A",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 365879,
+          "name": "Krum Berovski",
+          "klass": "A",
+          "points": 9.0,
+          "tie_break_1": 91.09060073980005,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 9
+    }
+  ],
+  "B": [
+    {
+      "contender_id": 366433,
+      "name": "CRAMLING BELLON Anna",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 366433,
+          "name": "CRAMLING BELLON Anna",
+          "klass": "B",
+          "points": 7.0,
+          "tie_break_1": 39.0,
+          "tie_break_2": 42.0,
+          "tie_break_3": 31.0,
+          "rank": 1,
+          "standings_points": 10,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 13
+    },
+    {
+      "contender_id": 638247,
+      "name": "MITTELBERGER Peter",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 638247,
+          "name": "MITTELBERGER Peter",
+          "klass": "B",
+          "points": 6.5,
+          "tie_break_1": 46.0,
+          "tie_break_2": 50.5,
+          "tie_break_3": 34.5,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 16
+    },
+    {
+      "contender_id": 361205,
+      "name": "JAKENBERG Jussi",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 361205,
+          "name": "JAKENBERG Jussi",
+          "klass": "B",
+          "points": 6.0,
+          "tie_break_1": 39.0,
+          "tie_break_2": 42.5,
+          "tie_break_3": 30.5,
+          "rank": 3,
+          "standings_points": 8,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 361205,
+          "name": "Jussi Jakenberg",
+          "klass": "B",
+          "points": 4.5,
+          "tie_break_1": 44.03050264076214,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 17,
+      "final_rank": 4
+    },
+    {
+      "contender_id": 406702,
+      "name": "AGREST Simon",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 406702,
+          "name": "AGREST Simon",
+          "klass": "B",
+          "points": 5.5,
+          "tie_break_1": 43.5,
+          "tie_break_2": 43.5,
+          "tie_break_3": 29.5,
+          "rank": 4,
+          "standings_points": 7,
+          "penalty": false
+        },
+        "5383": {
+          "contender_id": 406702,
+          "name": "Simon Agrest",
+          "klass": "B",
+          "points": 8.0,
+          "tie_break_1": 104.08060103984818,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 21,
+      "final_rank": 2
+    },
+    {
+      "contender_id": 350224,
+      "name": "AROVEN Mikael",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 350224,
+          "name": "AROVEN Mikael",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 44.5,
+          "tie_break_2": 47.5,
+          "tie_break_3": 28.0,
+          "rank": 5,
+          "standings_points": 6,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 20
+    },
+    {
+      "contender_id": 375056,
+      "name": "NARVA David",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 375056,
+          "name": "NARVA David",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 36.5,
+          "tie_break_2": 40.5,
+          "tie_break_3": 23.5,
+          "rank": 6,
+          "standings_points": 5,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 22
+    },
+    {
+      "contender_id": 514429,
+      "name": "DINGERTZ Filip",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 514429,
+          "name": "DINGERTZ Filip",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 36.5,
+          "tie_break_2": 39.5,
+          "tie_break_3": 26.5,
+          "rank": 7,
+          "standings_points": 4,
+          "penalty": false
+        },
+        "5383": {
+          "contender_id": 514429,
+          "name": "Filip Dingertz",
+          "klass": "B",
+          "points": 8.0,
+          "tie_break_1": 99.58060729394428,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 16,
+      "final_rank": 7
+    },
+    {
+      "contender_id": 350540,
+      "name": "BOSTROM Henrik",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 350540,
+          "name": "BOSTROM Henrik",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 33.5,
+          "tie_break_2": 36.5,
+          "tie_break_3": 21.5,
+          "rank": 8,
+          "standings_points": 3,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 3,
+      "final_rank": 24
+    },
+    {
+      "contender_id": 350474,
+      "name": "TODOROVIC Zoran S",
+      "klass": "B",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 350474,
+          "name": "TODOROVIC Zoran S",
+          "klass": "B",
+          "points": 4.5,
+          "tie_break_1": 39.5,
+          "tie_break_2": 41.5,
+          "tie_break_3": 27.0,
+          "rank": 9,
+          "standings_points": 2,
+          "penalty": false
+        },
+        "5383": {
+          "contender_id": 350474,
+          "name": "Zoran Todorovic",
+          "klass": "B",
+          "points": 8.0,
+          "tie_break_1": 94.58060363151984,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 11
+    },
+    {
+      "contender_id": 357671,
+      "name": "Torbjörn Glimbrant",
+      "klass": "B",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 357671,
+          "name": "Torbjörn Glimbrant",
+          "klass": "B",
+          "points": 6.5,
+          "tie_break_1": 45.56040079628649,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 15,
+      "final_rank": 8
+    },
+    {
+      "contender_id": 370232,
+      "name": "Emanuel Rosenthal",
+      "klass": "B",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 370232,
+          "name": "Emanuel Rosenthal",
+          "klass": "B",
+          "points": 6.5,
+          "tie_break_1": 45.06040079987631,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 10
+    },
+    {
+      "contender_id": 428344,
+      "name": "Oliver Nilsson",
+      "klass": "B",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 428344,
+          "name": "Oliver Nilsson",
+          "klass": "B",
+          "points": 6.0,
+          "tie_break_1": 48.560406663588715,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 428344,
+          "name": "Oliver Nilsson",
+          "klass": "B",
+          "points": 3.5,
+          "tie_break_1": 26.530301192857923,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 4,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 17,
+      "final_rank": 5
+    },
+    {
+      "contender_id": 431920,
+      "name": "Hans Malmsten",
+      "klass": "B",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 431920,
+          "name": "Hans Malmsten",
+          "klass": "B",
+          "points": 5.5,
+          "tie_break_1": 43.0405098282628,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 431920,
+          "name": "Hans Malmsten",
+          "klass": "B",
+          "points": 3.5,
+          "tie_break_1": 22.530302585655193,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 3,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 15,
+      "final_rank": 9
+    },
+    {
+      "contender_id": 546353,
+      "name": "Lo Ljungros",
+      "klass": "B",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 546353,
+          "name": "Lo Ljungros",
+          "klass": "B",
+          "points": 5.5,
+          "tie_break_1": 42.05040386308326,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 546353,
+          "name": "Lo Ljungros",
+          "klass": "B",
+          "points": 8.0,
+          "tie_break_1": 87.57060353139781,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 21,
+      "final_rank": 3
+    },
+    {
+      "contender_id": 359089,
+      "name": "Håkan Svensson",
+      "klass": "B",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 359089,
+          "name": "Håkan Svensson",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 42.53050958230113,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 14
+    },
+    {
+      "contender_id": 652138,
+      "name": "Elias Kingsley",
+      "klass": "B",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 652138,
+          "name": "Elias Kingsley",
+          "klass": "B",
+          "points": 3.0,
+          "tie_break_1": 34.030208168215765,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 8,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 652138,
+          "name": "Elias Kingsley",
+          "klass": "B",
+          "points": 7.5,
+          "tie_break_1": 97.07060416911057,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 17,
+      "final_rank": 6
+    },
+    {
+      "contender_id": 352400,
+      "name": "Bengt Sjödin",
+      "klass": "B",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 352400,
+          "name": "Bengt Sjödin",
+          "klass": "B",
+          "points": 0.0,
+          "tie_break_1": 6.000109699251436,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 7,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 7,
+      "final_rank": 18
+    },
+    {
+      "contender_id": 397573,
+      "name": "Arvin Rasti",
+      "klass": "B",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 397573,
+          "name": "Arvin Rasti",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 29.050409768233944,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 15
+    },
+    {
+      "contender_id": 513654,
+      "name": "Vidar Seiger",
+      "klass": "B",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 513654,
+          "name": "Vidar Seiger",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 28.54040636115929,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 17
+    },
+    {
+      "contender_id": 541890,
+      "name": "Melvin Ral Lustig",
+      "klass": "B",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 541890,
+          "name": "Melvin Ral Lustig",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 27.540405226906785,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 8,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 541890,
+          "name": "Melvin Ral Lustig",
+          "klass": "B",
+          "points": 8.5,
+          "tie_break_1": 104.0807011578126,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 23,
+      "final_rank": 1
+    },
+    {
+      "contender_id": 350627,
+      "name": "Leo Brodin",
+      "klass": "B",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 350627,
+          "name": "Leo Brodin",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 27.05040631717967,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 7,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 7,
+      "final_rank": 19
+    },
+    {
+      "contender_id": 546393,
+      "name": "Pratyush Tripathi",
+      "klass": "B",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 546393,
+          "name": "Pratyush Tripathi",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 26.530306659957567,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 21
+    },
+    {
+      "contender_id": 677393,
+      "name": "Julius Schwartz",
+      "klass": "B",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 677393,
+          "name": "Julius Schwartz",
+          "klass": "B",
+          "points": 5.0,
+          "tie_break_1": 25.540307589392214,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 5,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 23
+    },
+    {
+      "contender_id": 345821,
+      "name": "Håkan Östling",
+      "klass": "B",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 345821,
+          "name": "Håkan Östling",
+          "klass": "B",
+          "points": 8.0,
+          "tie_break_1": 102.08070172906814,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 12
+    }
+  ],
+  "C": [
+    {
+      "contender_id": 577097,
+      "name": "VISWANATH Rishi",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 577097,
+          "name": "VISWANATH Rishi",
+          "klass": "C",
+          "points": 6.5,
+          "tie_break_1": 45.0,
+          "tie_break_2": 48.0,
+          "tie_break_3": 33.5,
+          "rank": 1,
+          "standings_points": 10,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 577097,
+          "name": "Rishi Viswanath",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 37.04050088104572,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 17,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 13
+    },
+    {
+      "contender_id": 653491,
+      "name": "GUNNARE William",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 653491,
+          "name": "GUNNARE William",
+          "klass": "C",
+          "points": 6.0,
+          "tie_break_1": 42.5,
+          "tie_break_2": 46.0,
+          "tie_break_3": 30.5,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 653491,
+          "name": "William Gunnare",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 40.55040244241946,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 8,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 17,
+      "final_rank": 4
+    },
+    {
+      "contender_id": 621123,
+      "name": "DINGERTZ Gustav",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 621123,
+          "name": "DINGERTZ Gustav",
+          "klass": "C",
+          "points": 6.0,
+          "tie_break_1": 41.5,
+          "tie_break_2": 45.5,
+          "tie_break_3": 29.0,
+          "rank": 3,
+          "standings_points": 8,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 621123,
+          "name": "Gustav Dingertz",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 43.040505971574596,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 19,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 621123,
+          "name": "Gustav Dingertz",
+          "klass": "C",
+          "points": 7.0,
+          "tie_break_1": 103.07070591719443,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 20,
+      "final_rank": 2
+    },
+    {
+      "contender_id": 520087,
+      "name": "KHASCHULUU Sergelenbaatar",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 520087,
+          "name": "KHASCHULUU Sergelenbaatar",
+          "klass": "C",
+          "points": 6.0,
+          "tie_break_1": 37.5,
+          "tie_break_2": 39.5,
+          "tie_break_3": 31.0,
+          "rank": 4,
+          "standings_points": 7,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 520087,
+          "name": "Khaschuluu Sergelenbaatar",
+          "klass": "C",
+          "points": 6.0,
+          "tie_break_1": 43.0504055085516,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 520087,
+          "name": "Khaschuluu Sergelenbaatar",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 26.040303895990146,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 7,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 520087,
+          "name": "Khaschuluu Sergelenbaatar",
+          "klass": "C",
+          "points": 7.0,
+          "tie_break_1": 86.57060864765167,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 39,
+      "final_rank": 1
+    },
+    {
+      "contender_id": 435185,
+      "name": "FAHLMAN Jakob",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 435185,
+          "name": "FAHLMAN Jakob",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 40.5,
+          "tie_break_2": 43.5,
+          "tie_break_3": 28.0,
+          "rank": 5,
+          "standings_points": 6,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 435185,
+          "name": "Jakob Fahlman",
+          "klass": "C",
+          "points": 6.0,
+          "tie_break_1": 40.050409302444784,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 435185,
+          "name": "Jakob Fahlman",
+          "klass": "C",
+          "points": 3.5,
+          "tie_break_1": 22.530300680350944,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 13,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 20,
+      "final_rank": 3
+    },
+    {
+      "contender_id": 590088,
+      "name": "SRINIVASSON Ram",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 590088,
+          "name": "SRINIVASSON Ram",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 36.0,
+          "tie_break_2": 38.0,
+          "tie_break_3": 23.0,
+          "rank": 6,
+          "standings_points": 5,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 590088,
+          "name": "Ram Srinivasson",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 32.530505283683,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 25,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 23
+    },
+    {
+      "contender_id": 686346,
+      "name": "JOUANDET-DAHLEN Alfons",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 686346,
+          "name": "JOUANDET-DAHLEN Alfons",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 43.5,
+          "tie_break_2": 44.5,
+          "tie_break_3": 31.0,
+          "rank": 7,
+          "standings_points": 4,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 4,
+      "final_rank": 27
+    },
+    {
+      "contender_id": 653667,
+      "name": "MALMQUIST Neo",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 653667,
+          "name": "MALMQUIST Neo",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 40.5,
+          "tie_break_2": 43.5,
+          "tie_break_3": 27.5,
+          "rank": 8,
+          "standings_points": 3,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 653667,
+          "name": "Neo Malmquist",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 43.54040335195956,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 7
+    },
+    {
+      "contender_id": 379555,
+      "name": "HEDIN Niclas",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 379555,
+          "name": "HEDIN Niclas",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 40.0,
+          "tie_break_2": 43.0,
+          "tie_break_3": 24.5,
+          "rank": 9,
+          "standings_points": 2,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 2,
+      "final_rank": 30
+    },
+    {
+      "contender_id": 501613,
+      "name": "WANG Hongjun",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 501613,
+          "name": "WANG Hongjun",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 38.0,
+          "tie_break_2": 40.0,
+          "tie_break_3": 25.5,
+          "rank": 10,
+          "standings_points": 1,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 501613,
+          "name": "Hongjun Wang",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 42.04040252047867,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 12,
+          "standings_points": 4,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 501613,
+          "name": "Hongjun Wang",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 25.530303236871237,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 11,
+      "final_rank": 11
+    },
+    {
+      "contender_id": 360910,
+      "name": "ALGARS Olle",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 360910,
+          "name": "ALGARS Olle",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 35.0,
+          "tie_break_2": 37.0,
+          "tie_break_3": 26.0,
+          "rank": 11,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 33
+    },
+    {
+      "contender_id": 450799,
+      "name": "OSTENSSON Julia",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 450799,
+          "name": "OSTENSSON Julia",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 43.5,
+          "tie_break_2": 47.5,
+          "tie_break_3": 26.5,
+          "rank": 12,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5382": {
+          "contender_id": 450799,
+          "name": "Julia Östensson",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 28.04040411815249,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 14
+    },
+    {
+      "contender_id": 365069,
+      "name": "BERGQVIST Morris",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 365069,
+          "name": "BERGQVIST Morris",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 34.0,
+          "tie_break_2": 37.0,
+          "tie_break_3": 19.5,
+          "rank": 13,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 365069,
+          "name": "Morris Bergqvist",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 41.040406574053264,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 14,
+          "standings_points": 2,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 365069,
+          "name": "Morris Bergqvist",
+          "klass": "C",
+          "points": 3.5,
+          "tie_break_1": 21.530402716548313,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 14,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 365069,
+          "name": "Morris Bergqvist",
+          "klass": "C",
+          "points": 8.0,
+          "tie_break_1": 88.58060722569971,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 15,
+      "final_rank": 5
+    },
+    {
+      "contender_id": 373952,
+      "name": "DARNELL Anton",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 373952,
+          "name": "DARNELL Anton",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 33.0,
+          "tie_break_2": 35.0,
+          "tie_break_3": 23.0,
+          "rank": 14,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 34
+    },
+    {
+      "contender_id": 570244,
+      "name": "Zunrong Liu John",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 570244,
+          "name": "Zunrong Liu John",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 26.5,
+          "tie_break_2": 29.0,
+          "tie_break_3": 22.0,
+          "rank": 15,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 35
+    },
+    {
+      "contender_id": 483208,
+      "name": "ANDERSSON Gunnar",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 483208,
+          "name": "ANDERSSON Gunnar",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 43.5,
+          "tie_break_2": 47.0,
+          "tie_break_3": 24.5,
+          "rank": 16,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 36
+    },
+    {
+      "contender_id": 350008,
+      "name": "WEDIN Svante",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 350008,
+          "name": "WEDIN Svante",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 41.5,
+          "tie_break_2": 43.5,
+          "tie_break_3": 22.0,
+          "rank": 17,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 37
+    },
+    {
+      "contender_id": 377367,
+      "name": "BROLIN Viktor",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 377367,
+          "name": "BROLIN Viktor",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 36.5,
+          "tie_break_2": 39.5,
+          "tie_break_3": 24.0,
+          "rank": 18,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 377367,
+          "name": "Viktor Brolin",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 43.050405677576094,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 16
+    },
+    {
+      "contender_id": 364006,
+      "name": "HELIN Mikael",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 364006,
+          "name": "HELIN Mikael",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 36.5,
+          "tie_break_2": 36.5,
+          "tie_break_3": 21.0,
+          "rank": 19,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 364006,
+          "name": "Mikael Helin",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 41.05050856246333,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 13,
+          "standings_points": 3,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 364006,
+          "name": "Mikael Helin",
+          "klass": "C",
+          "points": 3.5,
+          "tie_break_1": 23.03040855816541,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 12,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 3,
+      "final_rank": 28
+    },
+    {
+      "contender_id": 642041,
+      "name": "SHI Sebastian",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 642041,
+          "name": "SHI Sebastian",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 36.0,
+          "tie_break_2": 39.5,
+          "tie_break_3": 22.0,
+          "rank": 20,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5382": {
+          "contender_id": 642041,
+          "name": "Sebastian Shi",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 27.04040989772606,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 8,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 8,
+      "final_rank": 19
+    },
+    {
+      "contender_id": 358878,
+      "name": "ERIKSSON Sanna",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 358878,
+          "name": "ERIKSSON Sanna",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 35.5,
+          "tie_break_2": 38.5,
+          "tie_break_3": 18.0,
+          "rank": 21,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 38
+    },
+    {
+      "contender_id": 352013,
+      "name": "WALLGREN Ulf",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 352013,
+          "name": "WALLGREN Ulf",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 32.0,
+          "tie_break_2": 34.0,
+          "tie_break_3": 18.5,
+          "rank": 22,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 39
+    },
+    {
+      "contender_id": 486553,
+      "name": "SODERLIND Arnold",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 486553,
+          "name": "SODERLIND Arnold",
+          "klass": "C",
+          "points": 3.0,
+          "tie_break_1": 29.5,
+          "tie_break_2": 31.5,
+          "tie_break_3": 14.0,
+          "rank": 23,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 40
+    },
+    {
+      "contender_id": 350453,
+      "name": "JACOBSEN Fredrik",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 350453,
+          "name": "JACOBSEN Fredrik",
+          "klass": "C",
+          "points": 2.0,
+          "tie_break_1": 32.0,
+          "tie_break_2": 34.5,
+          "tie_break_3": 11.5,
+          "rank": 24,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 350453,
+          "name": "Fredrik Jacobsen",
+          "klass": "C",
+          "points": 3.5,
+          "tie_break_1": 36.02040576896939,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 27,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 41
+    },
+    {
+      "contender_id": 364629,
+      "name": "PETTERSSON Kjell-Erik",
+      "klass": "C",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 364629,
+          "name": "PETTERSSON Kjell-Erik",
+          "klass": "C",
+          "points": 0.5,
+          "tie_break_1": 30.5,
+          "tie_break_2": 33.0,
+          "tie_break_3": 2.5,
+          "rank": 25,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 42
+    },
+    {
+      "contender_id": 361212,
+      "name": "Gustavo Luna",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 361212,
+          "name": "Gustavo Luna",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 46.550409625947175,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 9
+    },
+    {
+      "contender_id": 350423,
+      "name": "Johan Sterner",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 350423,
+          "name": "Johan Sterner",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 43.55030918344736,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 12,
+      "final_rank": 10
+    },
+    {
+      "contender_id": 622583,
+      "name": "Bor Stevense",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 622583,
+          "name": "Bor Stevense",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 43.050502393912254,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 15
+    },
+    {
+      "contender_id": 362623,
+      "name": "Håkan Frisén",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 362623,
+          "name": "Håkan Frisén",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 40.520507333478164,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 7,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 7,
+      "final_rank": 21
+    },
+    {
+      "contender_id": 460954,
+      "name": "Hans Eriksson",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 460954,
+          "name": "Hans Eriksson",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 39.03040282469598,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 10,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 22
+    },
+    {
+      "contender_id": 570261,
+      "name": "Hugo Hardwick",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 570261,
+          "name": "Hugo Hardwick",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 38.54040652617681,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 11,
+          "standings_points": 5,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 24
+    },
+    {
+      "contender_id": 350252,
+      "name": "Rune Evertsson",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 350252,
+          "name": "Rune Evertsson",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 40.04040629170061,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 15,
+          "standings_points": 1,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 350252,
+          "name": "Rune Evertsson",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 24.540303057933542,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 4,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 25
+    },
+    {
+      "contender_id": 488421,
+      "name": "Carina Wickström",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 488421,
+          "name": "Carina Wickström",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 40.040404825877395,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 16,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 488421,
+          "name": "Carina Wickström",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 22.030300053134276,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 3,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 3,
+      "final_rank": 29
+    },
+    {
+      "contender_id": 350037,
+      "name": "Martin Hede",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 350037,
+          "name": "Martin Hede",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 48.54050415462777,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 18,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 350037,
+          "name": "Martin Hede",
+          "klass": "C",
+          "points": 8.0,
+          "tie_break_1": 89.58060141065343,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 8
+    },
+    {
+      "contender_id": 377502,
+      "name": "Jacob Hagström",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 377502,
+          "name": "Jacob Hagström",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 38.54040162238114,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 20,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 43
+    },
+    {
+      "contender_id": 357334,
+      "name": "Hans Rånby",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 357334,
+          "name": "Hans Rånby",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 36.04040201281288,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 21,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 357334,
+          "name": "Hans Rånby",
+          "klass": "C",
+          "points": 3.0,
+          "tie_break_1": 27.030308041808073,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 15,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 44
+    },
+    {
+      "contender_id": 350308,
+      "name": "Claes-Göran Westerberg",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 350308,
+          "name": "Claes-Göran Westerberg",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 34.540408475565975,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 22,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 45
+    },
+    {
+      "contender_id": 610256,
+      "name": "Björn Åkerström",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 610256,
+          "name": "Björn Åkerström",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 41.53050754988342,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 23,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 46
+    },
+    {
+      "contender_id": 350298,
+      "name": "Joel Sjöstrand",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 350298,
+          "name": "Joel Sjöstrand",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 35.03040248685234,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 24,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 47
+    },
+    {
+      "contender_id": 622224,
+      "name": "André J Lindebaum",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 622224,
+          "name": "André J Lindebaum",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 30.03050938559687,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 26,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 622224,
+          "name": "André J Lindebaum",
+          "klass": "C",
+          "points": 5.5,
+          "tie_break_1": 75.5507079586102,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 8,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 8,
+      "final_rank": 20
+    },
+    {
+      "contender_id": 376548,
+      "name": "Jonas Sandberg",
+      "klass": "C",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 376548,
+          "name": "Jonas Sandberg",
+          "klass": "C",
+          "points": 0.0,
+          "tie_break_1": 6.000109865419431,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 28,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 48
+    },
+    {
+      "contender_id": 563001,
+      "name": "Oliver Wedenberg",
+      "klass": "C",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 563001,
+          "name": "Oliver Wedenberg",
+          "klass": "C",
+          "points": 5.0,
+          "tie_break_1": 26.05040339554109,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 17
+    },
+    {
+      "contender_id": 686316,
+      "name": "Victor Skoog",
+      "klass": "C",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 686316,
+          "name": "Victor Skoog",
+          "klass": "C",
+          "points": 4.5,
+          "tie_break_1": 21.54040050645272,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 5,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 26
+    },
+    {
+      "contender_id": 710459,
+      "name": "Anders Berg",
+      "klass": "C",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 710459,
+          "name": "Anders Berg",
+          "klass": "C",
+          "points": 4.0,
+          "tie_break_1": 21.030309207310857,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 2,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 2,
+      "final_rank": 31
+    },
+    {
+      "contender_id": 345790,
+      "name": "Eva Jiretorn",
+      "klass": "C",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 345790,
+          "name": "Eva Jiretorn",
+          "klass": "C",
+          "points": 3.5,
+          "tie_break_1": 26.030402341681782,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 10,
+          "standings_points": 1,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 1,
+      "final_rank": 32
+    },
+    {
+      "contender_id": 685665,
+      "name": "Sixten Strand",
+      "klass": "C",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 685665,
+          "name": "Sixten Strand",
+          "klass": "C",
+          "points": 3.5,
+          "tie_break_1": 24.030400471705843,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 11,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 49
+    },
+    {
+      "contender_id": 350227,
+      "name": "Susanna Berg Laachiri",
+      "klass": "C",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 350227,
+          "name": "Susanna Berg Laachiri",
+          "klass": "C",
+          "points": 3.0,
+          "tie_break_1": 20.520402463931106,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 16,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 50
+    },
+    {
+      "contender_id": 394728,
+      "name": "Fredrik Möllerström",
+      "klass": "C",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 394728,
+          "name": "Fredrik Möllerström",
+          "klass": "C",
+          "points": 3.0,
+          "tie_break_1": 19.530303081338925,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 17,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 51
+    },
+    {
+      "contender_id": 516448,
+      "name": "Victor Lilliehöök",
+      "klass": "C",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 516448,
+          "name": "Victor Lilliehöök",
+          "klass": "C",
+          "points": 8.0,
+          "tie_break_1": 92.08070414754432,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 15,
+      "final_rank": 6
+    },
+    {
+      "contender_id": 726606,
+      "name": "Ture Alm",
+      "klass": "C",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 726606,
+          "name": "Ture Alm",
+          "klass": "C",
+          "points": 7.0,
+          "tie_break_1": 88.57070661278134,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 11,
+      "final_rank": 12
+    },
+    {
+      "contender_id": 357319,
+      "name": "Felix Nordström",
+      "klass": "C",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 357319,
+          "name": "Felix Nordström",
+          "klass": "C",
+          "points": 6.5,
+          "tie_break_1": 82.06070482115999,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 18
+    }
+  ],
+  "D": [
+    {
+      "contender_id": 727105,
+      "name": "LARSON FRODIN Ivan",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 727105,
+          "name": "LARSON FRODIN Ivan",
+          "klass": "D",
+          "points": 5.5,
+          "tie_break_1": 35.0,
+          "tie_break_2": 37.0,
+          "tie_break_3": 24.0,
+          "rank": 1,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 37
+    },
+    {
+      "contender_id": 622211,
+      "name": "Gidlund Viggo",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 622211,
+          "name": "Gidlund Viggo",
+          "klass": "D",
+          "points": 5.5,
+          "tie_break_1": 28.0,
+          "tie_break_2": 30.0,
+          "tie_break_3": 21.5,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 17
+    },
+    {
+      "contender_id": 609818,
+      "name": "ZHENG Chale",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 609818,
+          "name": "ZHENG Chale",
+          "klass": "D",
+          "points": 5.0,
+          "tie_break_1": 40.5,
+          "tie_break_2": 43.0,
+          "tie_break_3": 24.5,
+          "rank": 3,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5383": {
+          "contender_id": 609818,
+          "name": "Chale Zheng",
+          "klass": "D",
+          "points": 7.5,
+          "tie_break_1": 83.57070669315378,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 5
+    },
+    {
+      "contender_id": 541388,
+      "name": "NODTVEIDT Svante",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 541388,
+          "name": "NODTVEIDT Svante",
+          "klass": "D",
+          "points": 5.0,
+          "tie_break_1": 35.0,
+          "tie_break_2": 38.0,
+          "tie_break_3": 23.5,
+          "rank": 4,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5382": {
+          "contender_id": 541388,
+          "name": "Svante Nödtveidt",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 19.530407015687942,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 7,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 541388,
+          "name": "Svante Nödtveidt",
+          "klass": "D",
+          "points": 6.0,
+          "tie_break_1": 91.06070510265751,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 11,
+          "standings_points": 5,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 12,
+      "final_rank": 11
+    },
+    {
+      "contender_id": 350386,
+      "name": "Hall Hasse",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 350386,
+          "name": "Hall Hasse",
+          "klass": "D",
+          "points": 5.0,
+          "tie_break_1": 26.0,
+          "tie_break_2": 29.0,
+          "tie_break_3": 19.0,
+          "rank": 5,
+          "standings_points": 6,
+          "penalty": false
+        },
+        "5382": {
+          "contender_id": 350386,
+          "name": "Hasse Hall",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 20.03030063936281,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 11,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 350386,
+          "name": "Hasse Hall",
+          "klass": "D",
+          "points": 6.5,
+          "tie_break_1": 74.06060915207317,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 7,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 8
+    },
+    {
+      "contender_id": 357327,
+      "name": "Paulsson Anders",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 357327,
+          "name": "Paulsson Anders",
+          "klass": "D",
+          "points": 4.5,
+          "tie_break_1": 27.5,
+          "tie_break_2": 30.5,
+          "tie_break_3": 22.0,
+          "rank": 6,
+          "standings_points": 5,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 25
+    },
+    {
+      "contender_id": 678286,
+      "name": "Ekbom Mikael",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 678286,
+          "name": "Ekbom Mikael",
+          "klass": "D",
+          "points": 4.5,
+          "tie_break_1": 23.0,
+          "tie_break_2": 25.0,
+          "tie_break_3": 17.0,
+          "rank": 7,
+          "standings_points": 4,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 4,
+      "final_rank": 27
+    },
+    {
+      "contender_id": 540537,
+      "name": "KAMPE Victor",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 540537,
+          "name": "KAMPE Victor",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 37.0,
+          "tie_break_2": 39.5,
+          "tie_break_3": 20.0,
+          "rank": 8,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5382": {
+          "contender_id": 540537,
+          "name": "Victor Kämpe",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 18.540305608889838,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 18
+    },
+    {
+      "contender_id": 411099,
+      "name": "ISAKSSON Philip",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 411099,
+          "name": "ISAKSSON Philip",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 35.5,
+          "tie_break_2": 38.5,
+          "tie_break_3": 18.0,
+          "rank": 9,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 38
+    },
+    {
+      "contender_id": 350480,
+      "name": "AXELSSON Thomas",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 350480,
+          "name": "AXELSSON Thomas",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 35.0,
+          "tie_break_2": 37.5,
+          "tie_break_3": 18.0,
+          "rank": 10,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 39
+    },
+    {
+      "contender_id": 612929,
+      "name": "SUN ASLUND Bruce",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 612929,
+          "name": "SUN ASLUND Bruce",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 34.5,
+          "tie_break_2": 37.5,
+          "tie_break_3": 19.5,
+          "rank": 11,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5382": {
+          "contender_id": 612929,
+          "name": "Bruce Sun Åslund",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 20.53030827199465,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 8,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 612929,
+          "name": "Bruce Sun Åslund",
+          "klass": "D",
+          "points": 6.5,
+          "tie_break_1": 74.06060838740116,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 10,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 6
+    },
+    {
+      "contender_id": 578958,
+      "name": "HELLSTRAND Josefina",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 578958,
+          "name": "HELLSTRAND Josefina",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 33.0,
+          "tie_break_2": 36.0,
+          "tie_break_3": 16.5,
+          "rank": 12,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5382": {
+          "contender_id": 578958,
+          "name": "Josefina Hellstrand",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 21.020309958582416,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 3,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 3,
+      "final_rank": 30
+    },
+    {
+      "contender_id": 357187,
+      "name": "ALEKSANDRIAN Armen",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 357187,
+          "name": "ALEKSANDRIAN Armen",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 32.5,
+          "tie_break_2": 33.5,
+          "tie_break_3": 17.0,
+          "rank": 13,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 40
+    },
+    {
+      "contender_id": 392458,
+      "name": "Ohlsson Andreas",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 392458,
+          "name": "Ohlsson Andreas",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 26.5,
+          "tie_break_2": 29.0,
+          "tie_break_3": 18.5,
+          "rank": 14,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 41
+    },
+    {
+      "contender_id": 408370,
+      "name": "NILSSON Fernando",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 408370,
+          "name": "NILSSON Fernando",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 26.0,
+          "tie_break_2": 28.0,
+          "tie_break_3": 12.5,
+          "rank": 15,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5366": {
+          "contender_id": 408370,
+          "name": "Fernando Nilsson",
+          "klass": "D",
+          "points": 0.0,
+          "tie_break_1": 10.500100968172404,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 15,
+          "standings_points": 1,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 1,
+      "final_rank": 34
+    },
+    {
+      "contender_id": 412924,
+      "name": "Jonsson Henrik",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 412924,
+          "name": "Jonsson Henrik",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 25.0,
+          "tie_break_2": 27.5,
+          "tie_break_3": 15.0,
+          "rank": 16,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 42
+    },
+    {
+      "contender_id": 594192,
+      "name": "Gohlin Skoglund Dorian",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 594192,
+          "name": "Gohlin Skoglund Dorian",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 24.0,
+          "tie_break_2": 26.0,
+          "tie_break_3": 15.0,
+          "rank": 17,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 43
+    },
+    {
+      "contender_id": 352414,
+      "name": "Hansson Henrik",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 352414,
+          "name": "Hansson Henrik",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 23.0,
+          "tie_break_2": 24.5,
+          "tie_break_3": 16.0,
+          "rank": 18,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 44
+    },
+    {
+      "contender_id": 726121,
+      "name": "Kolev Stefan 2009",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 726121,
+          "name": "Kolev Stefan 2009",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 22.5,
+          "tie_break_2": 25.0,
+          "tie_break_3": 16.0,
+          "rank": 19,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 45
+    },
+    {
+      "contender_id": 619605,
+      "name": "Wingh Walter",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 619605,
+          "name": "Wingh Walter",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 22.0,
+          "tie_break_2": 22.0,
+          "tie_break_3": 17.0,
+          "rank": 20,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5382": {
+          "contender_id": 619605,
+          "name": "Walter Wingh",
+          "klass": "D",
+          "points": 1.5,
+          "tie_break_1": 22.51040367035089,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 16,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 46
+    },
+    {
+      "contender_id": 350464,
+      "name": "Hillbur Anders",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 350464,
+          "name": "Hillbur Anders",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 19.5,
+          "tie_break_2": 21.0,
+          "tie_break_3": 16.0,
+          "rank": 21,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 350464,
+          "name": "Anders Hillbur",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 31.53040748995416,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 11,
+          "standings_points": 5,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 26
+    },
+    {
+      "contender_id": 364015,
+      "name": "LINDH Stefan",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 364015,
+          "name": "LINDH Stefan",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 31.5,
+          "tie_break_2": 33.5,
+          "tie_break_3": 14.5,
+          "rank": 22,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 47
+    },
+    {
+      "contender_id": 346001,
+      "name": "Lindberg Sture",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 346001,
+          "name": "Lindberg Sture",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 28.5,
+          "tie_break_2": 31.5,
+          "tie_break_3": 18.0,
+          "rank": 23,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 48
+    },
+    {
+      "contender_id": 345824,
+      "name": "Karlsson Tomas 1969",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 345824,
+          "name": "Karlsson Tomas 1969",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 26.0,
+          "tie_break_2": 27.5,
+          "tie_break_3": 16.5,
+          "rank": 24,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 345824,
+          "name": "Tomas Karlsson",
+          "klass": "D",
+          "points": 4.5,
+          "tie_break_1": 39.0404071228948,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 7
+    },
+    {
+      "contender_id": 352015,
+      "name": "Lang Gusztav",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 352015,
+          "name": "Lang Gusztav",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 25.5,
+          "tie_break_2": 28.0,
+          "tie_break_3": 18.5,
+          "rank": 25,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 49
+    },
+    {
+      "contender_id": 389254,
+      "name": "Enstrom Simon",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 389254,
+          "name": "Enstrom Simon",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 22.5,
+          "tie_break_2": 25.0,
+          "tie_break_3": 11.0,
+          "rank": 26,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 50
+    },
+    {
+      "contender_id": 352021,
+      "name": "Smeds Joakim",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 352021,
+          "name": "Smeds Joakim",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 22.0,
+          "tie_break_2": 24.5,
+          "tie_break_3": 14.0,
+          "rank": 27,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 352021,
+          "name": "Joakim Smeds",
+          "klass": "D",
+          "points": 4.5,
+          "tie_break_1": 36.04050133611678,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 9
+    },
+    {
+      "contender_id": 532873,
+      "name": "ANDERSSON Kasper",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 532873,
+          "name": "ANDERSSON Kasper",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 39.0,
+          "tie_break_2": 43.0,
+          "tie_break_3": 21.0,
+          "rank": 28,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 51
+    },
+    {
+      "contender_id": 710501,
+      "name": "SCHMALHOLZ Tuva",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 710501,
+          "name": "SCHMALHOLZ Tuva",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 31.5,
+          "tie_break_2": 31.5,
+          "tie_break_3": 11.0,
+          "rank": 29,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5366": {
+          "contender_id": 710501,
+          "name": "Tuva Schmalholz",
+          "klass": "D",
+          "points": 2.5,
+          "tie_break_1": 32.01030248418868,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 13,
+          "standings_points": 3,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 710501,
+          "name": "Tuva Schmalholz",
+          "klass": "D",
+          "points": 2.0,
+          "tie_break_1": 22.02030533431734,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 14,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 3,
+      "final_rank": 31
+    },
+    {
+      "contender_id": 612199,
+      "name": "GULTEKIN Ece",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 612199,
+          "name": "GULTEKIN Ece",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 28.5,
+          "tie_break_2": 30.5,
+          "tie_break_3": 12.0,
+          "rank": 30,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5382": {
+          "contender_id": 612199,
+          "name": "Ece Gültekin",
+          "klass": "D",
+          "points": 2.0,
+          "tie_break_1": 20.02030309007146,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 15,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 52
+    },
+    {
+      "contender_id": 526287,
+      "name": "Masoudi Karam",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 526287,
+          "name": "Masoudi Karam",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 23.0,
+          "tie_break_2": 25.0,
+          "tie_break_3": 13.0,
+          "rank": 31,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 53
+    },
+    {
+      "contender_id": 352038,
+      "name": "Ivanyuhin Valeri",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 352038,
+          "name": "Ivanyuhin Valeri",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 19.5,
+          "tie_break_2": 21.5,
+          "tie_break_3": 11.0,
+          "rank": 32,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 54
+    },
+    {
+      "contender_id": 686256,
+      "name": "Bjorkeson Erik",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 686256,
+          "name": "Bjorkeson Erik",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 18.5,
+          "tie_break_2": 19.0,
+          "tie_break_3": 12.0,
+          "rank": 33,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 55
+    },
+    {
+      "contender_id": 643356,
+      "name": "HANINI Jacob",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 643356,
+          "name": "HANINI Jacob",
+          "klass": "D",
+          "points": 2.5,
+          "tie_break_1": 30.0,
+          "tie_break_2": 32.0,
+          "tie_break_3": 13.0,
+          "rank": 34,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5366": {
+          "contender_id": 643356,
+          "name": "Jacob Hanini",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 31.530301200756625,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 12,
+          "standings_points": 4,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 4,
+      "final_rank": 28
+    },
+    {
+      "contender_id": 352386,
+      "name": "RING Lars",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 352386,
+          "name": "RING Lars",
+          "klass": "D",
+          "points": 2.0,
+          "tie_break_1": 35.0,
+          "tie_break_2": 37.0,
+          "tie_break_3": 10.0,
+          "rank": 35,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 56
+    },
+    {
+      "contender_id": 366100,
+      "name": "KALINGAS Dimitris",
+      "klass": "D",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 366100,
+          "name": "KALINGAS Dimitris",
+          "klass": "D",
+          "points": 0.0,
+          "tie_break_1": 33.0,
+          "tie_break_2": 35.5,
+          "tie_break_3": 0.0,
+          "rank": 36,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5366": {
+          "contender_id": 366100,
+          "name": "Dimitris Kalingas",
+          "klass": "D",
+          "points": 2.0,
+          "tie_break_1": 30.52030080770344,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 14,
+          "standings_points": 2,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 2,
+      "final_rank": 32
+    },
+    {
+      "contender_id": 644107,
+      "name": "Majkel Kokocinski",
+      "klass": "D",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 644107,
+          "name": "Majkel Kokocinski",
+          "klass": "D",
+          "points": 5.5,
+          "tie_break_1": 35.54050970554842,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 15,
+      "final_rank": 3
+    },
+    {
+      "contender_id": 714071,
+      "name": "Vidar Alm",
+      "klass": "D",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 714071,
+          "name": "Vidar Alm",
+          "klass": "D",
+          "points": 4.5,
+          "tie_break_1": 33.54050004832364,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 12,
+      "final_rank": 12
+    },
+    {
+      "contender_id": 622468,
+      "name": "Malte Engdahl",
+      "klass": "D",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 622468,
+          "name": "Malte Engdahl",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 36.53040659533203,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 11,
+      "final_rank": 14
+    },
+    {
+      "contender_id": 363993,
+      "name": "Björn Knöppel",
+      "klass": "D",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 363993,
+          "name": "Björn Knöppel",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 35.540309868715866,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 363993,
+          "name": "Björn Knöppel",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 22.52040886798573,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 5,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 15,
+      "final_rank": 4
+    },
+    {
+      "contender_id": 694556,
+      "name": "Anton Nordenfur",
+      "klass": "D",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 694556,
+          "name": "Anton Nordenfur",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 32.540501865064904,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 9,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 694556,
+          "name": "Anton Nordenfur",
+          "klass": "D",
+          "points": 6.0,
+          "tie_break_1": 80.56070752241601,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 13,
+          "standings_points": 3,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 12,
+      "final_rank": 13
+    },
+    {
+      "contender_id": 456138,
+      "name": "Sten Hellman",
+      "klass": "D",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 456138,
+          "name": "Sten Hellman",
+          "klass": "D",
+          "points": 4.0,
+          "tie_break_1": 32.53030137497718,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 8,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 8,
+      "final_rank": 21
+    },
+    {
+      "contender_id": 360917,
+      "name": "Alexis Duenas",
+      "klass": "D",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 360917,
+          "name": "Alexis Duenas",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 41.010406977718155,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 7,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 360917,
+          "name": "Alexis Duenas",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 20.520409020436688,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 2,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 19
+    },
+    {
+      "contender_id": 696485,
+      "name": "Martin Öhrn",
+      "klass": "D",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 696485,
+          "name": "Martin Öhrn",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 31.530407451999935,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 10,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 23
+    },
+    {
+      "contender_id": 624455,
+      "name": "Simon Elväng",
+      "klass": "D",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 624455,
+          "name": "Simon Elväng",
+          "klass": "D",
+          "points": 4.5,
+          "tie_break_1": 23.040302882982143,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 10,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 624455,
+          "name": "Simon Elväng",
+          "klass": "D",
+          "points": 7.5,
+          "tie_break_1": 87.06070442496501,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 25,
+      "final_rank": 1
+    },
+    {
+      "contender_id": 648669,
+      "name": "Yohan Thamarai",
+      "klass": "D",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 648669,
+          "name": "Yohan Thamarai",
+          "klass": "D",
+          "points": 3.5,
+          "tie_break_1": 18.530308619026417,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 24
+    },
+    {
+      "contender_id": 541357,
+      "name": "Desmond Ekman Matamoros",
+      "klass": "D",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 541357,
+          "name": "Desmond Ekman Matamoros",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 21.530304235057937,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 4,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 541357,
+          "name": "Desmond Ekman Matamoros",
+          "klass": "D",
+          "points": 7.5,
+          "tie_break_1": 78.57070132139786,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 16,
+      "final_rank": 2
+    },
+    {
+      "contender_id": 542974,
+      "name": "Henry Bjarnegård",
+      "klass": "D",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 542974,
+          "name": "Henry Bjarnegård",
+          "klass": "D",
+          "points": 3.0,
+          "tie_break_1": 20.03040723166611,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 10,
+          "standings_points": 1,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 1,
+      "final_rank": 35
+    },
+    {
+      "contender_id": 541031,
+      "name": "Cristina Ostafiev",
+      "klass": "D",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 541031,
+          "name": "Cristina Ostafiev",
+          "klass": "D",
+          "points": 2.5,
+          "tie_break_1": 22.020403949227365,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 12,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 541031,
+          "name": "Cristina Ostafiev",
+          "klass": "D",
+          "points": 7.0,
+          "tie_break_1": 85.56060699403466,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 11,
+      "final_rank": 15
+    },
+    {
+      "contender_id": 644670,
+      "name": "Theodor Krushichki",
+      "klass": "D",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 644670,
+          "name": "Theodor Krushichki",
+          "klass": "D",
+          "points": 2.5,
+          "tie_break_1": 20.020305019783283,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 13,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 57
+    },
+    {
+      "contender_id": 544058,
+      "name": "Karl-Oskar Rehnberg",
+      "klass": "D",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 544058,
+          "name": "Karl-Oskar Rehnberg",
+          "klass": "D",
+          "points": 7.5,
+          "tie_break_1": 83.57070329118082,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 10
+    },
+    {
+      "contender_id": 752382,
+      "name": "Praveen Kumar Pugazhendhi",
+      "klass": "D",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 752382,
+          "name": "Praveen Kumar Pugazhendhi",
+          "klass": "D",
+          "points": 7.0,
+          "tie_break_1": 81.57060986927527,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 16
+    },
+    {
+      "contender_id": 622593,
+      "name": "William Jansson",
+      "klass": "D",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 622593,
+          "name": "William Jansson",
+          "klass": "D",
+          "points": 6.5,
+          "tie_break_1": 87.06060481315313,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 9,
+      "final_rank": 20
+    },
+    {
+      "contender_id": 714449,
+      "name": "Andre Wilhelmsson",
+      "klass": "D",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 714449,
+          "name": "Andre Wilhelmsson",
+          "klass": "D",
+          "points": 6.5,
+          "tie_break_1": 78.06070133268116,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 8,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 8,
+      "final_rank": 22
+    },
+    {
+      "contender_id": 638373,
+      "name": "Carlos de la Fé Dahlin",
+      "klass": "D",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 638373,
+          "name": "Carlos de la Fé Dahlin",
+          "klass": "D",
+          "points": 6.0,
+          "tie_break_1": 82.06060654213245,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 12,
+          "standings_points": 4,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 4,
+      "final_rank": 29
+    },
+    {
+      "contender_id": 350324,
+      "name": "Alexander Koffler",
+      "klass": "D",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 350324,
+          "name": "Alexander Koffler",
+          "klass": "D",
+          "points": 6.0,
+          "tie_break_1": 75.56070168787194,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 14,
+          "standings_points": 2,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 2,
+      "final_rank": 33
+    },
+    {
+      "contender_id": 714453,
+      "name": "Alex Elofsson Alenius",
+      "klass": "D",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 714453,
+          "name": "Alex Elofsson Alenius",
+          "klass": "D",
+          "points": 5.0,
+          "tie_break_1": 78.05060399229403,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 15,
+          "standings_points": 1,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 1,
+      "final_rank": 36
+    }
+  ],
+  "E": [
+    {
+      "contender_id": 755877,
+      "name": "TORNARD Vincent",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 755877,
+          "name": "TORNARD Vincent",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 33.0,
+          "tie_break_2": 33.0,
+          "tie_break_3": 20.0,
+          "rank": 1,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 35
+    },
+    {
+      "contender_id": 628652,
+      "name": "Hjalte Eric",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 628652,
+          "name": "Hjalte Eric",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 27.5,
+          "tie_break_2": 31.5,
+          "tie_break_3": 19.5,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": false
+        },
+        "5382": {
+          "contender_id": 628652,
+          "name": "Eric Hjälte",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 22.530309293367438,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 7,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 16,
+      "final_rank": 4
+    },
+    {
+      "contender_id": 622594,
+      "name": "Jackmann Jonathan",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 622594,
+          "name": "Jackmann Jonathan",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 26.5,
+          "tie_break_2": 29.5,
+          "tie_break_3": 21.0,
+          "rank": 3,
+          "standings_points": 8,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 8,
+      "final_rank": 17
+    },
+    {
+      "contender_id": 761131,
+      "name": "Kull Mattias",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 761131,
+          "name": "Kull Mattias",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 26.0,
+          "tie_break_2": 29.0,
+          "tie_break_3": 19.0,
+          "rank": 4,
+          "standings_points": 7,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 7,
+      "final_rank": 19
+    },
+    {
+      "contender_id": 704618,
+      "name": "Prabu Anjay",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 704618,
+          "name": "Prabu Anjay",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 22.5,
+          "tie_break_2": 24.5,
+          "tie_break_3": 17.0,
+          "rank": 5,
+          "standings_points": 6,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 21
+    },
+    {
+      "contender_id": 759366,
+      "name": "Omahony Paul",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 759366,
+          "name": "Omahony Paul",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 21.0,
+          "tie_break_2": 23.0,
+          "tie_break_3": 17.5,
+          "rank": 6,
+          "standings_points": 5,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 26
+    },
+    {
+      "contender_id": 726286,
+      "name": "MARKOV Igor A.",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 726286,
+          "name": "MARKOV Igor A.",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 44.0,
+          "tie_break_2": 47.0,
+          "tie_break_3": 25.5,
+          "rank": 7,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5366": {
+          "contender_id": 726286,
+          "name": "Igor Markov",
+          "klass": "E",
+          "points": 6.0,
+          "tie_break_1": 38.56050381575007,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 726286,
+          "name": "Igor Markov",
+          "klass": "E",
+          "points": 3.5,
+          "tie_break_1": 25.03040836975883,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 8,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 726286,
+          "name": "Igor Markov",
+          "klass": "E",
+          "points": 8.0,
+          "tie_break_1": 96.0807085182731,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 15,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 38,
+      "final_rank": 1
+    },
+    {
+      "contender_id": 654862,
+      "name": "Therstam Alexander",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 654862,
+          "name": "Therstam Alexander",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 28.5,
+          "tie_break_2": 31.0,
+          "tie_break_3": 23.0,
+          "rank": 8,
+          "standings_points": 3,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 3,
+      "final_rank": 30
+    },
+    {
+      "contender_id": 549578,
+      "name": "Premat Lucas",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 549578,
+          "name": "Premat Lucas",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 28.5,
+          "tie_break_2": 30.5,
+          "tie_break_3": 22.0,
+          "rank": 9,
+          "standings_points": 2,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 549578,
+          "name": "Lucas Premat",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 33.02030017437764,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 9,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 549578,
+          "name": "Lucas Premat",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 19.02030386862109,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 4,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 549578,
+          "name": "Lucas Premat",
+          "klass": "E",
+          "points": 6.5,
+          "tie_break_1": 82.56060523619045,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 8,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 23,
+      "final_rank": 2
+    },
+    {
+      "contender_id": 727750,
+      "name": "ISLAM Umair",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 727750,
+          "name": "ISLAM Umair",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 37.0,
+          "tie_break_2": 40.0,
+          "tie_break_3": 18.5,
+          "rank": 10,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5383": {
+          "contender_id": 727750,
+          "name": "Umair Islam",
+          "klass": "E",
+          "points": 6.5,
+          "tie_break_1": 76.06060155412392,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 11,
+          "standings_points": 5,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 27
+    },
+    {
+      "contender_id": 637561,
+      "name": "ERDOGAN Berkay",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 637561,
+          "name": "ERDOGAN Berkay",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 34.0,
+          "tie_break_2": 37.5,
+          "tie_break_3": 19.0,
+          "rank": 11,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 36
+    },
+    {
+      "contender_id": 648759,
+      "name": "Huang Edgar",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 648759,
+          "name": "Huang Edgar",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 28.0,
+          "tie_break_2": 30.5,
+          "tie_break_3": 17.0,
+          "rank": 12,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 37
+    },
+    {
+      "contender_id": 726292,
+      "name": "Lang Sohl Benjamin",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 726292,
+          "name": "Lang Sohl Benjamin",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 28.0,
+          "tie_break_2": 29.5,
+          "tie_break_3": 22.0,
+          "rank": 13,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5366": {
+          "contender_id": 726292,
+          "name": "Benjamin Lang Sohl",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 29.52040920200278,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 7,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 7,
+      "final_rank": 20
+    },
+    {
+      "contender_id": 624014,
+      "name": "Bardhan Sayak Raj",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 624014,
+          "name": "Bardhan Sayak Raj",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 25.0,
+          "tie_break_2": 28.0,
+          "tie_break_3": 18.5,
+          "rank": 14,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 38
+    },
+    {
+      "contender_id": 763196,
+      "name": "Csaky Szonja",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 763196,
+          "name": "Csaky Szonja",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 25.0,
+          "tie_break_2": 28.0,
+          "tie_break_3": 17.5,
+          "rank": 15,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 39
+    },
+    {
+      "contender_id": 521568,
+      "name": "Oronez Gabriel",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 521568,
+          "name": "Oronez Gabriel",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 24.0,
+          "tie_break_2": 26.5,
+          "tie_break_3": 15.0,
+          "rank": 16,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 40
+    },
+    {
+      "contender_id": 726915,
+      "name": "KESAVAN Nitish",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 726915,
+          "name": "KESAVAN Nitish",
+          "klass": "E",
+          "points": 3.5,
+          "tie_break_1": 30.0,
+          "tie_break_2": 32.5,
+          "tie_break_3": 15.5,
+          "rank": 17,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 41
+    },
+    {
+      "contender_id": 777892,
+      "name": "Zhou David 2010",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 777892,
+          "name": "Zhou David 2010",
+          "klass": "E",
+          "points": 3.5,
+          "tie_break_1": 26.5,
+          "tie_break_2": 30.0,
+          "tie_break_3": 17.5,
+          "rank": 18,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 42
+    },
+    {
+      "contender_id": 647206,
+      "name": "CUI Ian",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 647206,
+          "name": "CUI Ian",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 34.0,
+          "tie_break_2": 34.5,
+          "tie_break_3": 17.0,
+          "rank": 19,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 43
+    },
+    {
+      "contender_id": 748827,
+      "name": "CEDERHOLM Axel",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 748827,
+          "name": "CEDERHOLM Axel",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 32.0,
+          "tie_break_2": 34.0,
+          "tie_break_3": 13.0,
+          "rank": 20,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5366": {
+          "contender_id": 748827,
+          "name": "Axel Cederholm",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 34.04040316077628,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 5
+    },
+    {
+      "contender_id": 727164,
+      "name": "CHORNENKYI Roman",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 727164,
+          "name": "CHORNENKYI Roman",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 29.5,
+          "tie_break_2": 31.5,
+          "tie_break_3": 13.0,
+          "rank": 21,
+          "standings_points": -1,
+          "penalty": true
+        },
+        "5382": {
+          "contender_id": 727164,
+          "name": "Roman Chornenkyi",
+          "klass": "E",
+          "points": 1.0,
+          "tie_break_1": 19.510403877238765,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 14,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 44
+    },
+    {
+      "contender_id": 643868,
+      "name": "Srinivasson Raghav",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 643868,
+          "name": "Srinivasson Raghav",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 27.0,
+          "tie_break_2": 30.0,
+          "tie_break_3": 14.5,
+          "rank": 22,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 45
+    },
+    {
+      "contender_id": 719331,
+      "name": "Jonsson Matteo",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 719331,
+          "name": "Jonsson Matteo",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 24.0,
+          "tie_break_2": 26.0,
+          "tie_break_3": 16.0,
+          "rank": 23,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5383": {
+          "contender_id": 719331,
+          "name": "Matteo Jonsson",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 51.51070883972823,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 36,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 46
+    },
+    {
+      "contender_id": 586521,
+      "name": "Hammar Leonard",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 586521,
+          "name": "Hammar Leonard",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 23.0,
+          "tie_break_2": 25.5,
+          "tie_break_3": 13.5,
+          "rank": 24,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 47
+    },
+    {
+      "contender_id": 541387,
+      "name": "Nodtveidt Mans",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 541387,
+          "name": "Nodtveidt Mans",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 21.0,
+          "tie_break_2": 23.5,
+          "tie_break_3": 12.0,
+          "rank": 25,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 48
+    },
+    {
+      "contender_id": 379335,
+      "name": "Haddad Tony",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 379335,
+          "name": "Haddad Tony",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 19.0,
+          "tie_break_2": 19.5,
+          "tie_break_3": 9.0,
+          "rank": 26,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 49
+    },
+    {
+      "contender_id": 677203,
+      "name": "Razavi Arman",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 677203,
+          "name": "Razavi Arman",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 19.0,
+          "tie_break_2": 19.0,
+          "tie_break_3": 10.0,
+          "rank": 27,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 50
+    },
+    {
+      "contender_id": 373558,
+      "name": "Ohlsson Emma",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 373558,
+          "name": "Ohlsson Emma",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 18.5,
+          "tie_break_2": 19.5,
+          "tie_break_3": 9.0,
+          "rank": 28,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 51
+    },
+    {
+      "contender_id": 727258,
+      "name": "Behjoo Arvid",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 727258,
+          "name": "Behjoo Arvid",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 17.0,
+          "tie_break_2": 19.0,
+          "tie_break_3": 8.0,
+          "rank": 29,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 52
+    },
+    {
+      "contender_id": 684541,
+      "name": "Domstedt Viktor",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 684541,
+          "name": "Domstedt Viktor",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 16.5,
+          "tie_break_2": 17.0,
+          "tie_break_3": 8.5,
+          "rank": 30,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 53
+    },
+    {
+      "contender_id": 759412,
+      "name": "BAGHERI Barbod",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 759412,
+          "name": "BAGHERI Barbod",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 29.5,
+          "tie_break_2": 30.5,
+          "tie_break_3": 10.0,
+          "rank": 31,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 54
+    },
+    {
+      "contender_id": 726914,
+      "name": "KESAVAN Nithika",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 726914,
+          "name": "KESAVAN Nithika",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 27.0,
+          "tie_break_2": 27.5,
+          "tie_break_3": 7.5,
+          "rank": 32,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 55
+    },
+    {
+      "contender_id": 568369,
+      "name": "Pickert Paul",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 568369,
+          "name": "Pickert Paul",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 22.0,
+          "tie_break_2": 24.5,
+          "tie_break_3": 11.5,
+          "rank": 33,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5382": {
+          "contender_id": 568369,
+          "name": "Paul Pickert",
+          "klass": "E",
+          "points": 0.0,
+          "tie_break_1": 14.500402225618485,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 17,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 56
+    },
+    {
+      "contender_id": 739798,
+      "name": "Premat Christophe",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 739798,
+          "name": "Premat Christophe",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 21.0,
+          "tie_break_2": 23.5,
+          "tie_break_3": 9.0,
+          "rank": 34,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5382": {
+          "contender_id": 739798,
+          "name": "Christophe Premat",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 18.520301693290033,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 10,
+          "standings_points": 1,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 739798,
+          "name": "Christophe Premat",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 69.54060610676757,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 28,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 1,
+      "final_rank": 33
+    },
+    {
+      "contender_id": 664401,
+      "name": "Ghosh Rivan",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 664401,
+          "name": "Ghosh Rivan",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 21.0,
+          "tie_break_2": 22.0,
+          "tie_break_3": 8.5,
+          "rank": 35,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5382": {
+          "contender_id": 664401,
+          "name": "Rivan Ghosh",
+          "klass": "E",
+          "points": 1.0,
+          "tie_break_1": 14.010304104108535,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 16,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 664401,
+          "name": "Rivan Ghosh",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 61.040704196793975,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 33,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 57
+    },
+    {
+      "contender_id": 591531,
+      "name": "Omahony Adam",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 591531,
+          "name": "Omahony Adam",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 20.0,
+          "tie_break_2": 21.5,
+          "tie_break_3": 8.5,
+          "rank": 36,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 58
+    },
+    {
+      "contender_id": 635452,
+      "name": "Quiroga Gustavsson Maximo",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 635452,
+          "name": "Quiroga Gustavsson Maximo",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 18.0,
+          "tie_break_2": 20.0,
+          "tie_break_3": 7.5,
+          "rank": 37,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 59
+    },
+    {
+      "contender_id": 709333,
+      "name": "Hedman Sven",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 709333,
+          "name": "Hedman Sven",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 17.5,
+          "tie_break_2": 18.0,
+          "tie_break_3": 6.5,
+          "rank": 38,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 60
+    },
+    {
+      "contender_id": 655689,
+      "name": "Sundberg Philip",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 655689,
+          "name": "Sundberg Philip",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 15.5,
+          "tie_break_2": 17.0,
+          "tie_break_3": 9.5,
+          "rank": 39,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5383": {
+          "contender_id": 655689,
+          "name": "Philip Sundberg",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 61.04070632045723,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 32,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 61
+    },
+    {
+      "contender_id": 635723,
+      "name": "Danielsson Astor",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 635723,
+          "name": "Danielsson Astor",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 24.0,
+          "tie_break_2": 25.5,
+          "tie_break_3": 9.0,
+          "rank": 40,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 62
+    },
+    {
+      "contender_id": 715816,
+      "name": "Ma George",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 715816,
+          "name": "Ma George",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 22.5,
+          "tie_break_2": 25.0,
+          "tie_break_3": 11.0,
+          "rank": 41,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 63
+    },
+    {
+      "contender_id": 639546,
+      "name": "Birtuson Rion",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 639546,
+          "name": "Birtuson Rion",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 22.0,
+          "tie_break_2": 24.0,
+          "tie_break_3": 4.0,
+          "rank": 42,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 64
+    },
+    {
+      "contender_id": 691705,
+      "name": "Moreau Alfred",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 691705,
+          "name": "Moreau Alfred",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 22.0,
+          "tie_break_2": 23.5,
+          "tie_break_3": 8.0,
+          "rank": 43,
+          "standings_points": 0,
+          "penalty": false
+        },
+        "5383": {
+          "contender_id": 691705,
+          "name": "Alfred Moreau",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 56.03070402549327,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 34,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 65
+    },
+    {
+      "contender_id": 669511,
+      "name": "Thams Theodore",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 669511,
+          "name": "Thams Theodore",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 21.0,
+          "tie_break_2": 23.0,
+          "tie_break_3": 10.0,
+          "rank": 44,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 66
+    },
+    {
+      "contender_id": 719435,
+      "name": "Rydberg Arthur",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 719435,
+          "name": "Rydberg Arthur",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 20.5,
+          "tie_break_2": 22.5,
+          "tie_break_3": 11.0,
+          "rank": 45,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 67
+    },
+    {
+      "contender_id": 760561,
+      "name": "Rubin Mattias",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 760561,
+          "name": "Rubin Mattias",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 18.0,
+          "tie_break_2": 20.0,
+          "tie_break_3": 8.0,
+          "rank": 46,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 68
+    },
+    {
+      "contender_id": 716302,
+      "name": "Sivolgin Platon",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 716302,
+          "name": "Sivolgin Platon",
+          "klass": "E",
+          "points": 1.5,
+          "tie_break_1": 21.5,
+          "tie_break_2": 24.0,
+          "tie_break_3": 9.5,
+          "rank": 47,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 69
+    },
+    {
+      "contender_id": 721267,
+      "name": "Vikstrom Jonathan 2013",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 721267,
+          "name": "Vikstrom Jonathan 2013",
+          "klass": "E",
+          "points": 1.5,
+          "tie_break_1": 15.0,
+          "tie_break_2": 16.0,
+          "tie_break_3": 5.5,
+          "rank": 48,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 70
+    },
+    {
+      "contender_id": 663620,
+      "name": "UGGLA Michael",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 663620,
+          "name": "UGGLA Michael",
+          "klass": "E",
+          "points": 1.0,
+          "tie_break_1": 31.5,
+          "tie_break_2": 33.5,
+          "tie_break_3": 9.0,
+          "rank": 49,
+          "standings_points": -1,
+          "penalty": true
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 71
+    },
+    {
+      "contender_id": 707155,
+      "name": "Omahony Sean",
+      "klass": "E",
+      "tournament_results": {
+        "rilton": {
+          "contender_id": 707155,
+          "name": "Omahony Sean",
+          "klass": "E",
+          "points": 0.5,
+          "tie_break_1": 20.5,
+          "tie_break_2": 22.0,
+          "tie_break_3": 2.5,
+          "rank": 50,
+          "standings_points": 0,
+          "penalty": false
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 72
+    },
+    {
+      "contender_id": 618907,
+      "name": "Leonard Krafft",
+      "klass": "E",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 618907,
+          "name": "Leonard Krafft",
+          "klass": "E",
+          "points": 3.5,
+          "tie_break_1": 33.530405271402934,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 7
+    },
+    {
+      "contender_id": 727232,
+      "name": "Martin Alm",
+      "klass": "E",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 727232,
+          "name": "Martin Alm",
+          "klass": "E",
+          "points": 3.5,
+          "tie_break_1": 31.530306614005433,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 12,
+      "final_rank": 9
+    },
+    {
+      "contender_id": 688440,
+      "name": "Kevin Garcia Martin",
+      "klass": "E",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 688440,
+          "name": "Kevin Garcia Martin",
+          "klass": "E",
+          "points": 3.5,
+          "tie_break_1": 30.530401710306457,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 11,
+      "final_rank": 11
+    },
+    {
+      "contender_id": 692235,
+      "name": "Aditya Gupta",
+      "klass": "E",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 692235,
+          "name": "Aditya Gupta",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 34.520306004182096,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 692235,
+          "name": "Aditya Gupta",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 63.55060202011017,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 26,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 13
+    },
+    {
+      "contender_id": 730183,
+      "name": "Mikael Danielsson",
+      "klass": "E",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 730183,
+          "name": "Mikael Danielsson",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 29.52040209485311,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 8,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 8,
+      "final_rank": 18
+    },
+    {
+      "contender_id": 747547,
+      "name": "Magnus Nordström",
+      "klass": "E",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 747547,
+          "name": "Magnus Nordström",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 26.510304817346753,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 10,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 22
+    },
+    {
+      "contender_id": 716550,
+      "name": "Maximilian Rostov",
+      "klass": "E",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 716550,
+          "name": "Maximilian Rostov",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 22.51020028811582,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 11,
+          "standings_points": 5,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 5,
+      "final_rank": 28
+    },
+    {
+      "contender_id": 686273,
+      "name": "Simon Berg",
+      "klass": "E",
+      "tournament_results": {
+        "5366": {
+          "contender_id": 686273,
+          "name": "Simon Berg",
+          "klass": "E",
+          "points": 1.5,
+          "tie_break_1": 28.00030574515006,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 12,
+          "standings_points": 4,
+          "penalty": null
+        },
+        "5382": {
+          "contender_id": 686273,
+          "name": "Simon Berg",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 18.520309188294704,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 2,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 686273,
+          "name": "Simon Berg",
+          "klass": "E",
+          "points": 5.5,
+          "tie_break_1": 77.55070428486756,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 18,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 23
+    },
+    {
+      "contender_id": 358866,
+      "name": "Ulf Hammar",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 358866,
+          "name": "Ulf Hammar",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 26.030301989163792,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 1,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 14
+    },
+    {
+      "contender_id": 423756,
+      "name": "Ludwig Sandhu",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 423756,
+          "name": "Ludwig Sandhu",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 23.540306879311853,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 9,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 423756,
+          "name": "Ludwig Sandhu",
+          "klass": "E",
+          "points": 8.0,
+          "tie_break_1": 86.08060781432218,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 2,
+          "standings_points": 14,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 23,
+      "final_rank": 3
+    },
+    {
+      "contender_id": 686537,
+      "name": "Elliot Kilander Ulfeldt",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 686537,
+          "name": "Elliot Kilander Ulfeldt",
+          "klass": "E",
+          "points": 3.0,
+          "tie_break_1": 18.530402866576654,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 24
+    },
+    {
+      "contender_id": 688288,
+      "name": "Arnav Sharma",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 688288,
+          "name": "Arnav Sharma",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 21.020309525386946,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 5,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 688288,
+          "name": "Arnav Sharma",
+          "klass": "E",
+          "points": 6.5,
+          "tie_break_1": 86.56060229848819,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 7,
+          "standings_points": 9,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 14,
+      "final_rank": 6
+    },
+    {
+      "contender_id": 728453,
+      "name": "Amir Sohrabi",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 728453,
+          "name": "Amir Sohrabi",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 21.020302936610744,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 8,
+          "standings_points": 3,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 728453,
+          "name": "Amir Sohrabi",
+          "klass": "E",
+          "points": 6.5,
+          "tie_break_1": 80.56060684340392,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 9,
+          "standings_points": 7,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 15
+    },
+    {
+      "contender_id": 730812,
+      "name": "Anton Leo",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 730812,
+          "name": "Anton Leo",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 16.520409881031892,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 11,
+          "standings_points": 0,
+          "penalty": null
+        },
+        "5383": {
+          "contender_id": 730812,
+          "name": "Anton Leo",
+          "klass": "E",
+          "points": 4.0,
+          "tie_break_1": 66.04060336945211,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 31,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 73
+    },
+    {
+      "contender_id": 686327,
+      "name": "Saxon Eliasson",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 686327,
+          "name": "Saxon Eliasson",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 14.52030304640823,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 12,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 74
+    },
+    {
+      "contender_id": 709946,
+      "name": "Aarav Kishor",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 709946,
+          "name": "Aarav Kishor",
+          "klass": "E",
+          "points": 2.0,
+          "tie_break_1": 14.520208858007432,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 13,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 75
+    },
+    {
+      "contender_id": 642062,
+      "name": "Olle Svensson",
+      "klass": "E",
+      "tournament_results": {
+        "5382": {
+          "contender_id": 642062,
+          "name": "Olle Svensson",
+          "klass": "E",
+          "points": 1.0,
+          "tie_break_1": 17.01020516989965,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 15,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 76
+    },
+    {
+      "contender_id": 737932,
+      "name": "Mateusz Herman",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 737932,
+          "name": "Mateusz Herman",
+          "klass": "E",
+          "points": 8.0,
+          "tie_break_1": 85.08060431685264,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 3,
+          "standings_points": 13,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 13,
+      "final_rank": 8
+    },
+    {
+      "contender_id": 750669,
+      "name": "Ola Öhlund",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 750669,
+          "name": "Ola Öhlund",
+          "klass": "E",
+          "points": 7.5,
+          "tie_break_1": 79.5706060380125,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 4,
+          "standings_points": 12,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 12,
+      "final_rank": 10
+    },
+    {
+      "contender_id": 638256,
+      "name": "Bernhard Huber",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 638256,
+          "name": "Bernhard Huber",
+          "klass": "E",
+          "points": 7.0,
+          "tie_break_1": 89.5707025157641,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 5,
+          "standings_points": 11,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 11,
+      "final_rank": 12
+    },
+    {
+      "contender_id": 684287,
+      "name": "Edvin Högnabba",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 684287,
+          "name": "Edvin Högnabba",
+          "klass": "E",
+          "points": 7.0,
+          "tie_break_1": 84.57070097733413,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 6,
+          "standings_points": 10,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 10,
+      "final_rank": 16
+    },
+    {
+      "contender_id": 677866,
+      "name": "Anton Erasmie",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 677866,
+          "name": "Anton Erasmie",
+          "klass": "E",
+          "points": 6.5,
+          "tie_break_1": 77.06070166546237,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 10,
+          "standings_points": 6,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 6,
+      "final_rank": 25
+    },
+    {
+      "contender_id": 539099,
+      "name": "Dilip Sunderraj Bjerre",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 539099,
+          "name": "Dilip Sunderraj Bjerre",
+          "klass": "E",
+          "points": 6.5,
+          "tie_break_1": 74.0607048802541,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 12,
+          "standings_points": 4,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 4,
+      "final_rank": 29
+    },
+    {
+      "contender_id": 683310,
+      "name": "Eunsung Jung",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 683310,
+          "name": "Eunsung Jung",
+          "klass": "E",
+          "points": 6.5,
+          "tie_break_1": 67.56060963531988,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 13,
+          "standings_points": 3,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 3,
+      "final_rank": 31
+    },
+    {
+      "contender_id": 380245,
+      "name": "David Naqqar",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 380245,
+          "name": "David Naqqar",
+          "klass": "E",
+          "points": 6.0,
+          "tie_break_1": 76.56060819870834,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 14,
+          "standings_points": 2,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 2,
+      "final_rank": 32
+    },
+    {
+      "contender_id": 727661,
+      "name": "Phu Ngo",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 727661,
+          "name": "Phu Ngo",
+          "klass": "E",
+          "points": 6.0,
+          "tie_break_1": 73.56060079553123,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 15,
+          "standings_points": 1,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 1,
+      "final_rank": 34
+    },
+    {
+      "contender_id": 745257,
+      "name": "Bertrand Giorgi",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 745257,
+          "name": "Bertrand Giorgi",
+          "klass": "E",
+          "points": 6.0,
+          "tie_break_1": 66.5606070787832,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 16,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 77
+    },
+    {
+      "contender_id": 744743,
+      "name": "Alaa Alhusni",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 744743,
+          "name": "Alaa Alhusni",
+          "klass": "E",
+          "points": 5.5,
+          "tie_break_1": 78.54070153328358,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 17,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 78
+    },
+    {
+      "contender_id": 710472,
+      "name": "Shanvika Bendi",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 710472,
+          "name": "Shanvika Bendi",
+          "klass": "E",
+          "points": 5.5,
+          "tie_break_1": 74.05060411786042,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 19,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 79
+    },
+    {
+      "contender_id": 594316,
+      "name": "Sara Ostafiev",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 594316,
+          "name": "Sara Ostafiev",
+          "klass": "E",
+          "points": 5.5,
+          "tie_break_1": 72.05060059390206,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 20,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 80
+    },
+    {
+      "contender_id": 667198,
+      "name": "Teo An",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 667198,
+          "name": "Teo An",
+          "klass": "E",
+          "points": 5.5,
+          "tie_break_1": 66.05070619737884,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 21,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 81
+    },
+    {
+      "contender_id": 532056,
+      "name": "Robert Seo",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 532056,
+          "name": "Robert Seo",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 76.55060922973362,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 22,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 82
+    },
+    {
+      "contender_id": 664573,
+      "name": "Nova Golkar",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 664573,
+          "name": "Nova Golkar",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 68.55070905581094,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 23,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 83
+    },
+    {
+      "contender_id": 692533,
+      "name": "Tanmay Gupta",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 692533,
+          "name": "Tanmay Gupta",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 68.55070277429874,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 24,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 84
+    },
+    {
+      "contender_id": 756175,
+      "name": "Gary Aelius",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 756175,
+          "name": "Gary Aelius",
+          "klass": "E",
+          "points": 5.0,
+          "tie_break_1": 68.05060213568153,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 25,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 85
+    },
+    {
+      "contender_id": 641770,
+      "name": "Kilian Alvarez",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 641770,
+          "name": "Kilian Alvarez",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 77.04060014810572,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 27,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 86
+    },
+    {
+      "contender_id": 690650,
+      "name": "Vigenn Åkervik",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 690650,
+          "name": "Vigenn Åkervik",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 67.54070551025559,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 29,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 87
+    },
+    {
+      "contender_id": 614213,
+      "name": "Ari Nick",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 614213,
+          "name": "Ari Nick",
+          "klass": "E",
+          "points": 4.5,
+          "tie_break_1": 57.530602332346085,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 30,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 88
+    },
+    {
+      "contender_id": 686498,
+      "name": "Maxim Shipilov",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 686498,
+          "name": "Maxim Shipilov",
+          "klass": "E",
+          "points": 2.5,
+          "tie_break_1": 56.51060634057,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 35,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 89
+    },
+    {
+      "contender_id": 752798,
+      "name": "Louis Giorgi",
+      "klass": "E",
+      "tournament_results": {
+        "5383": {
+          "contender_id": 752798,
+          "name": "Louis Giorgi",
+          "klass": "E",
+          "points": 1.0,
+          "tie_break_1": 49.010507081239055,
+          "tie_break_2": null,
+          "tie_break_3": null,
+          "rank": 37,
+          "standings_points": 0,
+          "penalty": null
+        }
+      },
+      "total_standings_points": 0,
+      "final_rank": 90
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{#- Senior's pages inside the shell named by BASE_TEMPLATE: the host's, or by default the bundled one. A shell provides the
+    blocks title, head, content and scripts, and loads the shared assets such as Bootstrap. -#}
+{% extends senior_base_template %}
+{% block head %}
+    {{ super() }}
+    <link href="{{ url_for('senior.static', filename='css/app.css') }}" rel="stylesheet">
+    {% block extra_css %}{% endblock %}
+{% endblock %}
+{% block scripts %}
+{{ super() }}
+{% block extra_js %}{% endblock %}
+{% endblock %}

@@ -1,0 +1,8 @@
+{
+  "stage": "January rating classification",
+  "exception": "rating_fetcher.exceptions.ProcessingError",
+  "message": "Player 904: Processing error: Player 904: Invalid elo data structure",
+  "input_record_index": 904,
+  "cause": "elo is null",
+  "outputs_generated": false
+}

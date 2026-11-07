@@ -1,0 +1,22 @@
+{
+    "tournaments": [
+        {
+            "id": "5382",
+            "name": "Compo Cup 2025",
+            "season": 2025,
+            "dm": false
+        },
+        {
+            "id": "5366",
+            "name": "Stockholmsmästerskapet 2025",
+            "season": 2025,
+            "dm": true
+        },
+        {
+            "id": "5383",
+            "name": "Stockholmsmästerskapet i blixt 2025",
+            "season": 2025,
+            "dm": true
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://member.schack.se/public/api/v1/ratinglist/district/5821/date/2025-01-01/ratingtype/1/category/0",
+  "status": 200,
+  "content_type": "application/json",
+  "retrieved_utc": "2026-10-25T17:59:38.497960+01:00",
+  "sha256": "a08a934a33f313c80574e0b7248c2673b0966e1a4e8fa1755b9009c58657a5af"
+}

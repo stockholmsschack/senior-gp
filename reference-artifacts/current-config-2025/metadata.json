@@ -1,0 +1,14 @@
+{
+  "season": 2025,
+  "captured_local_time": "2026-10-25T17:59:18.765354",
+  "captured_utc": "2026-10-25T16:59:18.765533+00:00",
+  "git_head": "7d43d620922916a56f56286bb40e20ff73713720",
+  "source": "working tree snapshot, including uncommitted changes",
+  "packages": {
+    "requests": "2.32.5",
+    "polars": "1.38.1",
+    "xlrd": "2.0.2",
+    "xlsxwriter": "3.2.9"
+  },
+  "baseline_status": "current behavior, not human-approved"
+}
